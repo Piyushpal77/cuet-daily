@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CUET-UG Daily Prep | GK & Current Affairs</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <!-- Top Header -->
+    <header class="topbar">
+      <div class="topbar-inner">
+        <div class="brand">
+          <div class="brand-badge">CUET</div>
+          <div>
+            <h1>CUET-UG Daily Prep</h1>
+            <p class="subtitle">General Aptitude Test · GK &amp; Current Affairs</p>
+          </div>
+        </div>
+        <div class="topbar-actions">
+          <select id="daySelect" class="day-select" aria-label="Select study day"></select>
+          <button id="themeToggle" class="icon-btn" title="Toggle dark mode" aria-label="Toggle dark mode">🌙</button>
+        </div>
+      </div>
+
+      <!-- Progress Strip -->
+      <div class="progress-strip">
+        <div class="stat-pill">🔥 Streak: <strong id="streakCount">0</strong>d</div>
+        <div class="stat-pill">📰 Read: <strong id="readCount">0/0</strong></div>
+        <div class="stat-pill">📝 Best Quiz: <strong id="bestScore">—</strong></div>
+        <div class="stat-pill">🔖 Saved: <strong id="savedCount">0</strong></div>
+      </div>
+
+      <!-- Navigation Tabs -->
+      <nav class="tabs" role="tablist">
+        <button class="tab-btn active" data-tab="current-affairs" role="tab">📰 Current Affairs</button>
+        <button class="tab-btn" data-tab="static-gk" role="tab">📚 Static GK (10)</button>
+        <button class="tab-btn" data-tab="quiz" role="tab">✍️ 50 MCQs</button>
+        <button class="tab-btn" data-tab="saved" role="tab">🔖 Revision</button>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <!-- Tab 1: Current Affairs -->
+      <section id="tab-current-affairs" class="tab-panel active">
+        <div class="section-header">
+          <div>
+            <h2 id="caTitle">Today's Current Affairs</h2>
+            <p class="muted" id="caSubtitle">Curated for CUET-UG General Aptitude Test</p>
+          </div>
+          <div class="filter-row" id="caFilters"></div>
+        </div>
+        <div id="caList" class="card-grid"></div>
+      </section>
+
+      <!-- Tab 2: Static GK -->
+      <section id="tab-static-gk" class="tab-panel">
+        <div class="section-header">
+          <div>
+            <h2>Static GK — 10 Comprehensive Modules</h2>
+            <p class="muted">10 high-yield CUET pillars — 150+ study points &amp; 60+ flashcards</p>
+          </div>
+        </div>
+        <div id="gkContainer" class="stack"></div>
+      </section>
+
+      <!-- Tab 3: 20 MCQs -->
+      <section id="tab-quiz" class="tab-panel">
+        <div class="quiz-header-card">
+          <div>
+            <h2>CUET-UG Practice Test (50 Questions)</h2>
+            <p class="muted">NTA Marking: <strong>+5</strong> correct · <strong>-1</strong> wrong · <strong>0</strong> skipped (Max 250)</p>
+          </div>
+          <div class="quiz-mode-controls">
+            <button id="practiceModeBtn" class="mode-btn active">Practice Mode (Instant Answers)</button>
+            <button id="examModeBtn" class="mode-btn">⏱️ Timed Exam Mode (50 min)</button>
+          </div>
+        </div>
+
+        <div id="examBar" class="exam-bar hidden">
+          <div class="timer-box">⏱️ Time Left: <strong id="timerDisplay">20:00</strong></div>
+          <div class="exam-actions">
+            <button id="submitExamBtn" class="primary-btn">Submit Test</button>
+            <button id="resetQuizBtn" class="secondary-btn">Reset</button>
+          </div>
+        </div>
+
+        <div id="quizSummary" class="summary-card hidden"></div>
+        <div id="questionPalette" class="palette-bar"></div>
+        <div id="quizContainer" class="stack"></div>
+      </section>
+
+      <!-- Tab 4: Revision / Saved -->
+      <section id="tab-saved" class="tab-panel">
+        <div class="section-header">
+          <div>
+            <h2>Saved Bookmarks &amp; Score History</h2>
+            <p class="muted">Review important facts and track daily test scores</p>
+          </div>
+          <button id="clearSavedBtn" class="secondary-btn">Clear Bookmarks</button>
+        </div>
+        <div id="scoreHistory" class="card" style="margin-bottom: 16px;"></div>
+        <div id="savedList" class="stack"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data/modules.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
