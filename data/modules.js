@@ -2,6 +2,1284 @@
 // Newest day appears first. Automatically updated daily at 7:00 AM IST.
 window.CUET_MODULES = [
   {
+    date: "2026-11-13",
+    displayDate: "13 Nov 2026",
+    theme: "Visa Reform, Earthshot & Infosys Prizes, Shooting Quota, Space & World Pneumonia Day",
+    currentAffairs: [
+      {
+        id: "ca-20261113-1",
+        category: "Important Days",
+        title: "World Pneumonia Day Observed on 12 November 2026",
+        summary:
+          "World Pneumonia Day was observed globally on November 12, 2026 to accelerate action against the leading infectious killer of children under five.",
+        keyPoints: [
+          "The 2026 theme is 'A New Era of Pneumonia Control', coordinated by the Every Breath Counts Coalition.",
+          "Pneumonia remains a top preventable cause of under-five child mortality worldwide, preventable via Pneumococcal Conjugate Vaccine (PCV).",
+          "In India, the Ministry of Health runs the SAANS campaign ('Social Awareness and Action to Neutralise Pneumonia Successfully').",
+          "World Pneumonia Day was first established in 2009 by the Global Coalition against Child Pneumonia."
+        ],
+        examTip:
+          "Remember full forms for CUET: SAANS (Social Awareness and Action to Neutralise Pneumonia Successfully) and PCV (Pneumococcal Conjugate Vaccine)."
+      },
+      {
+        id: "ca-20261113-2",
+        category: "Important Days",
+        title: "Public Service Broadcasting Day Commemorated on 12 November",
+        summary:
+          "India observed Public Service Broadcasting Day on November 12 to honour Mahatma Gandhi's historic visit to All India Radio (AIR), Delhi.",
+        keyPoints: [
+          "Marks Mahatma Gandhi's first and only visit to the All India Radio studio in Delhi on November 12, 1947.",
+          "On that day, Gandhi addressed displaced people (refugees) from Pakistan temporarily housed at Kurukshetra camp.",
+          "All India Radio (Akashvani) operates under Prasar Bharati, India's public service broadcaster established in 1997."
+        ],
+        examTip:
+          "Know Prasar Bharati: India's autonomous public broadcaster overseeing both Akashvani (AIR) and Doordarshan (DD)."
+      },
+      {
+        id: "ca-20261113-3",
+        category: "Polity & Governance",
+        title: "MHA Rolls Out Rationalized Visa Framework (13 Categories Cut to 9)",
+        summary:
+          "The Ministry of Home Affairs (MHA) unveiled a simplified visa architecture to boost ease of business, tourism, and medical travel into India.",
+        keyPoints: [
+          "Primary visa categories were streamlined from 13 down to 9.",
+          "Sub-categories were sharply reduced from 49 to 23, cutting application form fields by 65–70%.",
+          "Designed to make India more competitive for foreign investors, tourists, researchers, and medical visitors."
+        ],
+        examTip:
+          "Visa & Immigration policy in India falls under the Ministry of Home Affairs (MHA), while passports are issued by the Ministry of External Affairs (MEA)."
+      },
+      {
+        id: "ca-20261113-4",
+        category: "National & Heritage",
+        title: "CCEA Clears ₹3,230 Cr Yuge Yugeen Bharat Museum (1.78 Lakh Sq M)",
+        summary:
+          "Chaired by PM Narendra Modi, the Cabinet Committee on Economic Affairs (CCEA) approved the detailed blueprint for the Yuge Yugeen Bharat Museum.",
+        keyPoints: [
+          "Approved outlay of ₹3,230 crore under the Ministry of Culture.",
+          "Will span over 1.78 lakh square metres across the historic North and South Block Complex in New Delhi.",
+          "Designed to showcase over 5,000 years of Indian civilizational heritage across thematic galleries."
+        ],
+        examTip:
+          "North and South Blocks on Raisina Hill were originally designed by Sir Edwin Lutyens and Sir Herbert Baker."
+      },
+      {
+        id: "ca-20261113-5",
+        category: "Polity & Governance",
+        title: "Supreme Court Clarifies OBC Non-Creamy Layer (NCL) Determination",
+        summary:
+          "The Supreme Court issued a key clarification protecting OBC candidates from rigid mechanical clubbing of parental incomes.",
+        keyPoints: [
+          "Clarified that parental salary and agricultural income cannot be mechanically clubbed together for the OBC Creamy Layer wealth/income test.",
+          "Emphasized that determinations must rely on the status and category of posts held rather than rigid salary thresholds alone.",
+          "Reinforces the 1992 Indra Sawhney judgment principles governing reservation equity."
+        ],
+        examTip:
+          "Article 342A deals with the Central List of Socially and Educationally Backward Classes (SEBCs), amended by the 105th Constitutional Amendment Act (2021)."
+      },
+      {
+        id: "ca-20261113-6",
+        category: "Government Schemes",
+        title: "Rural 4G Connectivity Gap Drops 75% to 11,372 Villages",
+        summary:
+          "New government telecom data showed a massive leap in rural digital inclusion across India's remote villages.",
+        keyPoints: [
+          "Number of Indian villages without 4G mobile connectivity dropped by 75% down to 11,372.",
+          "Driven by the Digital Bharat Nidhi (formerly Universal Service Obligation Fund — USOF) 4G Saturation Project.",
+          "Complements the Amended BharatNet rollout connecting Gram Panchayats with optical fibre broadband."
+        ],
+        examTip:
+          "Universal Service Obligation Fund (USOF) was recently renamed 'Digital Bharat Nidhi' under the Telecommunications Act, 2023."
+      },
+      {
+        id: "ca-20261113-7",
+        category: "Government Schemes",
+        title: "Stand-Up India Extension Backed by ₹4,111 Crore Corpus Until 2031",
+        summary:
+          "Further details of the Stand-Up India extension confirmed a ₹4,111 crore financial allocation to empower SC, ST, and women founders.",
+        keyPoints: [
+          "Extended until March 31, 2031 with a total financial corpus of ₹4,111 crore.",
+          "Provides composite bank loans from ₹10 lakh to ₹1 crore for greenfield enterprises in manufacturing, services, or trading.",
+          "Targets at least 2.5 lakh additional Women, SC, and ST entrepreneurs."
+        ],
+        examTip:
+          "Greenfield enterprise = a brand-new venture started from scratch (as opposed to brownfield, which expands an existing facility)."
+      },
+      {
+        id: "ca-20261113-8",
+        category: "Economy & Banking",
+        title: "RBI Extends Abhyudaya Co-operative Bank Supersession Under BR Act 1949",
+        summary:
+          "The Reserve Bank of India exercised its statutory powers to continue oversight over Mumbai-based Abhyudaya Co-operative Bank.",
+        keyPoints: [
+          "Extended board supersession for another year effective November 24, 2026 in the interest of depositors.",
+          "Action taken under the Banking Regulation Act, 1949 (Section 36AAA / Co-operative bank provisions).",
+          "Shri Satya Prakash Pathak continues as the RBI-appointed Administrator."
+        ],
+        examTip:
+          "Urban Co-operative Banks (UCBs) are regulated by the RBI under the Banking Regulation (Amendment) Act, 2020."
+      },
+      {
+        id: "ca-20261113-9",
+        category: "Economy & Banking",
+        title: "Decent Work Index (DWI) & PLFS Highlight Job Quality Focus",
+        summary:
+          "New labour analyses using Periodic Labour Force Survey (PLFS) datasets highlighted India's shift toward measuring job quality alongside employment rates.",
+        keyPoints: [
+          "India's headline unemployment rate dropped notably to 3.2% in recent PLFS cycles.",
+          "The Decent Work Index (DWI) evaluates employment quality across fair income, job security, and formal social security coverage.",
+          "PLFS is conducted by the National Statistical Office (NSO) under MoSPI."
+        ],
+        examTip:
+          "Know the two main labour agencies: NSO (conducts PLFS) and EPFO (tracks formal payroll social security additions)."
+      },
+      {
+        id: "ca-20261113-10",
+        category: "Defence & Security",
+        title: "Pan-India Coastal Security Exercise 'Sea Vigil-26' Tests EEZ Readiness",
+        summary:
+          "India's largest coastal defence drill 'Sea Vigil-26' brought together Navy, Coast Guard, and state marine police across the coastline.",
+        keyPoints: [
+          "Evaluates maritime security architecture, coastal asset protection, and multi-agency coordination across India's 7,516.6 km coastline and Exclusive Economic Zone (EEZ).",
+          "Involves the Indian Navy, Indian Coast Guard, Coastal Police, Customs, and Port Authorities.",
+          "Conceived after the 2008 Mumbai terror attacks to plug coastal security gaps."
+        ],
+        examTip:
+          "Under UNCLOS (UN Convention on the Law of the Sea), a country's Exclusive Economic Zone (EEZ) extends up to 200 nautical miles from the baseline."
+      },
+      {
+        id: "ca-20261113-11",
+        category: "Science & Space",
+        title: "India–Italy Science & Technology Dialogue Held During Minister's Visit",
+        summary:
+          "Union Science & Technology Minister Dr. Jitendra Singh visited Italy to expand bilateral R&D collaboration.",
+        keyPoints: [
+          "Held high-level talks in Rome with Italian Minister Anna Maria Bernini under the India–Italy Science & Technology Dialogue.",
+          "Focused on joint research in clean energy, quantum technologies, AI, biotechnology, and space applications.",
+          "Italy is a founding member of the European Union and G7 (Capital: Rome; Currency: Euro)."
+        ],
+        examTip:
+          "Know the G7 countries: USA, UK, France, Germany, Italy, Japan, and Canada."
+      },
+      {
+        id: "ca-20261113-12",
+        category: "Science & Space",
+        title: "ISRO Tests GSLV-F19 Cryogenic Engine for 2027 NVS-04 Launch",
+        summary:
+          "ISRO cleared a 200-second flight acceptance hot test of its indigenous cryogenic engine at Mahendragiri, Tamil Nadu.",
+        keyPoints: [
+          "The cryogenic engine powers the upper stage of the GSLV-F19 rocket.",
+          "GSLV-F19 is slated to launch the NVS-04 navigation satellite in 2027 to strengthen NavIC.",
+          "Cryogenic engines burn super-cooled Liquid Hydrogen (fuel) and Liquid Oxygen (oxidizer)."
+        ],
+        examTip:
+          "Remember cryogenic propellants: Liquid Hydrogen (LH₂ at -253°C) and Liquid Oxygen (LOX at -183°C)."
+      },
+      {
+        id: "ca-20261113-13",
+        category: "Science & Space",
+        title: "China Launches 4 Satellites Aboard CERES-2 Y3 Rocket from Jiuquan",
+        summary:
+          "China completed a multi-satellite launch into Sun-synchronous orbit using the CERES-2 Y3 carrier rocket.",
+        keyPoints: [
+          "Launched from the Jiuquan Satellite Launch Center in northwestern China.",
+          "Carried four satellites, including Guanlan, Yunyao-1 28, and Zhongbei Daxue-1.",
+          "Sun-synchronous orbits (SSO) allow Earth-observation satellites to pass over a region at the same local solar time daily."
+        ],
+        examTip:
+          "Know major global launchports: Sriharikota (India), Kennedy Space Center (USA), Baikonur (Kazakhstan), Kourou (French Guiana), Jiuquan (China)."
+      },
+      {
+        id: "ca-20261113-14",
+        category: "Sports & Awards",
+        title: "Infosys Prize 2026 Laureates Announced Across 6 Research Categories",
+        summary:
+          "The Infosys Science Foundation (ISF) announced the 2026 Infosys Prize winners celebrating top researchers in science and humanities.",
+        keyPoints: [
+          "Awarded across six categories: Economics, Engineering & Computer Science, Humanities & Social Sciences, Life Sciences, Mathematical Sciences, and Physical Sciences.",
+          "Riddhipratim Basu (ICTS-TIFR, Bengaluru) was among the distinguished 2026 laureates.",
+          "Instituted in 2009, the prize honours researchers of Indian origin or working in India."
+        ],
+        examTip:
+          "ICTS-TIFR stands for International Centre for Theoretical Sciences – Tata Institute of Fundamental Research (Bengaluru)."
+      },
+      {
+        id: "ca-20261113-15",
+        category: "Sports & Awards",
+        title: "Two Indian Initiatives Named Earthshot Prize 2026 Finalists (Mumbai Host)",
+        summary:
+          "Two Indian climate innovators reached the top 15 global finalists for the 6th edition of Prince William's Earthshot Prize.",
+        keyPoints: [
+          "Mahila Housing Trust (Ahmedabad) was nominated for community-led urban heat-resilience models.",
+          "Mahindra Last Mile Mobility was nominated for accelerating electric three-wheeler clean transport adoption.",
+          "The 6th Earthshot Prize awards ceremony is scheduled to be held in Mumbai on November 17, 2026."
+        ],
+        examTip:
+          "Earthshot Prize awards £1 million each to 5 winners annually across 5 'Earthshots' (Nature, Clean Air, Oceans, Waste-free, Climate)."
+      },
+      {
+        id: "ca-20261113-16",
+        category: "Sports & Awards",
+        title: "Shooter Vivaan Kapoor Wins Silver at ISSF Worlds & 2028 Olympic Quota",
+        summary:
+          "Indian shotgun shooter Vivaan Kapoor delivered a podium finish at the ISSF World Championships 2026 in Doha, Qatar.",
+        keyPoints: [
+          "Won the Silver medal in the men's trap shooting event at Doha.",
+          "Secured an official Olympic quota place for India for the 2028 Los Angeles Summer Olympics.",
+          "ISSF (International Shooting Sport Federation) is headquartered in Munich, Germany."
+        ],
+        examTip:
+          "Remember upcoming Summer Olympic hosts: 2028 = Los Angeles (USA); 2032 = Brisbane (Australia)."
+      },
+      {
+        id: "ca-20261113-17",
+        category: "Sports & Awards",
+        title: "French Sport Days 2026 & IBM Sports Tech Startup Prize 2026",
+        summary:
+          "International sports-tech partnerships expanded in India alongside global recognition for AI-driven fan engagement.",
+        keyPoints: [
+          "Business France launched 'French Sport Days 2026' in India, connecting French sports-infrastructure experts with India's 2030 CWG and Olympic ambitions.",
+          "LivXP won the IBM Sports Tech Startup Prize Challenge at Web Summit Lisbon for using agentic AI in sports fan engagement.",
+          "Paris hosted the 2024 Summer Olympics; Ahmedabad will host the 2030 Commonwealth Games."
+        ],
+        examTip:
+          "Web Summit is one of the world's largest annual technology conferences, held in Lisbon, Portugal."
+      },
+      {
+        id: "ca-20261113-18",
+        category: "Economy & Banking",
+        title: "Semicon 2.0 ECMS Clears First Upstream Critical Materials Projects",
+        summary:
+          "Under the ₹1.27 lakh crore India Semiconductor Mission, 12 new Electronics Components Manufacturing Scheme (ECMS) projects were cleared.",
+        keyPoints: [
+          "First-time domestic approvals granted for copper foil, cathode active materials, and specialty ceramics.",
+          "Complements the Semicon 2.0 Portal launched by MeitY Minister Ashwini Vaishnaw.",
+          "Reduces India's import bill for high-value electronics and EV battery sub-components."
+        ],
+        examTip:
+          "Copper is the primary conductor in PCBs; Lithium/Cobalt/Nickel form cathode active materials in Li-ion batteries."
+      },
+      {
+        id: "ca-20261113-19",
+        category: "International & Indices",
+        title: "India Retains 38th Spot in WIPO GII 2026 & Leads ISA for 2026–28",
+        summary:
+          "Global rankings and renewable energy diplomacy underscored India's rising innovation and clean-tech profile.",
+        keyPoints: [
+          "Ranked 38th globally (score 40.1) in the 19th WIPO Global Innovation Index 2026.",
+          "Re-elected President of the International Solar Alliance (2026–2028) at the 9th ISA Assembly in New Delhi.",
+          "IEA launched 'India RE Market Report 2026: Analysis and Forecast to 2030'."
+        ],
+        examTip:
+          "WIPO HQ = Geneva, Switzerland; IEA HQ = Paris, France; ISA HQ = Gurugram, India."
+      },
+      {
+        id: "ca-20261113-20",
+        category: "National & Heritage",
+        title: "UNESCO GEM 2026 Report Highlights Women's Higher Ed Lead in India",
+        summary:
+          "UNESCO's Global Education Monitoring (GEM) Report 2026 spotlighted encouraging gender trends alongside rural secondary gaps.",
+        keyPoints: [
+          "Indian women have outpaced men in higher education enrollments (Gross Enrolment Ratio trends).",
+          "Persistent rural-urban divides continue to affect secondary school completion rates for rural girls.",
+          "India's National Education Policy (NEP 2020) targets a 50% Gross Enrolment Ratio (GER) in higher education by 2035."
+        ],
+        examTip:
+          "NEP 2020 replaced the 1986 policy and introduced the 5+3+3+4 curricular structure (replacing 10+2)."
+      }
+    ],
+    staticGK: [
+      {
+        id: "gk-20261113-1",
+        title: "Indian Polity: Union Executive, Parliament Procedures & Emergencies",
+        tag: "Polity & Constitution",
+        overview:
+          "Deep dive into Presidential powers, Parliamentary tools, Council of Ministers, and Emergency provisions frequently tested in CUET.",
+        points: [
+          "Ordinance Power (Article 123): President can promulgate an ordinance when Parliament is not in session; it must be approved within 6 weeks of reassembly. Governor's ordinance power is Article 213.",
+          "Pardoning Power (Article 72): President can grant pardon, reprieve, respite, remission, or commutation (including death sentences); Governor's power (Article 161) excludes death sentence pardons.",
+          "Veto Powers of President (Article 111): Absolute Veto, Suspensive Veto (cannot be used on Money Bills), and Pocket Veto (used by Giani Zail Singh on the Indian Post Office Bill, 1986).",
+          "Vice President of India (Articles 63–71): Ex-officio Chairman of the Rajya Sabha; elected by all MPs (both elected and nominated) of Lok Sabha and Rajya Sabha.",
+          "Prime Minister & Council of Ministers (Articles 74–75): Collectively responsible to the Lok Sabha; total ministers capped at 15% of Lok Sabha strength (91st Amendment Act, 2003).",
+          "Attorney General of India (Article 76): Highest law officer of India; appointed by the President; can participate in Parliamentary proceedings without voting rights.",
+          "Parliamentary Devices: Question Hour (first hour: Starred = oral answer, Unstarred = written answer, Short Notice); Zero Hour (Indian innovation since 1962, follows Question Hour).",
+          "Motions in Parliament: No-Confidence Motion (only in Lok Sabha, needs 50 MPs' support; if passed, entire Council of Ministers resigns); Adjournment Motion (urgent public importance).",
+          "Joint Sitting of Parliament (Article 108): Summoned by the President to resolve deadlocks on Ordinary Bills; presided over by the Speaker of Lok Sabha (never used for Money or Constitutional Amendment Bills).",
+          "Anti-Defection Law (10th Schedule, 52nd Amendment 1985): Disqualification decided by the Presiding Officer (Speaker/Chairman), subject to judicial review (Kihoto Hollohan case).",
+          "National Emergency (Article 352): Proclaimed on grounds of War, External Aggression, or Armed Rebellion ('Internal Disturbance' was replaced by 'Armed Rebellion' via 44th Amendment, 1978).",
+          "President's Rule (Article 356): Imposed on failure of constitutional machinery in a state; max duration generally 3 years with Parliamentary approval every 6 months.",
+          "Financial Emergency (Article 360): Never imposed in India so far.",
+          "Constitutional Amendment Procedure (Article 368): Borrowed from South Africa; three types (Simple Majority, Special Majority, Special Majority + 50% State Ratification).",
+          "Inter-State Council (Article 263): Established in 1990 on the recommendation of the Sarkaria Commission, chaired by the Prime Minister."
+        ],
+        flashcards: [
+          { q: "Under which Article can the President of India issue an Ordinance?", a: "Article 123 (Governor's ordinance power is Article 213)." },
+          { q: "Who presides over a Joint Sitting of Parliament under Article 108?", a: "The Speaker of the Lok Sabha." },
+          { q: "Which Amendment replaced 'Internal Disturbance' with 'Armed Rebellion' in Article 352?", a: "44th Constitutional Amendment Act, 1978." },
+          { q: "Who is the ex-officio Chairman of the Rajya Sabha?", a: "The Vice President of India." },
+          { q: "What is the maximum strength of the Union Council of Ministers (91st Amendment)?", a: "15% of the total strength of the Lok Sabha." },
+          { q: "Which Emergency under the Indian Constitution has never been imposed?", a: "Financial Emergency (Article 360)." }
+        ]
+      },
+      {
+        id: "gk-20261113-2",
+        title: "Indian History: Social Reformers, Governor-Generals & Bhakti-Sufi",
+        tag: "History & Culture",
+        overview:
+          "Must-know 19th-century socio-religious movements, British Governor-Generals/Viceroys, and Bhakti/Sufi saints.",
+        points: [
+          "Raja Ram Mohan Roy ('Father of Indian Renaissance'): Founded Atmiya Sabha (1815) and Brahmo Samaj (1828); helped abolish Sati in 1829 with Lord William Bentinck; published 'Samvad Kaumudi'.",
+          "Swami Dayananda Saraswati: Founded Arya Samaj (1875, Bombay); gave the slogan 'Go Back to the Vedas'; authored 'Satyarth Prakash'.",
+          "Swami Vivekananda: Disciple of Ramakrishna Paramahamsa; delivered the famous 1893 Chicago Parliament of Religions speech; founded Ramakrishna Mission (1897).",
+          "Jyotirao Phule: Founded Satyashodhak Samaj (1873, Pune) for social equality; authored 'Gulamgiri'; Savitribai Phule opened India's first girls' school in Pune (1848).",
+          "Other Key Reformers: Ishwar Chandra Vidyasagar (Widow Remarriage Act, 1856); Sir Syed Ahmed Khan (Aligarh Movement / MAO College, 1875); Annie Besant & H.S. Olcott (Theosophical Society).",
+          "Warren Hastings: First Governor-General of Bengal (Regulating Act 1773); abolished Dual System of Government.",
+          "Lord Cornwallis: Introduced Permanent Settlement of Bengal (1793) and known as 'Father of Civil Services in India'.",
+          "Lord William Bentinck: First Governor-General of India (Charter Act 1833); abolished Sati (1829) and suppressed Thuggee.",
+          "Lord Dalhousie: Introduced Doctrine of Lapse (Satara, Jhansi, Nagpur); started India's first Railway (Bombay to Thane, 1853), Telegraph, and Postal system.",
+          "Lord Canning: Last Governor-General and First Viceroy of India (1858); Revolt of 1857 occurred during his tenure.",
+          "Lord Ripon ('Father of Local Self-Government'): Repealed Vernacular Press Act (1882), introduced Ilbert Bill (1883), and first regular Census (1881).",
+          "Lord Mountbatten: Last Viceroy of British India and first Governor-General of independent India; C. Rajagopalachari was the first and only Indian Governor-General.",
+          "Bhakti Saints: Kabir (Bijak, Nirguna bhakti), Guru Nanak (founder of Sikhism, Langar), Mirabai (devotee of Krishna), Tulsidas (Ramcharitmanas in Awadhi), Chaitanya Mahaprabhu (Bengal).",
+          "Sufi Orders in India: Chishti Order (Khwaja Moinuddin Chishti at Ajmer, Nizamuddin Auliya at Delhi) and Suhrawardi Order."
+        ],
+        flashcards: [
+          { q: "Who founded the Brahmo Samaj (1828) and helped abolish Sati (1829)?", a: "Raja Ram Mohan Roy (with Lord William Bentinck)." },
+          { q: "Who wrote 'Gulamgiri' and founded the Satyashodhak Samaj in 1873?", a: "Jyotirao Phule." },
+          { q: "Which Viceroy is known as the 'Father of Local Self-Government' in India?", a: "Lord Ripon." },
+          { q: "During whose tenure did India's first railway line (Bombay–Thane, 1853) open?", a: "Lord Dalhousie." },
+          { q: "Who authored 'Satyarth Prakash' and founded Arya Samaj?", a: "Swami Dayananda Saraswati." },
+          { q: "Where is the Dargah of Khwaja Moinuddin Chishti located?", a: "Ajmer, Rajasthan." }
+        ]
+      },
+      {
+        id: "gk-20261113-3",
+        title: "Indian & World Geography: Crops, Minerals, Deserts & Mountains",
+        tag: "Geography",
+        overview:
+          "Core economic and physical geography: India's cropping seasons, major mines, world deserts, mountain ranges, and ocean currents.",
+        points: [
+          "Cropping Seasons in India: Kharif (sown June–July, harvested Sept–Oct: Rice, Maize, Cotton, Jute, Soybean); Rabi (sown Oct–Dec, harvested March–April: Wheat, Barley, Mustard, Gram); Zaid (March–June: Watermelon, Cucumber).",
+          "Leading Crop Producers in India: Rice (West Bengal), Wheat & Sugarcane (Uttar Pradesh), Cotton & Groundnut (Gujarat), Tea (Assam), Coffee & Ragi (Karnataka), Spices/Rubber (Kerala).",
+          "Major Mineral Belts in India: Chota Nagpur Plateau ('Ruhr of India' — Coal, Iron, Mica); Jaduguda (Jharkhand — Uranium); Khetri (Rajasthan — Copper); Bailadila (Chhattisgarh — Iron ore); Panna (MP — Diamond); Digboi (Assam — oldest oilfield, 1901).",
+          "Kolar & Hutti Gold Mines: Located in Karnataka.",
+          "Major World Mountain Ranges: Andes (South America — longest mountain range), Himalayas (Asia — highest: Mt. Everest 8,848.86 m), Alps (Europe), Rockies (North America), Urals (separates Europe & Asia), Atlas (NW Africa).",
+          "Major World Deserts: Sahara (Africa — largest hot desert), Antarctica (largest cold desert), Atacama (Chile — driest non-polar desert), Gobi (China/Mongolia), Kalahari (Southern Africa), Thar (India/Pakistan).",
+          "Major Grasslands of the World: Prairies (North America), Pampas (Argentina/South America), Steppes (Eurasia), Savanna (Africa), Veld (South Africa), Downs (Australia).",
+          "Major World Rivers: Nile (longest river in Africa/world), Amazon (largest by water volume, South America), Yangtze (longest in Asia), Danube (flows through most countries in Europe).",
+          "Ocean Currents: Warm currents (Gulf Stream, Kuroshio, Brazil); Cold currents (Labrador, Humboldt/Peru, Benguela, Canary). Mixing of warm & cold currents creates rich fishing grounds.",
+          "Earth's Interior Layers: Crust (SiAl — Silica + Aluminium), Mantle (SiMa — Silica + Magnesium), Core (NiFe — Nickel + Iron).",
+          "Types of Rocks: Igneous (Granite, Basalt — primary rocks), Sedimentary (Limestone, Sandstone, Coal — contain fossils), Metamorphic (Marble from Limestone, Slate from Shale, Diamond from Coal).",
+          "Earthquake Waves & Scales: Seismograph records waves; Richter Scale measures magnitude (energy), Mercalli Scale measures intensity (damage)."
+        ],
+        flashcards: [
+          { q: "Which plateau is known as the 'Ruhr of India' for its rich mineral deposits?", a: "Chota Nagpur Plateau (Jharkhand & adjoining states)." },
+          { q: "Where is India's oldest oilfield (1901) located?", a: "Digboi, Assam." },
+          { q: "Which is the longest mountain range in the world?", a: "Andes Mountains (South America)." },
+          { q: "Match 'Pampas' and 'Downs' grasslands to their regions.", a: "Pampas = Argentina (South America); Downs = Australia." },
+          { q: "Which uranium mine in Jharkhand is India's most famous?", a: "Jaduguda." },
+          { q: "What are the three chemical layers of Earth's interior (Crust, Mantle, Core)?", a: "Crust = SiAl, Mantle = SiMa, Core = NiFe." }
+        ]
+      },
+      {
+        id: "gk-20261113-4",
+        title: "General Science: Optics, Electricity, Genetics, Ecology & Ores",
+        tag: "Science & Tech",
+        overview:
+          "High-yield Physics, Chemistry, Genetics, and Environmental Science concepts regularly asked in CUET.",
+        points: [
+          "Eye Defects & Lenses: Myopia (near-sightedness — corrected by Concave lens); Hypermetropia (far-sightedness — corrected by Convex lens); Presbyopia (Bifocal lens); Astigmatism (Cylindrical lens).",
+          "Optical Phenomena: Sky looks blue & sunset looks red due to Scattering of Light (Rayleigh scattering); Twinkling of stars = Atmospheric Refraction; Rainbow = Dispersion, Refraction & Total Internal Reflection; Optical Fibre works on Total Internal Reflection (TIR).",
+          "Electricity Basics: Ohm's Law (V = IR); Electric Fuse wire has high resistance and low melting point (Tin-Lead alloy); Tungsten is used in bulb filaments (high melting point); Nichrome is used in heater coils.",
+          "Transformers & Generators: Transformer works on Mutual Induction (changes AC voltage only, not DC); Dynamo converts Mechanical energy to Electrical energy.",
+          "Periodic Table Facts: Total 118 elements; Noble Gases (Group 18: He, Ne, Ar, Kr, Xe, Rn — inert); Halogens (Group 17: F, Cl, Br, I; Bromine is the only liquid non-metal).",
+          "Important Metals & Their Ores: Aluminium = Bauxite; Iron = Hematite & Magnetite; Copper = Copper Pyrites; Lead = Galena; Mercury = Cinnabar; Zinc = Calamine.",
+          "Common Gases: Laughing Gas = Nitrous Oxide (N₂O); Tear Gas = Chloropicrin; Marsh Gas / Biogas main component = Methane (CH₄); LPG = Butane + Propane; CNG = Methane.",
+          "Cell Biology & Genetics: Mitochondria = 'Powerhouse of the cell' (ATP); Ribosome = Protein factory; Lysosome = 'Suicidal bag'; Gregor Mendel = Father of Genetics (worked on pea plants); DNA double helix discovered by Watson & Crick (1953).",
+          "Human Brain & Hormones: Cerebrum (memory/intelligence), Cerebellum (balance/posture), Medulla Oblongata (involuntary actions like breathing/heartbeat). Insulin (Pancreas) lowers blood sugar; Adrenaline = 'Fight or Flight' hormone.",
+          "Greenhouse Gases & Global Warming: CO₂, Methane (CH₄), Nitrous Oxide (N₂O), Water Vapour, Ozone, CFCs. Kyoto Protocol (1997) targets greenhouse gases; Montreal Protocol (1987) protects the Ozone layer by phasing out CFCs.",
+          "Acid Rain & Eutrophication: Acid rain is caused by Sulphur Dioxide (SO₂) and Nitrogen Oxides (NOₓ) forming H₂SO₄ and HNO₃; Eutrophication = algal bloom in water bodies from excess nitrates/phosphates.",
+          "Sound Decibels & Frequency: Human audible range = 20 Hz to 20,000 Hz; >20,000 Hz = Ultrasonic (used by bats, SONAR); <20 Hz = Infrasonic."
+        ],
+        flashcards: [
+          { q: "Which lens corrects Myopia (short-sightedness) vs Hypermetropia?", a: "Myopia: Concave lens; Hypermetropia: Convex lens." },
+          { q: "On which optical principle do Optical Fibres work?", a: "Total Internal Reflection (TIR)." },
+          { q: "Name the main ores of Aluminium, Iron, and Mercury.", a: "Aluminium = Bauxite; Iron = Hematite/Magnetite; Mercury = Cinnabar." },
+          { q: "Which gases are the main constituents of LPG vs CNG?", a: "LPG = Butane & Propane; CNG = Methane (CH₄)." },
+          { q: "Which organelle is called the 'Powerhouse of the cell' vs 'Suicidal bag'?", a: "Powerhouse = Mitochondria; Suicidal bag = Lysosome." },
+          { q: "What is the human audible frequency range?", a: "20 Hz to 20,000 Hz." }
+        ]
+      },
+      {
+        id: "gk-20261113-5",
+        title: "Indian Economy: Fiscal Policy, Budget, Unemployment & Banks",
+        tag: "Economy & Finance",
+        overview:
+          "Key macroeconomic concepts: Union Budget deficits, types of unemployment, development banks (NABARD/SIDBI), and economic curves.",
+        points: [
+          "Union Budget (Article 112): Constitutional term is 'Annual Financial Statement'; presented on 1 February; Railway Budget was merged with Union Budget in 2017 (Bibek Debroy Committee).",
+          "Deficit Concepts: Revenue Deficit = Revenue Expenditure - Revenue Receipts; Fiscal Deficit = Total Expenditure - Total Receipts (excluding borrowings); Primary Deficit = Fiscal Deficit - Interest Payments.",
+          "FRBM Act (2003): Fiscal Responsibility and Budget Management Act aims to bring fiscal discipline and reduce fiscal deficit.",
+          "Disinvestment & Privatization: Disinvestment = selling part of government equity in PSUs (managed by DIPAM under Ministry of Finance).",
+          "Types of Unemployment: Disguised Unemployment (marginal productivity is zero — common in Indian agriculture); Seasonal Unemployment (agriculture/tourism); Structural Unemployment (skill mismatch); Frictional Unemployment (short-term between jobs).",
+          "Poverty & Inequality Measures: Tendulkar Committee & Rangarajan Committee (poverty line estimation); Lorenz Curve & Gini Coefficient (income inequality); Multidimensional Poverty Index (MPI — published by UNDP & OPHI, adapted by NITI Aayog).",
+          "Phillips Curve: Shows an inverse relationship between Inflation and Unemployment in the short run.",
+          "NABARD (Est. July 12, 1982): National Bank for Agriculture and Rural Development (HQ: Mumbai); set up on recommendation of the B. Sivaraman Committee.",
+          "SIDBI (Est. 1990): Small Industries Development Bank of India (HQ: Lucknow) — apex body for MSME financing.",
+          "EXIM Bank (Est. 1982): Export-Import Bank of India (HQ: Mumbai) — promotes foreign trade.",
+          "State Bank of India (SBI): Imperial Bank of India (1921) was nationalized and renamed SBI on July 1, 1955 (HQ: Mumbai).",
+          "14 Major Banks Nationalized: July 19, 1969 (under PM Indira Gandhi); 6 more nationalized in 1980.",
+          "Stock Exchanges in India: BSE (Bombay Stock Exchange, est. 1875 — Asia's oldest, index: SENSEX of 30 companies); NSE (National Stock Exchange, est. 1992, index: NIFTY 50).",
+          "Inflation Types: Demand-Pull (too much money chasing too few goods) vs Cost-Push (rising input/raw material costs); Stagflation = High inflation + High unemployment + Slow growth."
+        ],
+        flashcards: [
+          { q: "What is the constitutional term for the Union Budget under Article 112?", a: "Annual Financial Statement." },
+          { q: "How is Primary Deficit calculated?", a: "Primary Deficit = Fiscal Deficit − Interest Payments." },
+          { q: "Where are the headquarters of NABARD and SIDBI located?", a: "NABARD: Mumbai; SIDBI: Lucknow." },
+          { q: "Which type of unemployment is most common in Indian agriculture?", a: "Disguised Unemployment (and Seasonal Unemployment)." },
+          { q: "Which is Asia's oldest stock exchange and what is its benchmark index?", a: "Bombay Stock Exchange (BSE, est. 1875); index is SENSEX." },
+          { q: "What does 'Stagflation' mean?", a: "Stagnant economic growth combined with high inflation and high unemployment." }
+        ]
+      },
+      {
+        id: "gk-20261113-6",
+        title: "Awards & Sports: Olympic Medalists, Grand Slams & Global Honours",
+        tag: "Awards & Sports",
+        overview:
+          "Key facts on India's Olympic history, the 4 Tennis Grand Slams, and prestigious international awards like Pulitzer, Magsaysay, and Abel.",
+        points: [
+          "Tennis Grand Slams (in yearly order): Australian Open (Jan, Hard court), French Open / Roland Garros (May–June, Clay court), Wimbledon (June–July, Grass court — oldest, 1877), US Open (Aug–Sept, Hard court).",
+          "India's Individual Olympic Medalists (Chronological): K.D. Jadhav (1952 Helsinki, Bronze, Wrestling), Leander Paes (1996, Bronze, Tennis), Karnam Malleswari (2000 Sydney, Bronze — first Indian woman), Rajyavardhan Singh Rathore (2004, Silver), Abhinav Bindra (2008, Gold — first individual Gold).",
+          "Multiple Olympic Medalists for India: Sushil Kumar (2008, 2012), P.V. Sindhu (2016 Silver, 2020 Bronze — first Indian woman with 2 medals), Neeraj Chopra (2020 Gold, 2024 Silver), Manu Bhaker (2024 Paris — two Bronzes in a single Games).",
+          "Pulitzer Prize (est. 1917): Awarded in the USA (Columbia University) for Journalism, Literature, and Musical Composition.",
+          "Ramon Magsaysay Award (est. 1957): Often called 'Asia's Nobel Prize'; first Indian winner was Acharya Vinoba Bhave (1958).",
+          "Mathematics Highest Honours: Abel Prize (Norway — 'Nobel of Mathematics') and Fields Medal (awarded every 4 years to mathematicians under 40).",
+          "Pritzker Prize: Highest international honour in Architecture (B.V. Doshi was the first Indian recipient, 2018).",
+          "Turing Award: Highest honour in Computer Science (often called the 'Nobel Prize of Computing').",
+          "National Sports Federations & Terms: Checkmate/Stalemate/Castling (Chess), Duckworth-Lewis-Stern / Chinaman / Googly (Cricket), Deuce/Love/Ace (Tennis/Badminton), Penalty Corner/Scoop (Hockey).",
+          "Major Stadiums in India: Narendra Modi Stadium (Ahmedabad — world's largest cricket stadium), Eden Gardens (Kolkata), Wankhede (Mumbai), Salt Lake Stadium (Kolkata — football), Kalinga Stadium (Bhubaneswar — hockey)."
+        ],
+        flashcards: [
+          { q: "Who was the first Indian woman to win an Olympic medal?", a: "Karnam Malleswari (2000 Sydney Olympics, Weightlifting Bronze)." },
+          { q: "Which Tennis Grand Slam is played on Clay vs Grass?", a: "Clay: French Open (Roland Garros); Grass: Wimbledon." },
+          { q: "Who was the first Indian recipient of the Ramon Magsaysay Award?", a: "Acharya Vinoba Bhave (1958)." },
+          { q: "Which prize is known as the 'Nobel Prize of Architecture'?", a: "Pritzker Prize (B.V. Doshi won in 2018)." },
+          { q: "Who was the first Indian to win two Olympic medals in a single Games (Paris 2024)?", a: "Manu Bhaker (Shooting)." },
+          { q: "Which award is called the 'Nobel Prize of Computing'?", a: "ACM A.M. Turing Award." }
+        ]
+      },
+      {
+        id: "gk-20261113-7",
+        title: "Books, Authors & Iconic Freedom Slogans of India",
+        tag: "Books & Slogans",
+        overview:
+          "Famous slogans from India's freedom struggle paired with modern Indian & international bestsellers.",
+        points: [
+          "'Swaraj is my birthright and I shall have it' — Bal Gangadhar Tilak.",
+          "'Inquilab Zindabad' — Coined by Maulana Hasrat Mohani, popularized by Bhagat Singh.",
+          "'Do or Die' (Karo ya Maro) & 'Quit India' — Mahatma Gandhi (1942).",
+          "'Give me blood, and I will give you freedom' & 'Delhi Chalo' — Netaji Subhas Chandra Bose.",
+          "'Satyameva Jayate' — Popularized by Pandit Madan Mohan Malaviya (from Mundaka Upanishad).",
+          "'Jai Jawan, Jai Kisan' — Lal Bahadur Shastri (Atal Bihari Vajpayee added 'Jai Vigyan'; PM Modi added 'Jai Anusandhan').",
+          "'Aaram Haram Hai' & 'Tryst with Destiny' — Jawaharlal Nehru.",
+          "Ruskin Bond: 'The Room on the Roof', 'The Blue Umbrella', 'Our Trees Still Grow in Dehra'.",
+          "Amish Tripathi: 'The Immortals of Meluha' (Shiva Trilogy); Sudha Murty: 'Wise and Otherwise', 'Dollar Bahu'.",
+          "Kiran Desai: 'The Inheritance of Loss' (Booker Prize 2006); Aravind Adiga: 'The White Tiger' (Booker Prize 2008).",
+          "Yuval Noah Harari: 'Sapiens: A Brief History of Humankind', 'Homo Deus'; Stephen Hawking: 'A Brief History of Time'.",
+          "R.K. Laxman: Famous Indian cartoonist ('The Common Man'); authored 'The Tunnel of Time'."
+        ],
+        flashcards: [
+          { q: "Who coined the slogan 'Inquilab Zindabad' and who popularized it?", a: "Coined by Maulana Hasrat Mohani; popularized by Bhagat Singh." },
+          { q: "Who wrote 'The White Tiger' (2008 Booker Prize winner)?", a: "Aravind Adiga." },
+          { q: "Who gave the slogan 'Jai Jawan, Jai Kisan'?", a: "Lal Bahadur Shastri." },
+          { q: "Who created the iconic cartoon character 'The Common Man'?", a: "R.K. Laxman." },
+          { q: "Who wrote 'The Room on the Roof' and 'The Blue Umbrella'?", a: "Ruskin Bond." },
+          { q: "Who authored 'Sapiens: A Brief History of Humankind'?", a: "Yuval Noah Harari." }
+        ]
+      },
+      {
+        id: "gk-20261113-8",
+        title: "Important Committees & Commissions in Indian History & Polity",
+        tag: "Committees & Commissions",
+        overview:
+          "CUET loves matching famous Indian committees/commissions to the reforms they recommended.",
+        points: [
+          "Sarkaria Commission (1983) & Punchhi Commission (2007): Centre–State Relations.",
+          "Swaran Singh Committee (1976): Recommended Fundamental Duties (Part IVA, Article 51A).",
+          "Mandal Commission (1979, B.P. Mandal): Recommended 27% reservation for OBCs.",
+          "Balwant Rai Mehta Committee (1957): Recommended 3-tier Panchayati Raj System (first adopted by Nagaur, Rajasthan on Oct 2, 1959).",
+          "Ashok Mehta Committee (1977): Recommended 2-tier Panchayati Raj System.",
+          "Narasimham Committee (1991 & 1998): Banking Sector Reforms in India.",
+          "Vijay Kelkar Committee: Tax Reforms & GST framework / PPP model.",
+          "Kasturirangan Committee: Drafted India's National Education Policy (NEP 2020) and Western Ghats conservation.",
+          "Gadgil Committee (Madhav Gadgil): Western Ghats Ecology Expert Panel.",
+          "Verma Committee (Justice J.S. Verma, 2013): Amendments to Criminal Law for women's safety.",
+          "Fazl Ali Commission (States Reorganisation Commission, 1953): Led to the States Reorganisation Act, 1956 (linguistic reorganization of states; Andhra Pradesh was the first linguistic state in 1953).",
+          "Kothari Commission (1964–66): Education Reforms (10+2+3 pattern)."
+        ],
+        flashcards: [
+          { q: "Which committee recommended the 3-tier Panchayati Raj system (1957)?", a: "Balwant Rai Mehta Committee." },
+          { q: "Which committee drafted India's National Education Policy (NEP 2020)?", a: "Dr. K. Kasturirangan Committee." },
+          { q: "Which commissions examined Centre–State Relations?", a: "Sarkaria Commission (1983) and Punchhi Commission (2007)." },
+          { q: "Which was the first state in India formed on a linguistic basis (1953)?", a: "Andhra Pradesh (followed by States Reorganisation Act 1956)." },
+          { q: "Which committee recommended Fundamental Duties in 1976?", a: "Swaran Singh Committee." },
+          { q: "Narasimham Committee is associated with which sector?", a: "Banking Sector Reforms." }
+        ]
+      },
+      {
+        id: "gk-20261113-9",
+        title: "Languages, UNESCO Intangible Heritage & Martial Arts of India",
+        tag: "Culture & Heritage",
+        overview:
+          "Covers India's Classical Languages, UNESCO Intangible Cultural Heritage list, and traditional martial arts.",
+        points: [
+          "Official Languages (8th Schedule): Originally 14 languages; currently 22 languages (Sindhi added by 21st Amendment 1967; Konkani, Manipuri, Nepali by 71st Amendment 1992; Bodo, Dogri, Maithili, Santhali by 92nd Amendment 2003).",
+          "Classical Languages of India: Tamil (2004 — first), Sanskrit (2005), Kannada & Telugu (2008), Malayalam (2013), Odia (2014), plus Marathi, Pali, Prakrit, Assamese, and Bengali (approved in 2024 — total 11).",
+          "UNESCO Intangible Cultural Heritage from India (15 elements): Includes Tradition of Vedic Chanting, Ramlila, Kutiyattam, Yoga (2016), Kumbh Mela (2017), Durga Puja in Kolkata (2021), and Garba of Gujarat (2023).",
+          "Traditional Martial Arts of India: Kalaripayattu (Kerala — one of the oldest), Silambam (Tamil Nadu), Gatka (Punjab), Thang-Ta (Manipur), Mallakhamb (Maharashtra/MP), Pari-Khanda (Bihar).",
+          "Traditional Puppetry: Kathputli (Rajasthan), Kundhei (Odisha), Togalu Gombeyatta (Karnataka), Bommalattam (Tamil Nadu), Putul Nautch (West Bengal).",
+          "Major Tribes of India: Bhil (largest tribe), Gond, Santhal, Munda, Toda (Nilgiris), Jarawa & Sentinelese (Andaman & Nicobar), Khasi & Garo (Meghalaya), Apatani (Arunachal Pradesh).",
+          "Important Museums & Libraries: Salar Jung Museum (Hyderabad), Indian Museum (Kolkata — oldest & largest, 1814), Victoria Memorial (Kolkata), National Library of India (Kolkata)."
+        ],
+        flashcards: [
+          { q: "How many languages are currently in the 8th Schedule of the Indian Constitution?", a: "22 languages." },
+          { q: "Which was the first language to be declared a Classical Language of India (2004)?", a: "Tamil." },
+          { q: "Which Indian folk dance was inscribed into UNESCO Intangible Cultural Heritage in 2023?", a: "Garba of Gujarat (following Durga Puja in 2021)." },
+          { q: "Match Kalaripayattu, Gatka, and Thang-Ta to their states.", a: "Kalaripayattu = Kerala; Gatka = Punjab; Thang-Ta = Manipur." },
+          { q: "Where is the Salar Jung Museum located?", a: "Hyderabad, Telangana." },
+          { q: "Which is the oldest museum in India (est. 1814)?", a: "Indian Museum, Kolkata." }
+        ]
+      },
+      {
+        id: "gk-20261113-10",
+        title: "Supercomputers, Digital India Platforms & Future Space Missions",
+        tag: "Tech & Digital India",
+        overview:
+          "Modern Indian tech GK covering PARAM supercomputers, Digital Public Infrastructure (DPI), and upcoming ISRO missions.",
+        points: [
+          "Indian Supercomputers: PARAM 8000 (1991, India's first supercomputer developed by C-DAC Pune under Dr. Vijay Bhatkar); AIRAWAT (installed at C-DAC Pune, ranked among world's top AI supercomputers); PARAM Siddhi-AI; Pratyush & Mihir (weather forecasting).",
+          "Digital Public Infrastructure (DPI — 'India Stack'): Aadhaar (UIDAI, 12-digit unique ID), UPI (NPCI, 2016), DigiLocker, CoWIN, ONDC (Open Network for Digital Commerce), Bhashini (AI language translation).",
+          "CERT-In: Indian Computer Emergency Response Team (under MeitY) — national nodal agency for cybersecurity incidents.",
+          "National Quantum Mission (2023–31): ₹6,003.65 crore mission to build quantum computers, quantum communication, and quantum sensors.",
+          "Upcoming ISRO Missions: Gaganyaan (India's first human spaceflight mission, using LVM3 & Vyommitra humanoid robot), Chandrayaan-4 (lunar sample return), Shukrayaan-1 (Venus orbiter), Bharatiya Antariksh Station (BAS — targeted by 2035).",
+          "India's Antarctic & Arctic Research Stations: Antarctica — Dakshin Gangotri (1983, decommissioned), Maitri (1989), Bharati (2012); Arctic — Himadri (Svalbard, Norway).",
+          "National Parks / Ramsar Wetlands Note: India has 85+ Ramsar Wetland sites (highest in Tamil Nadu); Chilika Lake & Keoladeo NP were India's first two Ramsar sites (1981).",
+          "Computer Basics for CUET: CPU = Central Processing Unit; RAM (volatile) vs ROM (non-volatile); 1 Byte = 8 Bits; HTTP/HTTPS, DNS (Domain Name System), URL (Uniform Resource Locator)."
+        ],
+        flashcards: [
+          { q: "Who is regarded as the architect of India's first supercomputer PARAM 8000?", a: "Dr. Vijay Bhatkar (at C-DAC, Pune)." },
+          { q: "Name India's two active research stations in Antarctica and one in the Arctic.", a: "Antarctica: Maitri and Bharati; Arctic: Himadri (Norway)." },
+          { q: "What is 'Vyommitra'?", a: "A half-humanoid robot developed by ISRO for uncrewed Gaganyaan test flights." },
+          { q: "Which agency operates UPI in India?", a: "NPCI (National Payments Corporation of India)." },
+          { q: "How many bits make 1 Byte?", a: "8 Bits (4 Bits = 1 Nibble)." },
+          { q: "Which Indian state has the highest number of Ramsar Wetland sites?", a: "Tamil Nadu." }
+        ]
+      }
+    ],
+    questions: [
+      {
+        id: "q-20261113-1",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "What is the theme of World Pneumonia Day 2026 observed on November 12?",
+        options: [
+          "Stop Pneumonia Now",
+          "A New Era of Pneumonia Control",
+          "Every Breath Counts for Children",
+          "Clean Air, Healthy Lungs"
+        ],
+        answer: 1,
+        explanation: "World Pneumonia Day 2026 was observed on 12 November with the theme 'A New Era of Pneumonia Control'."
+      },
+      {
+        id: "q-20261113-2",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "Public Service Broadcasting Day is observed in India on 12 November to commemorate Mahatma Gandhi's only visit to which institution in 1947?",
+        options: [
+          "Doordarshan Kendra, Mumbai",
+          "All India Radio (AIR), Delhi",
+          "Press Trust of India, Kolkata",
+          "Films Division, Pune"
+        ],
+        answer: 1,
+        explanation: "It marks Mahatma Gandhi's first and only visit to the All India Radio studio in Delhi on November 12, 1947."
+      },
+      {
+        id: "q-20261113-3",
+        format: "Direct Fact",
+        topic: "Current Affairs · Governance",
+        question: "Under the Ministry of Home Affairs' newly rationalized visa framework, how many primary visa categories now exist (reduced from 13)?",
+        options: [
+          "5",
+          "7",
+          "9",
+          "11"
+        ],
+        answer: 2,
+        explanation: "MHA reduced primary visa categories from 13 to 9 and sub-categories from 49 to 23."
+      },
+      {
+        id: "q-20261113-4",
+        format: "Direct Fact",
+        topic: "Current Affairs · Sports",
+        question: "Indian shooter Vivaan Kapoor recently won a silver medal and secured a 2028 Los Angeles Olympic quota at the ISSF World Championships 2026 held in:",
+        options: [
+          "Cairo, Egypt",
+          "Doha, Qatar",
+          "Munich, Germany",
+          "Baku, Azerbaijan"
+        ],
+        answer: 1,
+        explanation: "Vivaan Kapoor won silver in the men's trap event at the ISSF World Championships 2026 in Doha, Qatar."
+      },
+      {
+        id: "q-20261113-5",
+        format: "Statement-Based",
+        topic: "Current Affairs · Awards",
+        question: "Consider the following statements about The Earthshot Prize 2026:\n1. Mahila Housing Trust (Ahmedabad) and Mahindra Last Mile Mobility were named among the 15 global finalists.\n2. The 2026 awards ceremony is scheduled to be held in Mumbai.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct: the two Indian initiatives are among the 15 finalists, and Mumbai is hosting the ceremony on Nov 17, 2026."
+      },
+      {
+        id: "q-20261113-6",
+        format: "Direct Fact",
+        topic: "Current Affairs · Awards",
+        question: "Which Bengaluru-based researcher (from ICTS-TIFR) was among the laureates announced for the Infosys Prize 2026?",
+        options: [
+          "Riddhipratim Basu",
+          "Gagandeep Kang",
+          "Ashoke Sen",
+          "Manjul Bhargava"
+        ],
+        answer: 0,
+        explanation: "Riddhipratim Basu (ICTS-TIFR, Bengaluru) was among the distinguished Infosys Prize 2026 recipients."
+      },
+      {
+        id: "q-20261113-7",
+        format: "Direct Fact",
+        topic: "Current Affairs · Schemes",
+        question: "What is the total financial allocation/corpus backing the extension of the Stand-Up India Scheme up to March 31, 2031?",
+        options: [
+          "₹1,400 crore",
+          "₹3,230 crore",
+          "₹4,111 crore",
+          "₹10,000 crore"
+        ],
+        answer: 2,
+        explanation: "The Stand-Up India extension up to 31 March 2031 is backed by a ₹4,111 crore allocation."
+      },
+      {
+        id: "q-20261113-8",
+        format: "Direct Fact",
+        topic: "Current Affairs · Digital India",
+        question: "According to November 2026 government figures, by what percentage has the number of Indian villages lacking 4G connectivity dropped (down to 11,372)?",
+        options: [
+          "40%",
+          "55%",
+          "75%",
+          "90%"
+        ],
+        answer: 2,
+        explanation: "Villages lacking 4G connectivity dropped by 75% down to 11,372."
+      },
+      {
+        id: "q-20261113-9",
+        format: "Direct Fact",
+        topic: "Current Affairs · International & Science",
+        question: "Union Science & Technology Minister Jitendra Singh recently visited which European country to advance bilateral R&D cooperation?",
+        options: [
+          "Germany",
+          "Italy",
+          "Switzerland",
+          "Sweden"
+        ],
+        answer: 1,
+        explanation: "Dr. Jitendra Singh visited Italy (Nov 11–12, 2026) for the India–Italy Science and Technology Dialogue."
+      },
+      {
+        id: "q-20261113-10",
+        format: "Direct Fact",
+        topic: "Current Affairs · Space",
+        question: "Which country recently launched four satellites (including Guanlan and Yunyao-1 28) using the CERES-2 Y3 carrier rocket from Jiuquan?",
+        options: [
+          "Japan",
+          "South Korea",
+          "China",
+          "Russia"
+        ],
+        answer: 2,
+        explanation: "China launched the four satellites aboard the CERES-2 Y3 rocket from Jiuquan Satellite Launch Center."
+      },
+      {
+        id: "q-20261113-11",
+        format: "Direct Fact",
+        topic: "Current Affairs · Banking",
+        question: "Under which Act did the RBI extend the supersession of the Board of Directors of Abhyudaya Co-operative Bank Limited for another year?",
+        options: [
+          "RBI Act, 1934",
+          "Banking Regulation Act, 1949",
+          "FEMA, 1999",
+          "SARFAESI Act, 2002"
+        ],
+        answer: 1,
+        explanation: "The RBI exercised its powers under the Banking Regulation Act, 1949."
+      },
+      {
+        id: "q-20261113-12",
+        format: "Direct Fact",
+        topic: "Current Affairs · Schemes",
+        question: "What does 'SAANS' stand for in India's national campaign against childhood pneumonia?",
+        options: [
+          "Safe Air and Nutrition Scheme",
+          "Social Awareness and Action to Neutralise Pneumonia Successfully",
+          "Systematic Action Against Neonatal Sepsis",
+          "State Alliance for Affordable Newborn Support"
+        ],
+        answer: 1,
+        explanation: "SAANS stands for Social Awareness and Action to Neutralise Pneumonia Successfully."
+      },
+      {
+        id: "q-20261113-13",
+        format: "Direct Fact",
+        topic: "Current Affairs · Sports Tech",
+        question: "Which startup won the IBM Sports Tech Startup Prize Challenge at Web Summit Lisbon in November 2026?",
+        options: [
+          "Dream11",
+          "LivXP",
+          "Sportzify",
+          "FanCode"
+        ],
+        answer: 1,
+        explanation: "LivXP won the IBM Sports Tech Startup Prize Challenge at Web Summit Lisbon."
+      },
+      {
+        id: "q-20261113-14",
+        format: "Statement-Based",
+        topic: "Current Affairs · Space & Defence",
+        question: "Consider the following statements:\n1. Cryogenic rocket engines use Liquid Hydrogen and Liquid Oxygen as propellants.\n2. Under UNCLOS, a coastal nation's Exclusive Economic Zone (EEZ) extends up to 200 nautical miles from its baseline.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct."
+      },
+      {
+        id: "q-20261113-15",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Under which Article of the Indian Constitution can the President promulgate an Ordinance when Parliament is not in session?",
+        options: [
+          "Article 72",
+          "Article 108",
+          "Article 123",
+          "Article 143"
+        ],
+        answer: 2,
+        explanation: "Article 123 empowers the President to promulgate Ordinances (Article 213 gives the same power to State Governors)."
+      },
+      {
+        id: "q-20261113-16",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Who presides over a Joint Sitting of the two Houses of Parliament summoned under Article 108?",
+        options: [
+          "The President of India",
+          "The Vice President of India",
+          "The Speaker of the Lok Sabha",
+          "The Prime Minister of India"
+        ],
+        answer: 2,
+        explanation: "The Speaker of the Lok Sabha presides over a Joint Sitting of Parliament (in their absence, the Deputy Speaker)."
+      },
+      {
+        id: "q-20261113-17",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which Constitutional Amendment replaced the phrase 'Internal Disturbance' with 'Armed Rebellion' for declaring a National Emergency under Article 352?",
+        options: [
+          "42nd Amendment Act, 1976",
+          "44th Amendment Act, 1978",
+          "52nd Amendment Act, 1985",
+          "91st Amendment Act, 2003"
+        ],
+        answer: 1,
+        explanation: "The 44th Constitutional Amendment Act (1978) replaced 'Internal Disturbance' with 'Armed Rebellion'."
+      },
+      {
+        id: "q-20261113-18",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which of the three Emergencies under the Indian Constitution has NEVER been imposed in India?",
+        options: [
+          "National Emergency (Article 352)",
+          "President's Rule (Article 356)",
+          "Financial Emergency (Article 360)",
+          "Both Article 352 and Article 360"
+        ],
+        answer: 2,
+        explanation: "Financial Emergency under Article 360 has never been proclaimed in India."
+      },
+      {
+        id: "q-20261113-19",
+        format: "Match the Following",
+        topic: "Static GK · Social Reformers",
+        question: "Match the Social Reformer with the organization they founded:\n1. Raja Ram Mohan Roy — (i) Arya Samaj\n2. Swami Dayananda Saraswati — (ii) Satyashodhak Samaj\n3. Jyotirao Phule — (iii) Brahmo Samaj\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "Raja Ram Mohan Roy = Brahmo Samaj (1828); Dayananda Saraswati = Arya Samaj (1875); Jyotirao Phule = Satyashodhak Samaj (1873)."
+      },
+      {
+        id: "q-20261113-20",
+        format: "Direct Fact",
+        topic: "Static GK · Modern History",
+        question: "Which British Viceroy is known as the 'Father of Local Self-Government' in India and passed the Ilbert Bill?",
+        options: [
+          "Lord Dalhousie",
+          "Lord Ripon",
+          "Lord Curzon",
+          "Lord Cornwallis"
+        ],
+        answer: 1,
+        explanation: "Lord Ripon introduced local self-government reforms in 1882 and repealed the Vernacular Press Act."
+      },
+      {
+        id: "q-20261113-21",
+        format: "Chronological Order",
+        topic: "Static GK · Modern History",
+        question: "Arrange the following milestones in chronological order (earliest to latest):\n1. Founding of Brahmo Samaj\n2. India's first Railway line (Bombay to Thane)\n3. Founding of Arya Samaj\n4. Swami Vivekananda's Chicago speech",
+        options: [
+          "1, 2, 3, 4",
+          "2, 1, 3, 4",
+          "1, 3, 2, 4",
+          "1, 2, 4, 3"
+        ],
+        answer: 0,
+        explanation: "Brahmo Samaj (1828) -> First Railway (1853) -> Arya Samaj (1875) -> Chicago speech (1893)."
+      },
+      {
+        id: "q-20261113-22",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which plateau in eastern India is popularly called the 'Ruhr of India' due to its rich coal and mineral reserves?",
+        options: [
+          "Malwa Plateau",
+          "Deccan Plateau",
+          "Chota Nagpur Plateau",
+          "Bundelkhand Plateau"
+        ],
+        answer: 2,
+        explanation: "The Chota Nagpur Plateau (spanning Jharkhand and adjoining states) is called the 'Ruhr of India'."
+      },
+      {
+        id: "q-20261113-23",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Jaduguda in Jharkhand is famous for mining which strategic mineral?",
+        options: [
+          "Diamond",
+          "Uranium",
+          "Copper",
+          "Bauxite"
+        ],
+        answer: 1,
+        explanation: "Jaduguda is India's first and most famous uranium mine."
+      },
+      {
+        id: "q-20261113-24",
+        format: "Match the Following",
+        topic: "Static GK · World Geography",
+        question: "Match the World Grassland with its region:\n1. Prairies — (i) Argentina\n2. Pampas — (ii) Australia\n3. Downs — (iii) North America\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "Prairies = North America; Pampas = Argentina; Downs = Australia."
+      },
+      {
+        id: "q-20261113-25",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which is the longest mountain range in the world?",
+        options: [
+          "Himalayas",
+          "Rockies",
+          "Andes",
+          "Alps"
+        ],
+        answer: 2,
+        explanation: "The Andes Mountains along the western coast of South America form the world's longest continental mountain range."
+      },
+      {
+        id: "q-20261113-26",
+        format: "Assertion & Reason",
+        topic: "Static GK · Physics",
+        question: "Assertion (A): Optical fibres are widely used for high-speed internet communication.\nReason (R): Optical fibres transmit light signals using the principle of Total Internal Reflection (TIR).\nChoose the correct option:",
+        options: [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is not the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        answer: 0,
+        explanation: "Optical fibres guide light signals over long distances with minimal loss using Total Internal Reflection."
+      },
+      {
+        id: "q-20261113-27",
+        format: "Match the Following",
+        topic: "Static GK · Chemistry",
+        question: "Match the Metal with its primary Ore:\n1. Aluminium — (i) Cinnabar\n2. Iron — (ii) Bauxite\n3. Mercury — (iii) Hematite\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(i), 2-(iii), 3-(ii)"
+        ],
+        answer: 0,
+        explanation: "Aluminium = Bauxite; Iron = Hematite; Mercury = Cinnabar."
+      },
+      {
+        id: "q-20261113-28",
+        format: "Direct Fact",
+        topic: "Static GK · Biology",
+        question: "Which cell organelle is known as the 'Powerhouse of the cell' because it generates ATP?",
+        options: [
+          "Ribosome",
+          "Lysosome",
+          "Mitochondria",
+          "Golgi Apparatus"
+        ],
+        answer: 2,
+        explanation: "Mitochondria produce energy in the form of ATP through cellular respiration."
+      },
+      {
+        id: "q-20261113-29",
+        format: "Direct Fact",
+        topic: "Static GK · Physics",
+        question: "Which type of lens is used to correct Myopia (near-sightedness)?",
+        options: [
+          "Convex lens",
+          "Concave lens",
+          "Cylindrical lens",
+          "Bifocal lens"
+        ],
+        answer: 1,
+        explanation: "Myopia is corrected using a diverging (concave) lens."
+      },
+      {
+        id: "q-20261113-30",
+        format: "Direct Fact",
+        topic: "Static GK · Chemistry",
+        question: "Which non-metal is a liquid at room temperature?",
+        options: [
+          "Mercury",
+          "Bromine",
+          "Gallium",
+          "Iodine"
+        ],
+        answer: 1,
+        explanation: "Bromine is the only non-metal liquid at room temperature (Mercury is the only metal liquid at room temperature)."
+      },
+      {
+        id: "q-20261113-31",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Under which Article of the Indian Constitution is the Union Budget (Annual Financial Statement) presented to Parliament?",
+        options: [
+          "Article 110",
+          "Article 112",
+          "Article 265",
+          "Article 280"
+        ],
+        answer: 1,
+        explanation: "Article 112 refers to the Union Budget as the 'Annual Financial Statement'."
+      },
+      {
+        id: "q-20261113-32",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "How is 'Primary Deficit' defined in government budgeting?",
+        options: [
+          "Revenue Expenditure minus Revenue Receipts",
+          "Fiscal Deficit minus Interest Payments",
+          "Total Expenditure minus Total Receipts",
+          "Capital Expenditure minus Borrowings"
+        ],
+        answer: 1,
+        explanation: "Primary Deficit = Fiscal Deficit − Interest Payments."
+      },
+      {
+        id: "q-20261113-33",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Where is the headquarters of SIDBI (Small Industries Development Bank of India) located?",
+        options: [
+          "Mumbai",
+          "New Delhi",
+          "Lucknow",
+          "Bengaluru"
+        ],
+        answer: 2,
+        explanation: "SIDBI (established in 1990) is headquartered in Lucknow, Uttar Pradesh."
+      },
+      {
+        id: "q-20261113-34",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "The Phillips Curve illustrates an inverse short-run relationship between:",
+        options: [
+          "Tax rates and Tax revenue",
+          "Inflation and Unemployment",
+          "Income and Inequality",
+          "Imports and Exchange rate"
+        ],
+        answer: 1,
+        explanation: "The Phillips Curve shows an inverse trade-off between inflation and unemployment in the short run."
+      },
+      {
+        id: "q-20261113-35",
+        format: "Direct Fact",
+        topic: "Static GK · Sports",
+        question: "Who was the first Indian woman to win an Olympic medal (Sydney 2000, Weightlifting)?",
+        options: [
+          "P.T. Usha",
+          "Karnam Malleswari",
+          "Mary Kom",
+          "Saina Nehwal"
+        ],
+        answer: 1,
+        explanation: "Karnam Malleswari won Bronze in weightlifting at the 2000 Sydney Olympics."
+      },
+      {
+        id: "q-20261113-36",
+        format: "Direct Fact",
+        topic: "Static GK · Sports",
+        question: "Which Tennis Grand Slam tournament is played on Grass courts?",
+        options: [
+          "Australian Open",
+          "French Open",
+          "Wimbledon",
+          "US Open"
+        ],
+        answer: 2,
+        explanation: "Wimbledon (oldest Grand Slam, est. 1877) is played on Grass; French Open is on Clay; Australian & US Opens are on Hard courts."
+      },
+      {
+        id: "q-20261113-37",
+        format: "Direct Fact",
+        topic: "Static GK · Awards",
+        question: "Who was the first Indian to receive the Ramon Magsaysay Award (1958)?",
+        options: [
+          "Mother Teresa",
+          "Acharya Vinoba Bhave",
+          "Verghese Kurien",
+          "M.S. Swaminathan"
+        ],
+        answer: 1,
+        explanation: "Acharya Vinoba Bhave was the first Indian to win the Ramon Magsaysay Award in 1958."
+      },
+      {
+        id: "q-20261113-38",
+        format: "Direct Fact",
+        topic: "Static GK · Awards",
+        question: "Which international prize is regarded as the 'Nobel Prize of Computing'?",
+        options: [
+          "Abel Prize",
+          "Turing Award",
+          "Pritzker Prize",
+          "Pulitzer Prize"
+        ],
+        answer: 1,
+        explanation: "The ACM A.M. Turing Award is the highest honour in Computer Science."
+      },
+      {
+        id: "q-20261113-39",
+        format: "Match the Following",
+        topic: "Static GK · Slogans",
+        question: "Match the Freedom Slogan with the Leader:\n1. 'Swaraj is my birthright...' — (i) Mahatma Gandhi\n2. 'Do or Die' — (ii) Subhas Chandra Bose\n3. 'Delhi Chalo' — (iii) Bal Gangadhar Tilak\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "Swaraj is my birthright = Tilak; Do or Die = Gandhi; Delhi Chalo = Subhas Chandra Bose."
+      },
+      {
+        id: "q-20261113-40",
+        format: "Direct Fact",
+        topic: "Static GK · Books & Authors",
+        question: "Which Indian author won the 2008 Booker Prize for the novel 'The White Tiger'?",
+        options: [
+          "Vikram Seth",
+          "Aravind Adiga",
+          "Kiran Desai",
+          "Amitav Ghosh"
+        ],
+        answer: 1,
+        explanation: "Aravind Adiga won the 2008 Booker Prize for 'The White Tiger'."
+      },
+      {
+        id: "q-20261113-41",
+        format: "Match the Following",
+        topic: "Static GK · Committees",
+        question: "Match the Committee/Commission with its focus area:\n1. Balwant Rai Mehta Committee — (i) Centre–State Relations\n2. Sarkaria Commission — (ii) Banking Reforms\n3. Narasimham Committee — (iii) 3-tier Panchayati Raj\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "Balwant Rai Mehta = 3-tier Panchayati Raj; Sarkaria = Centre–State Relations; Narasimham = Banking Reforms."
+      },
+      {
+        id: "q-20261113-42",
+        format: "Direct Fact",
+        topic: "Static GK · Commissions",
+        question: "Which was the first state in independent India to be formed on a linguistic basis in 1953?",
+        options: [
+          "Maharashtra",
+          "Tamil Nadu",
+          "Andhra Pradesh",
+          "Kerala"
+        ],
+        answer: 2,
+        explanation: "Andhra Pradesh (then Andhra State) was created in 1953 as the first linguistic state."
+      },
+      {
+        id: "q-20261113-43",
+        format: "Direct Fact",
+        topic: "Static GK · Culture",
+        question: "Which was the first Indian language to be accorded 'Classical Language' status in 2004?",
+        options: [
+          "Sanskrit",
+          "Tamil",
+          "Telugu",
+          "Kannada"
+        ],
+        answer: 1,
+        explanation: "Tamil was declared India's first Classical Language in 2004, followed by Sanskrit in 2005."
+      },
+      {
+        id: "q-20261113-44",
+        format: "Direct Fact",
+        topic: "Static GK · Culture",
+        question: "Which Indian traditional dance was inscribed into UNESCO's Intangible Cultural Heritage list in 2023?",
+        options: [
+          "Bihu of Assam",
+          "Garba of Gujarat",
+          "Ghoomar of Rajasthan",
+          "Lavani of Maharashtra"
+        ],
+        answer: 1,
+        explanation: "Garba of Gujarat was inscribed into UNESCO's Representative List of Intangible Cultural Heritage in December 2023."
+      },
+      {
+        id: "q-20261113-45",
+        format: "Match the Following",
+        topic: "Static GK · Martial Arts",
+        question: "Match the Indian Martial Art with its State:\n1. Kalaripayattu — (i) Punjab\n2. Gatka — (ii) Manipur\n3. Thang-Ta — (iii) Kerala\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "Kalaripayattu = Kerala; Gatka = Punjab; Thang-Ta = Manipur."
+      },
+      {
+        id: "q-20261113-46",
+        format: "Direct Fact",
+        topic: "Static GK · Culture",
+        question: "Where is the famous Salar Jung Museum located?",
+        options: [
+          "Kolkata",
+          "Hyderabad",
+          "Jaipur",
+          "Bhopal"
+        ],
+        answer: 1,
+        explanation: "Salar Jung Museum is located in Hyderabad, Telangana."
+      },
+      {
+        id: "q-20261113-47",
+        format: "Direct Fact",
+        topic: "Static GK · Technology",
+        question: "Who is widely regarded as the architect of India's first supercomputer, PARAM 8000 (1991)?",
+        options: [
+          "Dr. A.P.J. Abdul Kalam",
+          "Dr. Vijay Bhatkar",
+          "Nandan Nilekani",
+          "Sam Pitroda"
+        ],
+        answer: 1,
+        explanation: "Dr. Vijay Bhatkar led the development of PARAM 8000 at C-DAC, Pune."
+      },
+      {
+        id: "q-20261113-48",
+        format: "Direct Fact",
+        topic: "Static GK · Space & Polar Research",
+        question: "What is the name of India's research station located in the Arctic (Svalbard, Norway)?",
+        options: [
+          "Maitri",
+          "Bharati",
+          "Himadri",
+          "Dakshin Gangotri"
+        ],
+        answer: 2,
+        explanation: "Himadri is India's Arctic research station in Svalbard, Norway (Maitri and Bharati are active in Antarctica)."
+      },
+      {
+        id: "q-20261113-49",
+        format: "Direct Fact",
+        topic: "Static GK · Space",
+        question: "What is 'Vyommitra' in the context of ISRO's Gaganyaan human spaceflight programme?",
+        options: [
+          "The lunar rover for Chandrayaan-4",
+          "A half-humanoid robot for uncrewed test flights",
+          "India's spaceport in Tamil Nadu",
+          "The solid booster rocket of LVM3"
+        ],
+        answer: 1,
+        explanation: "Vyommitra is ISRO's AI-enabled half-humanoid robot designed to fly on uncrewed Gaganyaan test missions."
+      },
+      {
+        id: "q-20261113-50",
+        format: "Statement-Based",
+        topic: "Static GK · Environment & Tech",
+        question: "Consider the following statements:\n1. Tamil Nadu has the highest number of Ramsar Wetland sites among Indian states.\n2. NPCI (National Payments Corporation of India) operates the UPI payment system.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct."
+      }
+    ]
+  },
+  {
     date: "2026-11-12",
     displayDate: "12 Nov 2026",
     theme: "Polity, Economy, Defence, Heritage, Science & Sports",
