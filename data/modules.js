@@ -2,6 +2,1283 @@
 // Newest day appears first. Automatically updated daily at 7:00 AM IST.
 window.CUET_MODULES = [
   {
+    date: "2026-11-14",
+    displayDate: "14 Nov 2026",
+    theme: "Children's Day, CPI Inflation, IMNEX-26, Youth Boxing Gold & Science",
+    currentAffairs: [
+      {
+        id: "ca-20261114-1",
+        category: "Important Days",
+        title: "Children's Day (Bal Diwas) Celebrated on 14 November 2026",
+        summary:
+          "India observed Children's Day (Bal Diwas) on November 14, 2026, marking the 137th birth anniversary of independent India's first Prime Minister, Pandit Jawaharlal Nehru.",
+        keyPoints: [
+          "Marks the 137th birth anniversary of Pandit Jawaharlal Nehru (born November 14, 1889 in Prayagraj).",
+          "Before 1964, India celebrated Children's Day on November 20 (UN Universal Children's Day); after Nehru's passing in 1964, Parliament passed a resolution to observe his birthday as Bal Diwas.",
+          "Nehru served as India's longest-serving Prime Minister (1947–1964) and authored 'The Discovery of India' and 'Glimpses of World History'."
+        ],
+        examTip:
+          "Remember both dates: India's Bal Diwas = 14 November; UN World Children's Day = 20 November."
+      },
+      {
+        id: "ca-20261114-2",
+        category: "Important Days",
+        title: "World Diabetes Day Observed Globally on 14 November 2026",
+        summary:
+          "World Diabetes Day was observed across India and the world on November 14 to raise awareness about early diagnosis and prevention of diabetes.",
+        keyPoints: [
+          "The 2026–27 theme is 'Early Action on Diabetes', focusing on early-stage diagnosis and reducing Type 2 diabetes risk.",
+          "Established in 1991 by the International Diabetes Federation (IDF) and WHO; became an official UN Day in 2006.",
+          "November 14 was chosen to honour Sir Frederick Banting, who co-discovered Insulin in 1922 (with Charles Best)."
+        ],
+        examTip:
+          "Science GK link: Insulin is a hormone secreted by Beta cells of the Islets of Langerhans in the Pancreas; its deficiency causes Diabetes Mellitus."
+      },
+      {
+        id: "ca-20261114-3",
+        category: "Polity & Governance",
+        title: "Supreme Court Observes Two-Child Norm Laws Losing Relevance; India TFR at 1.9",
+        summary:
+          "The Supreme Court made a significant demographic and legal observation regarding laws that penalize individuals for having more than two children.",
+        keyPoints: [
+          "The Supreme Court noted that two-child norm disqualification laws have largely lost contemporary relevance due to India's declining fertility rate.",
+          "India's Total Fertility Rate (TFR) has fallen to 1.9, which is below the demographic replacement level of 2.1.",
+          "Replacement-level fertility (2.1 children per woman) is the rate at which a population exactly replaces itself from one generation to the next."
+        ],
+        examTip:
+          "Know India's demographic basics: TFR = 1.9 (below 2.1 replacement); 2011 Census was India's 15th National Census (7th after independence)."
+      },
+      {
+        id: "ca-20261114-4",
+        category: "Economy & Banking",
+        title: "October 2026 Retail Inflation (CPI) Surges to 6.09%, Breaching RBI Limit",
+        summary:
+          "India's retail inflation crossed the Reserve Bank of India's upper tolerance band of 6% for the first time in two years, driven by food prices.",
+        keyPoints: [
+          "Consumer Price Index (CPI) inflation rose to 6.09% in October 2026, with food inflation surging to 8.94%.",
+          "Breached the RBI Monetary Policy Committee's (MPC) upper tolerance limit of 6% (target is 4% ± 2%, i.e., 2%–6%).",
+          "RBI's policy Repo Rate currently stands steady at 5.50%."
+        ],
+        examTip:
+          "CPI (retail inflation) is published monthly by NSO (MoSPI), whereas WPI (Wholesale Price Index) is published by the Office of the Economic Adviser (DPIIT)."
+      },
+      {
+        id: "ca-20261114-5",
+        category: "Economy & Banking",
+        title: "India's October 2026 Exports Hit $89.99 Billion; India–US Trade Talks",
+        summary:
+          "India recorded nearly 30% year-on-year export growth in October 2026 while advancing interim trade talks with the United States.",
+        keyPoints: [
+          "Combined merchandise and services exports reached $89.99 billion in October 2026, a ~29.9% YoY surge.",
+          "The United States assured India of a competitive tariff advantage over rival exporters under the proposed India–US interim trade agreement.",
+          "The interim trade pact is targeted for finalization by the end of the current fiscal year (March 2027)."
+        ],
+        examTip:
+          "India's financial/fiscal year runs from April 1 to March 31 (RBI's accounting year was also aligned to April–March from 2020–21)."
+      },
+      {
+        id: "ca-20261114-6",
+        category: "Economy & Banking",
+        title: "RBI Grants AD-II Licence to Mufin Green Finance Limited",
+        summary:
+          "The Reserve Bank of India granted an Authorised Dealer Category-II (AD-II) licence to Mufin Green Finance to expand specialized green financing.",
+        keyPoints: [
+          "An AD-II licence enables the entity to handle specified non-trade current account foreign exchange transactions.",
+          "Boosts cross-border green finance flows for electric vehicles, solar, and sustainable infrastructure.",
+          "Authorised Dealer licences are issued by the RBI under the Foreign Exchange Management Act (FEMA), 1999."
+        ],
+        examTip:
+          "Know RBI's regulatory acts: RBI Act 1934 (central bank powers), Banking Regulation Act 1949 (bank licensing/supervision), and FEMA 1999 (forex)."
+      },
+      {
+        id: "ca-20261114-7",
+        category: "Economy & Banking",
+        title: "NCDEX & BigMint Launch India's First Steel Scrap Futures Contract",
+        summary:
+          "NCDEX partnered with BigMint Technologies to introduce India's first Price Reporting Agency (PRA)-based Steel Scrap Futures Contract.",
+        keyPoints: [
+          "Targets the internationally benchmarked HMS 80:20 (Heavy Melting Scrap) grade.",
+          "Helps Indian steelmakers and recyclers hedge against raw material price volatility.",
+          "NCDEX (National Commodity & Derivatives Exchange) is regulated by SEBI (Securities and Exchange Board of India)."
+        ],
+        examTip:
+          "Commodity derivatives exchanges in India (like MCX and NCDEX) have been regulated by SEBI since 2015 (after merger with FMC)."
+      },
+      {
+        id: "ca-20261114-8",
+        category: "Government Schemes",
+        title: "NITI Aayog Releases Impact Assessment on 14 PLI Schemes",
+        summary:
+          "NITI Aayog published a comprehensive evaluation of India's 14 Production Linked Incentive (PLI) schemes across key manufacturing sectors.",
+        keyPoints: [
+          "Highlighted strong gains in manufacturing output, foreign direct investment (FDI), and electronics/pharma exports.",
+          "Recommended deeper integration of MSMEs and higher domestic value addition across supply chains.",
+          "PLI schemes offer financial incentives on incremental sales over a base year for 14 strategic sectors (mobile manufacturing, pharma, auto, solar PV, textiles, etc.)."
+        ],
+        examTip:
+          "NITI Aayog (est. Jan 1, 2015) is chaired by the Prime Minister of India and acts as the government's premier public policy think tank."
+      },
+      {
+        id: "ca-20261114-9",
+        category: "Defence & Security",
+        title: "8th India–Myanmar Naval Exercise (IMNEX-26) Concludes in Visakhapatnam",
+        summary:
+          "The Indian Navy and Myanmar Navy concluded the 8th edition of their bilateral maritime exercise IMNEX-26 on November 14, 2026.",
+        keyPoints: [
+          "Held in Visakhapatnam, Andhra Pradesh (home to the Indian Navy's Eastern Naval Command).",
+          "Featured harbour and sea-phase operational drills to strengthen maritime interoperability and regional security in the Bay of Bengal.",
+          "Myanmar shares a 1,643 km land border with four Indian states: Arunachal Pradesh, Nagaland, Manipur, and Mizoram."
+        ],
+        examTip:
+          "Remember India's 3 Naval Commands: Western (Mumbai), Eastern (Visakhapatnam), and Southern (Kochi)."
+      },
+      {
+        id: "ca-20261114-10",
+        category: "Defence & Security",
+        title: "India & Sri Lanka Conduct Joint Army Exercise 'Mitra Shakti 2026'",
+        summary:
+          "Indian Army and Sri Lankan Army contingents continued joint counter-terrorism drills under Exercise Mitra Shakti 2026.",
+        keyPoints: [
+          "Focuses on sub-conventional and counter-terrorism operations in semi-urban terrain under a United Nations mandate.",
+          "India and Sri Lanka also conduct the bilateral naval exercise SLINEX.",
+          "India and Sri Lanka are separated by the Palk Strait and the Gulf of Mannar."
+        ],
+        examTip:
+          "Match bilateral exercises: Mitra Shakti = Sri Lanka; Surya Kiran = Nepal; Sampriti = Bangladesh; Hand-in-Hand = China; Yudh Abhyas = USA."
+      },
+      {
+        id: "ca-20261114-11",
+        category: "National & Heritage",
+        title: "Mekedatu Reservoir Project Stance & Cauvery Water Sharing",
+        summary:
+          "Karnataka Deputy CM D.K. Shivakumar reiterated the state's commitment to the Mekedatu balancing reservoir project while assuring Tamil Nadu's water share.",
+        keyPoints: [
+          "Mekedatu is a proposed multi-purpose balancing reservoir project across the Cauvery (Kaveri) River in Ramanagara district, Karnataka.",
+          "Aims to store surplus water for Bengaluru's drinking water needs and generate ~400 MW of hydroelectricity.",
+          "The Cauvery River originates at Talakaveri in the Brahmagiri Hills (Kodagu, Karnataka) and flows through Karnataka and Tamil Nadu into the Bay of Bengal."
+        ],
+        examTip:
+          "Under Article 262 of the Constitution, Parliament enacted the Inter-State Water Disputes Act, 1956 to resolve river water disputes."
+      },
+      {
+        id: "ca-20261114-12",
+        category: "National & Heritage",
+        title: "India's Largest Underground LPG Storage Cavern Inaugurated in Mangaluru",
+        summary:
+          "India strengthened its strategic energy storage infrastructure with the inauguration of its largest underground LPG cavern in Karnataka.",
+        keyPoints: [
+          "Located in Mangaluru, coastal Karnataka—a major hub for India's energy imports and strategic reserves.",
+          "Underground rock caverns offer safer, lower-cost, and weather-proof storage compared to above-ground steel tanks.",
+          "India also maintains Strategic Petroleum Reserves (SPR) at Visakhapatnam, Mangaluru, and Padur."
+        ],
+        examTip:
+          "LPG (Liquefied Petroleum Gas) is primarily a mixture of Propane and Butane, with Ethyl Mercaptan added for leak detection."
+      },
+      {
+        id: "ca-20261114-13",
+        category: "Science & Space",
+        title: "India Commits Over €7 Million to Italy's Elettra 2.0 Synchrotron Project",
+        summary:
+          "India deepened scientific ties with Italy by committing over €7 million to participate in the advanced Elettra 2.0 research facility.",
+        keyPoints: [
+          "Elettra 2.0 is a next-generation synchrotron light source project located in Trieste, Italy.",
+          "Allows Indian researchers access to ultra-bright X-ray beams for materials science, drug discovery, and nanotechnology.",
+          "Follows Union S&T Minister Dr. Jitendra Singh's bilateral dialogue in Italy."
+        ],
+        examTip:
+          "India's own synchrotron radiation facilities (Indus-1 and Indus-2) are located at RRCAT (Raja Ramanna Centre for Advanced Technology), Indore."
+      },
+      {
+        id: "ca-20261114-14",
+        category: "Science & Space",
+        title: "India Launches First Indigenous Insecticide Molecule 'Pioxazon'",
+        summary:
+          "India achieved a major agri-science breakthrough with the launch of its first indigenously discovered insecticide molecule.",
+        keyPoints: [
+          "The molecule is chemically named Pioxaniliprole and commercialized under the brand name 'Pioxazon'.",
+          "Reduces India's reliance on imported agrochemical molecules and protects crops against destructive pests.",
+          "Supports domestic R&D in sustainable crop protection and food security."
+        ],
+        examTip:
+          "ICAR (Indian Council of Agricultural Research, HQ: New Delhi) is India's apex agricultural research body."
+      },
+      {
+        id: "ca-20261114-15",
+        category: "Science & Space",
+        title: "India & Brazil Deepen Commercial Private-Sector Space Cooperation",
+        summary:
+          "ISRO and Brazilian space counterparts expanded bilateral cooperation toward private-sector participation in commercial space missions.",
+        keyPoints: [
+          "Builds on India's successful launch of Brazil's Amazônia-1 Earth observation satellite aboard PSLV-C51 in 2021.",
+          "Focuses on satellite data sharing, tracking stations, and NewSpace startup partnerships.",
+          "IN-SPACe (headquartered in Ahmedabad) regulates and promotes private space sector participation in India."
+        ],
+        examTip:
+          "Brazil is a founding member of BRICS (Capital: Brasília; Currency: Brazilian Real)."
+      },
+      {
+        id: "ca-20261114-16",
+        category: "Sports & Awards",
+        title: "Gunjan & Lairenlakpam Ambekar Meetei Win India's First Youth Olympic Boxing Golds",
+        summary:
+          "Indian young boxers scripted history at the 2026 Youth Olympic Games in Dakar by clinching India's first-ever boxing gold medals.",
+        keyPoints: [
+          "Gunjan and Lairenlakpam Ambekar Meetei won historic gold medals in their respective boxing weight categories.",
+          "The 2026 Summer Youth Olympic Games are hosted in Dakar, Senegal (first Olympic event held on the African continent).",
+          "Earlier in the Games, Indian swimmer Dhinidhi Desinghu also won two bronze medals."
+        ],
+        examTip:
+          "Remember Senegal's capital: Dakar (also host of 2026 Youth Olympics)."
+      },
+      {
+        id: "ca-20261114-17",
+        category: "Sports & Awards",
+        title: "Deepti Sharma & Marco Jansen Win ICC Players of the Month (Oct 2026)",
+        summary:
+          "The International Cricket Council (ICC) named India's Deepti Sharma and South Africa's Marco Jansen as October 2026's top players.",
+        keyPoints: [
+          "Indian all-rounder Deepti Sharma won the ICC Women's Player of the Month award for October 2026.",
+          "South African pacer Marco Jansen won the ICC Men's Player of the Month award.",
+          "ICC is headquartered in Dubai, UAE (shifted from London in 2005)."
+        ],
+        examTip:
+          "Know cricket headquarters: ICC = Dubai, UAE; BCCI = Mumbai (Wankhede Stadium)."
+      },
+      {
+        id: "ca-20261114-18",
+        category: "Sports & Awards",
+        title: "Indian Women's Cricket Team Nominated for Laureus Award; KPMG Sports Tech Hub",
+        summary:
+          "India's World Cup-winning women's cricket team earned a prestigious global Laureus nomination while Bengaluru gained a new Sports Tech Hub.",
+        keyPoints: [
+          "The World Cup-winning Indian women's cricket team was nominated for the Laureus World Team of the Year Award.",
+          "Separately, KPMG in India launched a dedicated Sports Technology Hub in Bengaluru to drive innovation in India's sports economy.",
+          "In men's cricket, India suffered an ODI defeat against New Zealand at Mount Maunganui (Matt Henry), while BCCI added pacer Gurnoor Brar to the Test setup."
+        ],
+        examTip:
+          "The Laureus World Sports Awards are often called the 'Oscars of Sport' (established 1999)."
+      },
+      {
+        id: "ca-20261114-19",
+        category: "Sports & Awards",
+        title: "Major Dhyan Chand Khel Ratna Goes Unawarded for First Time Since 2014",
+        summary:
+          "In a rare sporting development, no athlete was selected for India's highest sporting honour, the Major Dhyan Chand Khel Ratna Award.",
+        keyPoints: [
+          "Marks the first time since 2014 that the Khel Ratna award has gone unawarded.",
+          "Instituted in 1991–92 (originally Rajiv Gandhi Khel Ratna; renamed in 2021 after hockey legend Major Dhyan Chand).",
+          "Viswanathan Anand was the first recipient (1991–92). National Sports Day is celebrated on August 29 (Dhyan Chand's birthday)."
+        ],
+        examTip:
+          "Cash prize for Major Dhyan Chand Khel Ratna is ₹25 lakh; Arjuna Award is ₹15 lakh."
+      },
+      {
+        id: "ca-20261114-20",
+        category: "Sports & Awards",
+        title: "Yuge Yugeen Bharat Museum Blueprint & Pride of Nation Award 2026",
+        summary:
+          "Implementation timelines for India's mega-museum were detailed alongside healthcare honours in Telangana.",
+        keyPoints: [
+          "The ₹3,230 crore Yuge Yugeen Bharat Museum at North and South Blocks will be developed over FY 2026–27 to 2030–31.",
+          "Renova Hospitals won the Pride of Nation Award 2026 for 'Best Multispecialty and Cancer Hospital in Telangana', presented by the Governor of Odisha.",
+          "Also, India's rural 4G gap dropped 75% to 11,372 villages under Digital Bharat Nidhi."
+        ],
+        examTip:
+          "Keep track of flagship cultural timelines: Yuge Yugeen Bharat Museum (2026–27 to 2030–31)."
+      }
+    ],
+    staticGK: [
+      {
+        id: "gk-20261114-1",
+        title: "Indian Polity: Citizenship, State Executive, High Courts & Local Govt",
+        tag: "Polity & Constitution",
+        overview:
+          "Covers Part II (Citizenship), State Governors & Chief Ministers, High Courts, Panchayati Raj, and Lokpal.",
+        points: [
+          "Citizenship (Part II, Articles 5–11): India provides Single Citizenship (borrowed from the UK); governed by the Citizenship Act, 1955 (5 ways to acquire: Birth, Descent, Registration, Naturalisation, Incorporation of Territory).",
+          "Governor of a State (Articles 153–161): Appointed by the President for a 5-year term (holds office during the pleasure of the President); minimum age 35 years.",
+          "State Legislature (Articles 168–212): Only 6 Indian states have a Bicameral Legislature (Legislative Assembly + Legislative Council): UP, Bihar, Maharashtra, Karnataka, Andhra Pradesh, and Telangana.",
+          "High Courts (Articles 214–231): Currently 25 High Courts in India (oldest: Calcutta HC, 1862; newest: Andhra Pradesh HC, 2019). High Court Judges retire at age 62.",
+          "Writ Jurisdiction: Supreme Court issues writs under Article 32 (only for Fundamental Rights); High Courts issue writs under Article 226 (for Fundamental Rights AND other legal rights — wider writ jurisdiction).",
+          "Panchayati Raj (73rd Amendment Act, 1992, Part IX, 11th Schedule): 3-tier system (Gram Panchayat, Panchayat Samiti, Zila Parishad) with 29 subjects; minimum age to contest is 21 years; 1/3rd seats reserved for women.",
+          "PESA Act (1996): Panchayats (Extension to Scheduled Areas) Act extends Panchayati Raj to 5th Schedule tribal areas.",
+          "Municipalities (74th Amendment Act, 1992, Part IXA, 12th Schedule): 3 types (Nagar Panchayat, Municipal Council, Municipal Corporation) with 18 subjects.",
+          "Lokpal & Lokayukta Act (2013): Ombudsman against corruption; first Lokpal of India was Justice Pinaki Chandra Ghose (2019).",
+          "Official Language (Part XVII, Article 343): Hindi in Devanagari script is the official language of the Union; English continues for official purposes.",
+          "Inter-State Water Disputes (Article 262): Parliament may by law exclude Supreme Court jurisdiction over inter-state river disputes.",
+          "Special Provisions (Article 371 series): Provides special administrative provisions for Maharashtra, Gujarat, Nagaland (371A), Assam, Manipur, Sikkim, Mizoram, Arunachal, Goa, and Karnataka."
+        ],
+        flashcards: [
+          { q: "Which 6 Indian states have a Bicameral Legislature (Vidhan Parishad)?", a: "UP, Bihar, Maharashtra, Karnataka, Andhra Pradesh, and Telangana." },
+          { q: "Which Court has wider writ jurisdiction—Supreme Court (Art 32) or High Court (Art 226)?", a: "High Court (Art 226 covers both Fundamental Rights and ordinary legal rights)." },
+          { q: "What is the minimum age to contest Panchayat or Municipal elections in India?", a: "21 years." },
+          { q: "How many High Courts currently exist in India, and which is the oldest?", a: "25 High Courts; oldest is Calcutta High Court (1862)." },
+          { q: "Who was appointed as India's first Lokpal in 2019?", a: "Justice Pinaki Chandra Ghose." },
+          { q: "Which Article empowers Parliament to adjudicate Inter-State River Water Disputes?", a: "Article 262." }
+        ]
+      },
+      {
+        id: "gk-20261114-2",
+        title: "Indian History: Gupta, Chola, Vijayanagara & Maratha Empires",
+        tag: "History & Culture",
+        overview:
+          "Essential ancient & medieval Indian dynasties, their capitals, famous rulers, and architectural marvels.",
+        points: [
+          "Satavahana Dynasty: Founded by Simuka (capital: Pratishthana/Paithan); Gautamiputra Satakarni was its greatest ruler; issued lead coins.",
+          "Kushan Empire: Kanishka (78 CE) started the Saka Era (India's official national calendar); convened the 4th Buddhist Council in Kashmir; patronized Gandhara & Mathura art.",
+          "Gupta Empire (320–550 CE): Founded by Sri Gupta; Chandragupta I started Gupta Era (319–20 CE); Samudragupta ('Napoleon of India', Prayag Prashasti by Harisena); Chandragupta II (Vikramaditya, Navratnas including Kalidasa, Chinese pilgrim Fa-Hien visited).",
+          "Vardhana Dynasty (Pushyabhuti): Harshavardhana (capital: Kannauj); Chinese pilgrim Hiuen Tsang (Xuanzang) visited; Banabhatta wrote Harshacharita; Harsha wrote Nagananda, Ratnavali, Priyadarsika.",
+          "Pallava Dynasty (Kanchipuram): Narasimhavarman I built the Shore Temple & Pancha Rathas at Mahabalipuram (Mamallapuram).",
+          "Chola Empire (Thanjavur): Founded by Vijayalaya; Rajaraja Chola I built Brihadeeswarar Temple (Thanjavur); Rajendra Chola I crossed the Ganga ('Gangaikondacholan') and led naval expeditions to Srivijaya; famous for village local self-government (Uttaramerur inscriptions).",
+          "Rashtrakuta Dynasty: Dantidurga founded it; Krishna I built the monolithic Kailasa Temple at Ellora; Amoghavarsha wrote Kavirajamarga.",
+          "Vijayanagara Empire (1336): Founded by Harihara and Bukka (capital: Hampi on Tungabhadra river); Krishnadevaraya (Tuluva dynasty) wrote 'Amuktamalyada' and had 'Ashtadiggajas' (8 Telugu poets including Tenali Rama).",
+          "Maratha Empire: Chhatrapati Shivaji Maharaj (crowned 1674 at Raigad); assisted by 'Ashtapradhan' (8 ministers led by Peshwa); collected Chauth (1/4th) and Sardeshmukhi (1/10th).",
+          "Three Battles of Panipat: 1st (1526 — Babur defeated Ibrahim Lodi), 2nd (1556 — Akbar/Bairam Khan defeated Hemu), 3rd (1761 — Ahmad Shah Abdali defeated the Marathas).",
+          "Sikh Gurus Highlights: Guru Nanak (1st, founder), Guru Angad (Gurmukhi script), Guru Arjan Dev (5th, compiled Adi Granth & built Golden Temple), Guru Gobind Singh (10th, founded Khalsa in 1699).",
+          "European Arrivals in India (Order): Portuguese (Vasco da Gama, 1498 at Calicut), Dutch (1602/1605), British (1600/1608 at Surat), French (1664)."
+        ],
+        flashcards: [
+          { q: "Which Kushan ruler started the Saka Era in 78 CE?", a: "Kanishka." },
+          { q: "Who built the Brihadeeswarar Temple at Thanjavur?", a: "Rajaraja Chola I." },
+          { q: "Who founded the Vijayanagara Empire (1336) and on which river was Hampi located?", a: "Harihara and Bukka; on the Tungabhadra River." },
+          { q: "Which Chinese pilgrims visited India during Chandragupta II vs Harshavardhana?", a: "Fa-Hien (Chandragupta II); Hiuen Tsang (Harshavardhana)." },
+          { q: "Who built the monolithic Kailasa Temple at Ellora?", a: "Rashtrakuta King Krishna I." },
+          { q: "In which year was the Khalsa Panth founded by Guru Gobind Singh?", a: "1699 (at Anandpur Sahib)." }
+        ]
+      },
+      {
+        id: "gk-20261114-3",
+        title: "Indian & World Geography: Climate, Local Winds, Straits & Islands",
+        tag: "Geography",
+        overview:
+          "Covers El Niño/La Niña, famous local winds, Indian island channels, ocean trenches, and global waterways.",
+        points: [
+          "El Niño vs La Niña: El Niño = abnormal warming of central/eastern Pacific Ocean (often weakens Indian Monsoon); La Niña = abnormal cooling of Pacific (often strengthens Indian Monsoon).",
+          "Famous Local Winds: Loo (hot dry wind in North Indian plains), Mango Showers (pre-monsoon rain in Kerala/Karnataka), Nor'westers / Kalbaisakhi (West Bengal/Assam), Chinook ('snow-eater', Rockies), Foehn (Alps), Mistral (France), Sirocco (Sahara to Mediterranean).",
+          "Indian Island Channels: 8-Degree Channel (Minicoy & Maldives), 9-Degree Channel (Minicoy & Lakshadweep), 10-Degree Channel (Andaman & Nicobar), Duncan Passage (South Andaman & Little Andaman).",
+          "Active Volcano in India: Barren Island (Andaman & Nicobar) is India's only active volcano; Narcondam is dormant.",
+          "Highest Peak of India & World: Mt. Everest (8,848.86 m, Nepal/Tibet); K2 / Godwin-Austen (8,611 m, Karakoram); Kanchenjunga (8,586 m, Sikkim — highest peak in India under undisputed control).",
+          "World's Deepest Trenches: Mariana Trench (Challenger Deep, ~11,034 m — Pacific Ocean), Sunda/Java Trench (Indian Ocean), Puerto Rico Trench (Atlantic Ocean).",
+          "Important Global Straits: Bering Strait (separates Asia/Russia & North America/USA), Strait of Gibraltar (connects Atlantic & Mediterranean, separates Europe & Africa), Strait of Hormuz (connects Persian Gulf & Gulf of Oman), Bab-el-Mandeb (Red Sea & Gulf of Aden).",
+          "Major World Canals: Suez Canal (1869, Egypt — Mediterranean to Red Sea); Panama Canal (1914 — Atlantic to Pacific); Kiel Canal (Germany).",
+          "Highest/Largest Waterfalls & Lakes: Angel Falls (Venezuela — highest waterfall), Jog/Gersoppa Falls (Sharavati river, Karnataka) & Kunchikal Falls (India); Caspian Sea (largest lake/saline), Lake Superior (largest freshwater by area), Lake Baikal (Russia — deepest freshwater lake).",
+          "Coral Reefs in India: Found in Lakshadweep (atolls), Gulf of Mannar, Gulf of Kutch, and Andaman & Nicobar Islands.",
+          "International Date Line: Roughly follows 180° Longitude (zig-zags around Pacific islands); crossing eastward subtracts a day, crossing westward adds a day.",
+          "Time Zones: Earth rotates 360° in 24 hours = 15° per hour (1° every 4 minutes). India's IST (82.5° E) is +5:30 ahead of GMT/UTC."
+        ],
+        flashcards: [
+          { q: "Which is India's only active volcano?", a: "Barren Island (Andaman & Nicobar Islands)." },
+          { q: "Which channel separates Lakshadweep from Minicoy vs Minicoy from Maldives?", a: "9-Degree Channel (Lakshadweep–Minicoy); 8-Degree Channel (Minicoy–Maldives)." },
+          { q: "Which strait separates Asia from North America?", a: "Bering Strait." },
+          { q: "What is the effect of El Niño vs La Niña on the Indian Monsoon?", a: "El Niño generally weakens the Indian Monsoon; La Niña strengthens it." },
+          { q: "Which is the deepest freshwater lake in the world?", a: "Lake Baikal (Siberia, Russia)." },
+          { q: "Where is the Sunda (Java) Trench located?", a: "Indian Ocean." }
+        ]
+      },
+      {
+        id: "gk-20261114-4",
+        title: "General Science: Human Body Systems, Hormones & Space Telescopes",
+        tag: "Science & Tech",
+        overview:
+          "Human anatomy, endocrine hormones, blood components, vaccines, and modern space observatories.",
+        points: [
+          "Blood Components: Plasma (55% liquid), RBCs/Erythrocytes (carry O₂ via Hemoglobin, lifespan ~120 days, formed in bone marrow, destroyed in spleen — 'graveyard of RBCs'), WBCs/Leukocytes (immunity), Platelets/Thrombocytes (blood clotting with Vitamin K).",
+          "Blood Groups (Discovered by Karl Landsteiner, 1900): A, B, AB, O; Rh factor discovered in Rhesus monkey by Landsteiner & Wiener.",
+          "Human Heart & Circulation: 4 chambers (2 atria, 2 ventricles); normal blood pressure = 120/80 mmHg; pacemaker is SA Node; Arteries carry blood away from heart (mostly oxygenated, except Pulmonary Artery); Veins carry blood to heart.",
+          "Digestive System: Digestion starts in the mouth (Salivary Amylase breaks starch); Stomach secretes HCl & Pepsin; Bile is produced by Liver (stored in Gall Bladder) to emulsify fats; Small Intestine completes digestion & absorption (villi).",
+          "Excretory System: Functional unit of Kidney is Nephron; Dialysis is used when kidneys fail; Urea is formed in the Liver.",
+          "Endocrine Glands & Hormones: Pituitary (Growth Hormone — master gland), Thyroid (Thyroxine — needs Iodine), Pancreas (Insulin & Glucagon — regulates blood sugar), Adrenal (Adrenaline — emergency hormone).",
+          "Human Eye & Ear: Retina acts like a screen (real & inverted image); Iris controls pupil size (eye colour); Cornea is donated in eye donation. Ear also maintains body balance (vestibular system).",
+          "Vaccines & Discoveries: Smallpox vaccine (Edward Jenner — first vaccine), Polio oral vaccine (Albert Sabin; injectable by Jonas Salk), BCG vaccine (for Tuberculosis).",
+          "Electromagnetic Spectrum (Long to Short Wavelength): Radio waves -> Microwaves -> Infrared -> Visible (VIBGYOR) -> Ultraviolet -> X-rays -> Gamma rays.",
+          "Space Telescopes: Hubble Space Telescope (1990, visible/UV, low Earth orbit) vs James Webb Space Telescope / JWST (2021, infrared, located at Lagrange Point L2, NASA-ESA-CSA).",
+          "India's Space Observatories: AstroSat (2015, multi-wavelength space telescope), Aditya-L1 (2023, Sun observation at L1 point), XPoSat (2024, X-ray polarimetry).",
+          "Nuclear Fission vs Fusion: Fission splits heavy nuclei like Uranium-235 (used in nuclear power plants & atom bombs); Fusion combines light nuclei like Hydrogen into Helium (powers the Sun & stars)."
+        ],
+        flashcards: [
+          { q: "Which organ is called the 'Graveyard of RBCs' and what is their lifespan?", a: "Spleen; RBC lifespan is ~120 days." },
+          { q: "What is the structural and functional unit of the human kidney?", a: "Nephron." },
+          { q: "Which part of the eye is donated during eye transplantation?", a: "Cornea." },
+          { q: "Where is Bile produced vs where is it stored?", a: "Produced in the Liver; stored in the Gall Bladder." },
+          { q: "Which nuclear reaction powers the Sun vs nuclear power reactors?", a: "Sun: Nuclear Fusion; Nuclear reactors: Nuclear Fission." },
+          { q: "Where is the James Webb Space Telescope (JWST) positioned?", a: "Sun–Earth Lagrange Point 2 (L2)." }
+        ]
+      },
+      {
+        id: "gk-20261114-5",
+        title: "Indian Economy: Balance of Payments, WTO, FDI & Key Indices",
+        tag: "Economy & Trade",
+        overview:
+          "International trade concepts, BoP accounts, FDI vs FPI, WTO rules, and flagship Indian economic indices.",
+        points: [
+          "Balance of Payments (BoP): Systematic record of all economic transactions between residents of a country and the rest of the world in a year.",
+          "Current Account vs Capital Account: Current Account records Trade in Goods (Visible/Merchandise), Services (Invisible), Remittances, and Income; Capital Account records FDI, FPI, External Commercial Borrowings (ECB), and Forex Reserves.",
+          "Current Account Deficit (CAD): Occurs when imports of goods/services exceed exports.",
+          "FDI vs FPI: Foreign Direct Investment (FDI) is long-term investment with management control (e.g., setting up a factory); Foreign Portfolio Investment (FPI) is short-term investment in stocks/bonds ('hot money').",
+          "Devaluation vs Depreciation: Devaluation is deliberate lowering of currency value by government/central bank under a fixed exchange rate; Depreciation is market-driven fall under a floating exchange rate.",
+          "Foreign Exchange Reserves (managed by RBI): Comprise Foreign Currency Assets (FCA), Gold, Special Drawing Rights (SDRs — 'Paper Gold' of IMF), and Reserve Tranche Position (RTP) with IMF.",
+          "World Trade Organization (WTO): Established Jan 1, 1995 (Marrakesh Agreement, replacing GATT 1947); HQ in Geneva, Switzerland. India is a founding member.",
+          "WTO Agricultural Subsidies Boxes: Green Box (minimal/non-trade-distorting, allowed), Blue Box (production-limiting), Amber Box (trade-distorting, subject to caps).",
+          "Intellectual Property Rights (TRIPS): Patents (20 years), Copyrights (author's lifetime + 60 years in India), Trademarks, Geographical Indications (10 years, renewable).",
+          "SEZs (Special Economic Zones): Duty-free enclaves treated as foreign territory for trade operations to boost exports (SEZ Act, 2005; Asia's first EPZ was set up in Kandla, Gujarat in 1965).",
+          "Ease of Doing Business & GII: World Bank's B-READY replaced Ease of Doing Business; WIPO publishes Global Innovation Index (GII).",
+          "Core Sector Industries in India (8 Core Sectors — 40.27% weight in IIP): Coal, Crude Oil, Natural Gas, Refinery Products (highest weight), Fertilizers, Steel, Cement, and Electricity."
+        ],
+        flashcards: [
+          { q: "What are the four components of India's Foreign Exchange Reserves?", a: "Foreign Currency Assets (FCA), Gold, SDRs, and Reserve Tranche Position with IMF." },
+          { q: "Which organization did the WTO replace on January 1, 1995?", a: "GATT (General Agreement on Tariffs and Trade)." },
+          { q: "Where was Asia's first Export Processing Zone (EPZ) set up in 1965?", a: "Kandla, Gujarat." },
+          { q: "Which of the 8 Core Industries has the highest weight in India's IIP?", a: "Refinery Products." },
+          { q: "What is the key difference between FDI and FPI?", a: "FDI is long-term with management/ownership stake; FPI is short-term financial market investment." },
+          { q: "What is 'Paper Gold' in international finance?", a: "Special Drawing Rights (SDRs) issued by the IMF." }
+        ]
+      },
+      {
+        id: "gk-20261114-6",
+        title: "Awards & Sports: Asian Games, FIFA, ICC World Cups & Chess",
+        tag: "Awards & Sports",
+        overview:
+          "Historical milestones in Asian Games, Cricket & Football World Cups, and Indian sporting legends.",
+        points: [
+          "Asian Games: First Asian Games were held in New Delhi in 1951 (also hosted in 1982); 2022/2023 Hangzhou (China) saw India win a record 107 medals; 2026 Asian Games hosted by Aichi-Nagoya (Japan).",
+          "Commonwealth Games (CWG): First held in 1930 (Hamilton, Canada); India hosted CWG 2010 (New Delhi) and will host CWG 2030 (Ahmedabad).",
+          "ICC Men's ODI World Cup: First held in 1975 (England — West Indies won); India won in 1983 (Kapil Dev) and 2011 (M.S. Dhoni); Australia has won the most (6 titles).",
+          "ICC Men's T20 World Cup: First held in 2007 (South Africa — India won under M.S. Dhoni); India also won in 2024 (Rohit Sharma) & 2026.",
+          "ICC Women's World Cup: India won the historic ICC Women's Cricket World Cup, earning a 2026 Laureus Team of the Year nomination.",
+          "FIFA Men's World Cup: First held in 1930 (Uruguay); Brazil has won the most titles (5); 2022 (Qatar — Argentina won); 2026 (jointly hosted by USA, Canada, and Mexico).",
+          "Chess Milestones: Originates from ancient Indian game 'Chaturanga'; 64 squares; India's 1st GM = Viswanathan Anand (1988); 100th GM = Anuj Shrivatri (2026); D. Gukesh became youngest World Chess Champion.",
+          "Major Indian Sports Legends: Major Dhyan Chand ('Wizard of Hockey', 3 Olympic Golds), Milkha Singh ('Flying Sikh'), P.T. Usha ('Payyoli Express', current IOA President), Mary Kom ('Magnificent Mary', 6x World Boxing Champion).",
+          "National Sports Awards Order: Major Dhyan Chand Khel Ratna (highest), Arjuna Award (est. 1961), Dronacharya Award (coaches, est. 1985), Dhyan Chand Award (lifetime achievement), Maulana Abul Kalam Azad (MAKA) Trophy (universities).",
+          "Olympic Rings: 5 interlocking rings (Blue, Yellow, Black, Green, Red) representing the 5 inhabited continents; Olympic Motto = 'Citius, Altius, Fortius – Communiter' (Faster, Higher, Stronger – Together)."
+        ],
+        flashcards: [
+          { q: "Where were the very first Asian Games held in 1951?", a: "New Delhi, India." },
+          { q: "Which three countries jointly host the 2026 FIFA Men's World Cup?", a: "USA, Canada, and Mexico." },
+          { q: "Which ancient Indian game is Chess believed to have originated from?", a: "Chaturanga." },
+          { q: "Who is the current President of the Indian Olympic Association (IOA) nicknamed 'Payyoli Express'?", a: "P.T. Usha." },
+          { q: "Which trophy is awarded to the top overall performing university in Indian inter-university sports?", a: "Maulana Abul Kalam Azad (MAKA) Trophy." },
+          { q: "In which years did India win the ICC Men's ODI Cricket World Cup?", a: "1983 (Kapil Dev) and 2011 (M.S. Dhoni)." }
+        ]
+      },
+      {
+        id: "gk-20261114-7",
+        title: "Famous Sobriquets (Nicknames) & Samadhis of Indian Leaders",
+        tag: "Personalities & Places",
+        overview:
+          "Popular titles/nicknames of iconic Indian personalities and the memorial sites (Samadhis) of national leaders.",
+        points: [
+          "Mahatma Gandhi: Father of the Nation, Bapu — Samadhi: Raj Ghat (New Delhi).",
+          "Jawaharlal Nehru: Chacha Nehru — Samadhi: Shanti Van (New Delhi).",
+          "Lal Bahadur Shastri: Man of Peace — Samadhi: Vijay Ghat (New Delhi).",
+          "Indira Gandhi: Iron Lady of India — Samadhi: Shakti Sthal (New Delhi).",
+          "Rajiv Gandhi: Samadhi: Veer Bhumi (New Delhi).",
+          "Dr. B.R. Ambedkar: Babasaheb, Architect of the Indian Constitution — Samadhi: Chaitya Bhoomi (Mumbai).",
+          "Dr. Rajendra Prasad: Deshratna, Ajatshatru — Samadhi: Mahaprayan Ghat (Patna).",
+          "Chaudhary Charan Singh: Champion of Farmers — Samadhi: Kisan Ghat (New Delhi).",
+          "Atal Bihari Vajpayee: Samadhi: Sadaiv Atal (New Delhi).",
+          "Iconic Sobriquets: Sardar Vallabhbhai Patel (Iron Man / Bismarck of India), Khan Abdul Ghaffar Khan (Frontier Gandhi / Badshah Khan), Sarojini Naidu (Nightingale of India), Lala Lajpat Rai (Punjab Kesari / Sher-e-Punjab).",
+          "More Sobriquets: Chittaranjan Das (Deshbandhu), C.F. Andrews (Deenabandhu), Subhas Chandra Bose (Netaji), Bhagat Singh (Shaheed-e-Azam), Rabindranath Tagore (Gurudev), Raja Ram Mohan Roy (Morning Star of Indian Renaissance).",
+          "City Nicknames in India: Jaipur (Pink City), Udaipur (City of Lakes), Bengaluru (Silicon Valley / Garden City), Kochi (Queen of the Arabian Sea), Kolkata (City of Joy), Surat (Diamond City), Jamshedpur (Steel City)."
+        ],
+        flashcards: [
+          { q: "Match Raj Ghat, Shanti Van, and Vijay Ghat to the leaders.", a: "Raj Ghat = Mahatma Gandhi; Shanti Van = Jawaharlal Nehru; Vijay Ghat = Lal Bahadur Shastri." },
+          { q: "Where is Chaitya Bhoomi (memorial of Dr. B.R. Ambedkar) located?", a: "Mumbai, Maharashtra." },
+          { q: "Who was called 'Frontier Gandhi' and was the first foreigner to receive the Bharat Ratna?", a: "Khan Abdul Ghaffar Khan." },
+          { q: "Who is known as 'Deshbandhu' vs 'Deenabandhu'?", a: "Deshbandhu = Chittaranjan Das; Deenabandhu = C.F. Andrews." },
+          { q: "Which Indian city is nicknamed the 'Queen of the Arabian Sea'?", a: "Kochi (Kerala)." },
+          { q: "Whose memorial in New Delhi is named 'Kisan Ghat'?", a: "Chaudhary Charan Singh." }
+        ]
+      },
+      {
+        id: "gk-20261114-8",
+        title: "Premier National Research Institutes & Their Headquarters",
+        tag: "Institutions & HQ",
+        overview:
+          "Frequently tested 'Where is this institute located?' facts across agriculture, science, medicine, and forestry.",
+        points: [
+          "IARI (Indian Agricultural Research Institute — Pusa) & ICAR: New Delhi.",
+          "NDRI (National Dairy Research Institute): Karnal, Haryana.",
+          "Forest Research Institute (FRI): Dehradun, Uttarakhand.",
+          "Indian Institute of Petroleum (IIP): Dehradun, Uttarakhand.",
+          "National Institute of Oceanography (NIO): Dona Paula, Goa.",
+          "BARC (Bhabha Atomic Research Centre): Trombay, Mumbai, Maharashtra.",
+          "IGCAR (Indira Gandhi Centre for Atomic Research): Kalpakkam, Tamil Nadu.",
+          "TIFR (Tata Institute of Fundamental Research): Mumbai, Maharashtra.",
+          "Central Drug Research Institute (CDRI) & National Botanical Research Institute (NBRI): Lucknow, Uttar Pradesh.",
+          "Central Rice Research Institute (CRRI / NRRI): Cuttack, Odisha.",
+          "Central Potato Research Institute (CPRI): Shimla, Himachal Pradesh.",
+          "Central Leather Research Institute (CLRI): Chennai, Tamil Nadu.",
+          "Botanical Survey of India (BSI) & Zoological Survey of India (ZSI): Kolkata, West Bengal.",
+          "National Institute of Virology (NIV): Pune, Maharashtra."
+        ],
+        flashcards: [
+          { q: "Where is the Forest Research Institute (FRI) located?", a: "Dehradun, Uttarakhand." },
+          { q: "Where is the National Dairy Research Institute (NDRI) located?", a: "Karnal, Haryana." },
+          { q: "Where is the National Rice Research Institute (CRRI) located?", a: "Cuttack, Odisha." },
+          { q: "Where is the Bhabha Atomic Research Centre (BARC) located?", a: "Trombay, Mumbai." },
+          { q: "Where is the National Institute of Oceanography (NIO) located?", a: "Goa (Dona Paula)." },
+          { q: "Where is the National Institute of Virology (NIV) located?", a: "Pune, Maharashtra." }
+        ]
+      },
+      {
+        id: "gk-20261114-9",
+        title: "Firsts in India & the World (Leaders, Pioneers & Milestones)",
+        tag: "Firsts & Milestones",
+        overview:
+          "Classic static GK covering trailblazing Indian and global pioneers across politics, space, sports, and science.",
+        points: [
+          "First President of India: Dr. Rajendra Prasad; First Woman President: Pratibha Devisingh Patil; First Tribal Woman President: Droupadi Murmu.",
+          "First Prime Minister: Jawaharlal Nehru; First Woman PM: Indira Gandhi; First Deputy PM & Home Minister: Sardar Vallabhbhai Patel.",
+          "First Chief Justice of India (CJI): Justice H.J. Kania; First Woman Judge of Supreme Court: Justice M. Fathima Beevi (no woman CJI yet, Justice B.V. Nagarathna is in line for 2027).",
+          "First Speaker of Lok Sabha: G.V. Mavalankar; First Woman Speaker: Meira Kumar.",
+          "First Chief Election Commissioner: Sukumar Sen; First Woman CEC (acting/full): V.S. Ramadevi.",
+          "First Woman Governor of an Indian State: Sarojini Naidu (UP); First Woman Chief Minister: Sucheta Kripalani (UP).",
+          "First Indian to win Oscar: Bhanu Athaiya (1983, Costume Design for 'Gandhi'); Satyajit Ray received Honorary Oscar (1992); A.R. Rahman & Resul Pookutty (2009); 'RRR' Naatu Naatu & 'The Elephant Whisperers' (2023).",
+          "First Indian in Space: Rakesh Sharma (1984, aboard Soyuz T-11); First Indian-origin woman in space: Kalpana Chawla.",
+          "First Woman to climb Mt. Everest: Junko Tabei (Japan, 1975); First Indian Woman: Bachendri Pal (1984); First to climb twice: Santosh Yadav.",
+          "First Woman to swim across English Channel (Indian): Arati Saha (1959).",
+          "First Indian to pass ICS (Indian Civil Service): Satyendranath Tagore (1863).",
+          "First Country to grant Women's Voting Rights: New Zealand (1893); First Woman PM in the world: Sirimavo Bandaranaike (Sri Lanka, 1960)."
+        ],
+        flashcards: [
+          { q: "Who was the first Chief Election Commissioner of India?", a: "Sukumar Sen." },
+          { q: "Who was the first Indian to win an Academy Award (Oscar)?", a: "Bhanu Athaiya (1983, Costume Design for 'Gandhi')." },
+          { q: "Who was the first Woman Judge of the Supreme Court of India?", a: "Justice M. Fathima Beevi." },
+          { q: "Who was the first Indian to clear the Indian Civil Service (ICS) exam?", a: "Satyendranath Tagore (1863)." },
+          { q: "Who was the first Indian woman to climb Mount Everest?", a: "Bachendri Pal (1984)." },
+          { q: "Which country was the first in the world to grant women the right to vote?", a: "New Zealand (1893)." }
+        ]
+      },
+      {
+        id: "gk-20261114-10",
+        title: "Scientific Inventions, Discoveries & Fundamental Laws",
+        tag: "Inventions & Laws",
+        overview:
+          "Matches famous inventions, subatomic discoveries, and everyday physics/chemistry laws to their scientists.",
+        points: [
+          "Subatomic Particles: Electron (J.J. Thomson, 1897), Proton (E. Goldstein / Ernest Rutherford), Neutron (James Chadwick, 1932), Atomic Nucleus (Ernest Rutherford).",
+          "Medical Breakthroughs: Penicillin — first antibiotic (Alexander Fleming, 1928); X-rays (Wilhelm Röntgen, 1895 — first Physics Nobel); Radioactivity (Henri Becquerel; Radium/Polonium by Marie & Pierre Curie).",
+          "Electricity & Magnetism: Bulb (Thomas Edison), Telephone (Alexander Graham Bell), Radio (Guglielmo Marconi), Television (John Logie Baird), Electromagnetic Induction (Michael Faraday).",
+          "Everyday Physics Laws: Archimedes' Principle (buoyancy/upthrust), Pascal's Law (hydraulic brakes/lifts), Bernoulli's Principle (airplane wing lift), Doppler Effect (change in pitch of moving siren).",
+          "Gas Laws: Boyle's Law (P ∝ 1/V at constant temperature), Charles's Law (V ∝ T at constant pressure).",
+          "Chemistry & Periodic Table: Modern Periodic Table arranged by Atomic Number (Henry Moseley); earlier Mendeleev arranged by Atomic Mass.",
+          "Gravity & Relativity: Universal Gravitation & Laws of Motion (Sir Isaac Newton); Theory of Relativity E = mc² & Photoelectric Effect (Albert Einstein).",
+          "Indian Scientists: Sir C.V. Raman (Raman Effect — 1930 Physics Nobel), S. Chandrasekhar (Chandrasekhar Limit — 1983 Physics Nobel), Homi J. Bhabha (Father of Indian Nuclear Programme), Jagadish Chandra Bose (Crescograph — plant growth), Satyendra Nath Bose (Bose-Einstein Statistics / Bosons)."
+        ],
+        flashcards: [
+          { q: "Match Electron, Proton, and Neutron to their discoverers.", a: "Electron = J.J. Thomson; Proton = Rutherford/Goldstein; Neutron = James Chadwick." },
+          { q: "Who discovered Penicillin (the first antibiotic) in 1928?", a: "Alexander Fleming." },
+          { q: "Which law explains how hydraulic brakes in vehicles work?", a: "Pascal's Law." },
+          { q: "Who invented the Crescograph to measure growth in plants?", a: "Sir Jagadish Chandra Bose." },
+          { q: "Who arranged the Modern Periodic Table by Atomic Number?", a: "Henry Moseley." },
+          { q: "For which discovery did Albert Einstein win the 1921 Nobel Prize in Physics?", a: "The Photoelectric Effect (not Relativity!)." }
+        ]
+      }
+    ],
+    questions: [
+      {
+        id: "q-20261114-1",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "Children's Day (Bal Diwas) on 14 November 2026 marked which birth anniversary of Pandit Jawaharlal Nehru?",
+        options: [
+          "135th",
+          "137th",
+          "140th",
+          "150th"
+        ],
+        answer: 1,
+        explanation: "Born on 14 November 1889, 14 November 2026 marked Pandit Jawaharlal Nehru's 137th birth anniversary."
+      },
+      {
+        id: "q-20261114-2",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "World Diabetes Day on 14 November is observed on the birthday of which scientist who co-discovered Insulin?",
+        options: [
+          "Alexander Fleming",
+          "Sir Frederick Banting",
+          "Edward Jenner",
+          "Jonas Salk"
+        ],
+        answer: 1,
+        explanation: "November 14 honours Sir Frederick Banting, who co-discovered Insulin with Charles Best in 1922."
+      },
+      {
+        id: "q-20261114-3",
+        format: "Direct Fact",
+        topic: "Current Affairs · Polity & Demographics",
+        question: "As highlighted in the Supreme Court's recent observation on two-child norm laws, what is India's current Total Fertility Rate (TFR)?",
+        options: [
+          "2.4",
+          "2.1",
+          "1.9",
+          "1.5"
+        ],
+        answer: 2,
+        explanation: "India's Total Fertility Rate (TFR) has dropped to 1.9, below the replacement level of 2.1."
+      },
+      {
+        id: "q-20261114-4",
+        format: "Direct Fact",
+        topic: "Current Affairs · Economy",
+        question: "India's retail inflation (CPI) surged to what level in October 2026, breaching the RBI's 6% upper tolerance limit for the first time in two years?",
+        options: [
+          "5.50%",
+          "6.09%",
+          "6.85%",
+          "7.40%"
+        ],
+        answer: 1,
+        explanation: "CPI retail inflation rose to 6.09% in October 2026, driven by food inflation at 8.94%."
+      },
+      {
+        id: "q-20261114-5",
+        format: "Direct Fact",
+        topic: "Current Affairs · Banking",
+        question: "The RBI recently granted an Authorised Dealer Category-II (AD-II) licence to which entity to expand specialized green financing?",
+        options: [
+          "Bajaj Finserv",
+          "Mufin Green Finance Limited",
+          "IREDA",
+          "Power Finance Corporation"
+        ],
+        answer: 1,
+        explanation: "RBI granted an AD-II licence to Mufin Green Finance Limited."
+      },
+      {
+        id: "q-20261114-6",
+        format: "Direct Fact",
+        topic: "Current Affairs · Economy",
+        question: "NCDEX partnered with BigMint Technologies to launch India's first PRA-based futures contract for which commodity?",
+        options: [
+          "Basmati Rice",
+          "Steel Scrap",
+          "Green Ammonia",
+          "Lithium Carbonate"
+        ],
+        answer: 1,
+        explanation: "NCDEX launched India's first Price Reporting Agency (PRA)-based Steel Scrap Futures Contract (HMS 80:20 grade)."
+      },
+      {
+        id: "q-20261114-7",
+        format: "Direct Fact",
+        topic: "Current Affairs · Defence",
+        question: "The 8th edition of the bilateral naval exercise 'IMNEX-26' concluded on 14 November 2026 in Visakhapatnam between India and which country?",
+        options: [
+          "Maldives",
+          "Myanmar",
+          "Malaysia",
+          "Mauritius"
+        ],
+        answer: 1,
+        explanation: "IMNEX-26 is the bilateral maritime exercise between the Indian Navy and the Myanmar Navy."
+      },
+      {
+        id: "q-20261114-8",
+        format: "Direct Fact",
+        topic: "Current Affairs · Defence",
+        question: "'Mitra Shakti 2026' is a joint bilateral army exercise between India and:",
+        options: [
+          "Nepal",
+          "Sri Lanka",
+          "Bangladesh",
+          "Thailand"
+        ],
+        answer: 1,
+        explanation: "Exercise Mitra Shakti is conducted between the Indian Army and the Sri Lankan Army."
+      },
+      {
+        id: "q-20261114-9",
+        format: "Direct Fact",
+        topic: "Current Affairs · National",
+        question: "The proposed 'Mekedatu' balancing reservoir project is planned across which river in Karnataka?",
+        options: [
+          "Krishna",
+          "Tungabhadra",
+          "Cauvery (Kaveri)",
+          "Godavari"
+        ],
+        answer: 2,
+        explanation: "Mekedatu is a proposed balancing reservoir across the Cauvery River in Karnataka."
+      },
+      {
+        id: "q-20261114-10",
+        format: "Direct Fact",
+        topic: "Current Affairs · Science & Tech",
+        question: "India recently committed over €7 million to participate in the 'Elettra 2.0' synchrotron research project in which country?",
+        options: [
+          "France",
+          "Germany",
+          "Italy",
+          "Switzerland"
+        ],
+        answer: 2,
+        explanation: "India committed over €7 million toward Italy's Elettra 2.0 synchrotron project."
+      },
+      {
+        id: "q-20261114-11",
+        format: "Direct Fact",
+        topic: "Current Affairs · Science & Agriculture",
+        question: "What is the brand name of India's first indigenously discovered insecticide molecule (Pioxaniliprole) launched recently?",
+        options: [
+          "Pioxazon",
+          "AgriShield",
+          "KrishiVajra",
+          "BioGuard"
+        ],
+        answer: 0,
+        explanation: "Pioxaniliprole was launched under the brand name 'Pioxazon'."
+      },
+      {
+        id: "q-20261114-12",
+        format: "Direct Fact",
+        topic: "Current Affairs · Energy Infrastructure",
+        question: "Where was India's largest underground LPG storage cavern recently inaugurated?",
+        options: [
+          "Kochi, Kerala",
+          "Mangaluru, Karnataka",
+          "Jamnagar, Gujarat",
+          "Paradip, Odisha"
+        ],
+        answer: 1,
+        explanation: "India's largest underground LPG storage cavern was inaugurated in Mangaluru, Karnataka."
+      },
+      {
+        id: "q-20261114-13",
+        format: "Direct Fact",
+        topic: "Current Affairs · Sports",
+        question: "Gunjan and Lairenlakpam Ambekar Meetei recently scripted history by winning India's first-ever Youth Olympic gold medals in which sport?",
+        options: [
+          "Wrestling",
+          "Boxing",
+          "Weightlifting",
+          "Shooting"
+        ],
+        answer: 1,
+        explanation: "They won India's first-ever Youth Olympic gold medals in Boxing."
+      },
+      {
+        id: "q-20261114-14",
+        format: "Direct Fact",
+        topic: "Current Affairs · Sports",
+        question: "Which Indian cricketer won the ICC Women's Player of the Month award for October 2026?",
+        options: [
+          "Smriti Mandhana",
+          "Harmanpreet Kaur",
+          "Deepti Sharma",
+          "Shafali Verma"
+        ],
+        answer: 2,
+        explanation: "Indian all-rounder Deepti Sharma won the ICC Women's Player of the Month for October 2026."
+      },
+      {
+        id: "q-20261114-15",
+        format: "Statement-Based",
+        topic: "Current Affairs · Sports & Awards",
+        question: "Consider the following statements:\n1. The Indian women's cricket team was nominated for the Laureus World Team of the Year Award.\n2. The Major Dhyan Chand Khel Ratna Award went unawarded this year for the first time since 2014.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct."
+      },
+      {
+        id: "q-20261114-16",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which of the following pairs of Indian states does NOT have a Bicameral Legislature (Legislative Council)?",
+        options: [
+          "Uttar Pradesh and Bihar",
+          "Maharashtra and Karnataka",
+          "Andhra Pradesh and Telangana",
+          "Rajasthan and Gujarat"
+        ],
+        answer: 3,
+        explanation: "Only 6 states have a Legislative Council: UP, Bihar, Maharashtra, Karnataka, AP, and Telangana."
+      },
+      {
+        id: "q-20261114-17",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "What is the minimum age required to contest Panchayati Raj or Municipal elections in India?",
+        options: [
+          "18 years",
+          "21 years",
+          "25 years",
+          "30 years"
+        ],
+        answer: 1,
+        explanation: "Minimum age to vote is 18 years, while minimum age to contest Panchayat/Municipal elections is 21 years."
+      },
+      {
+        id: "q-20261114-18",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Who was appointed as India's very first Lokpal in 2019?",
+        options: [
+          "Justice Ranjan Gogoi",
+          "Justice Pinaki Chandra Ghose",
+          "Justice N.V. Ramana",
+          "Justice A.K. Sikri"
+        ],
+        answer: 1,
+        explanation: "Justice Pinaki Chandra Ghose was appointed as India's first Lokpal in 2019."
+      },
+      {
+        id: "q-20261114-19",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Which Kushan emperor started the Saka Era in 78 CE, which serves as India's official national calendar?",
+        options: [
+          "Kujula Kadphises",
+          "Kanishka",
+          "Ashoka",
+          "Samudragupta"
+        ],
+        answer: 1,
+        explanation: "Kanishka started the Saka Era in 78 CE."
+      },
+      {
+        id: "q-20261114-20",
+        format: "Match the Following",
+        topic: "Static GK · History",
+        question: "Match the Monument with the Dynasty/Ruler that built it:\n1. Brihadeeswarar Temple (Thanjavur) — (i) Krishna I (Rashtrakuta)\n2. Kailasa Temple (Ellora) — (ii) Rajaraja Chola I\n3. Shore Temple (Mahabalipuram) — (iii) Narasimhavarman I (Pallava)\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(i), 2-(ii), 3-(iii)",
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(iii), 2-(i), 3-(ii)"
+        ],
+        answer: 0,
+        explanation: "Brihadeeswarar = Rajaraja Chola I; Kailasa Temple = Krishna I; Shore Temple = Narasimhavarman I."
+      },
+      {
+        id: "q-20261114-21",
+        format: "Chronological Order",
+        topic: "Static GK · History",
+        question: "Arrange the arrival of European trading powers in India in chronological order (earliest to latest):\n1. Portuguese\n2. Dutch\n3. British\n4. French",
+        options: [
+          "1, 2, 3, 4",
+          "1, 3, 2, 4",
+          "2, 1, 3, 4",
+          "1, 2, 4, 3"
+        ],
+        answer: 0,
+        explanation: "Portuguese (1498) -> Dutch (1602/1605) -> British (1608 at Surat) -> French (1664)."
+      },
+      {
+        id: "q-20261114-22",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Who wrote 'Amuktamalyada' and patronized the 'Ashtadiggajas' in the Vijayanagara Empire?",
+        options: [
+          "Harihara I",
+          "Deva Raya II",
+          "Krishnadevaraya",
+          "Bukka Raya"
+        ],
+        answer: 2,
+        explanation: "Krishnadevaraya of the Tuluva dynasty authored 'Amuktamalyada' in Telugu."
+      },
+      {
+        id: "q-20261114-23",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which island in the Andaman & Nicobar archipelago is India's only active volcano?",
+        options: [
+          "Narcondam Island",
+          "Barren Island",
+          "Havelock Island",
+          "Great Nicobar"
+        ],
+        answer: 1,
+        explanation: "Barren Island is India's only active volcano (Narcondam is dormant)."
+      },
+      {
+        id: "q-20261114-24",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which strait separates Asia (Russia) from North America (Alaska, USA)?",
+        options: [
+          "Strait of Gibraltar",
+          "Strait of Hormuz",
+          "Bering Strait",
+          "Strait of Malacca"
+        ],
+        answer: 2,
+        explanation: "The Bering Strait separates Russia and Alaska (North America)."
+      },
+      {
+        id: "q-20261114-25",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which is the deepest freshwater lake in the world?",
+        options: [
+          "Lake Superior",
+          "Lake Victoria",
+          "Lake Baikal",
+          "Caspian Sea"
+        ],
+        answer: 2,
+        explanation: "Lake Baikal in Siberia, Russia is the world's deepest freshwater lake."
+      },
+      {
+        id: "q-20261114-26",
+        format: "Assertion & Reason",
+        topic: "Static GK · Geography",
+        question: "Assertion (A): El Niño years are often associated with weaker monsoon rainfall in India.\nReason (R): El Niño involves abnormal warming of the central and eastern Pacific Ocean, disrupting global atmospheric circulation.\nChoose the correct option:",
+        options: [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is not the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        answer: 0,
+        explanation: "El Niño's Pacific warming shifts convection patterns and frequently suppresses the Indian Southwest Monsoon."
+      },
+      {
+        id: "q-20261114-27",
+        format: "Direct Fact",
+        topic: "Static GK · Biology",
+        question: "Which organ is known as the 'Graveyard of Red Blood Cells (RBCs)'?",
+        options: [
+          "Liver",
+          "Spleen",
+          "Kidney",
+          "Pancreas"
+        ],
+        answer: 1,
+        explanation: "Old RBCs (after ~120 days) are destroyed in the Spleen."
+      },
+      {
+        id: "q-20261114-28",
+        format: "Direct Fact",
+        topic: "Static GK · Biology",
+        question: "What is the structural and functional unit of the human kidney?",
+        options: [
+          "Neuron",
+          "Nephron",
+          "Alveoli",
+          "Villi"
+        ],
+        answer: 1,
+        explanation: "Nephron is the filtration unit of the kidney (Neuron is of the nervous system)."
+      },
+      {
+        id: "q-20261114-29",
+        format: "Direct Fact",
+        topic: "Static GK · Space",
+        question: "Where is the James Webb Space Telescope (JWST) stationed in space?",
+        options: [
+          "Low Earth Orbit (400 km)",
+          "Geostationary Orbit",
+          "Sun–Earth Lagrange Point 2 (L2)",
+          "Lunar Orbit"
+        ],
+        answer: 2,
+        explanation: "JWST orbits around the Sun–Earth L2 point (~1.5 million km from Earth)."
+      },
+      {
+        id: "q-20261114-30",
+        format: "Direct Fact",
+        topic: "Static GK · Science",
+        question: "Which nuclear process powers the Sun and other stars?",
+        options: [
+          "Nuclear Fission",
+          "Nuclear Fusion",
+          "Radioactive Beta Decay",
+          "Electrolysis"
+        ],
+        answer: 1,
+        explanation: "The Sun is powered by Nuclear Fusion (Hydrogen nuclei fusing into Helium)."
+      },
+      {
+        id: "q-20261114-31",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Which of the following is NOT part of the Current Account of India's Balance of Payments (BoP)?",
+        options: [
+          "Merchandise Exports & Imports",
+          "Services Trade",
+          "Remittances from abroad",
+          "Foreign Direct Investment (FDI)"
+        ],
+        answer: 3,
+        explanation: "FDI and FPI are recorded under the Capital Account of the Balance of Payments."
+      },
+      {
+        id: "q-20261114-32",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Where was Asia's very first Export Processing Zone (EPZ) established in 1965?",
+        options: [
+          "Mumbai, Maharashtra",
+          "Kandla, Gujarat",
+          "Chennai, Tamil Nadu",
+          "Noida, Uttar Pradesh"
+        ],
+        answer: 1,
+        explanation: "Asia's first EPZ was set up in Kandla, Gujarat in 1965."
+      },
+      {
+        id: "q-20261114-33",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Among India's Eight Core Industries (IIP), which sector carries the highest weightage?",
+        options: [
+          "Coal",
+          "Steel",
+          "Refinery Products",
+          "Electricity"
+        ],
+        answer: 2,
+        explanation: "Refinery Products carries the highest weight (~28.04%) among the 8 Core Industries."
+      },
+      {
+        id: "q-20261114-34",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "In international finance, what is popularly referred to as 'Paper Gold'?",
+        options: [
+          "Eurobonds",
+          "Special Drawing Rights (SDRs)",
+          "Sovereign Gold Bonds",
+          "Treasury Bills"
+        ],
+        answer: 1,
+        explanation: "Special Drawing Rights (SDRs) created by the IMF are known as 'Paper Gold'."
+      },
+      {
+        id: "q-20261114-35",
+        format: "Direct Fact",
+        topic: "Static GK · Sports",
+        question: "Which city hosted the very first Asian Games in 1951?",
+        options: [
+          "Tokyo",
+          "New Delhi",
+          "Bangkok",
+          "Manila"
+        ],
+        answer: 1,
+        explanation: "New Delhi hosted the inaugural Asian Games in 1951."
+      },
+      {
+        id: "q-20261114-36",
+        format: "Direct Fact",
+        topic: "Static GK · Sports",
+        question: "Which three countries will jointly host the 2026 FIFA Men's World Cup?",
+        options: [
+          "Spain, Portugal, and Morocco",
+          "USA, Canada, and Mexico",
+          "England, Scotland, and Wales",
+          "Brazil, Argentina, and Uruguay"
+        ],
+        answer: 1,
+        explanation: "The 2026 FIFA World Cup will be co-hosted by the USA, Canada, and Mexico."
+      },
+      {
+        id: "q-20261114-37",
+        format: "Match the Following",
+        topic: "Static GK · Samadhis",
+        question: "Match the Indian Leader with their Samadhi (Memorial) in New Delhi:\n1. Mahatma Gandhi — (i) Vijay Ghat\n2. Jawaharlal Nehru — (ii) Raj Ghat\n3. Lal Bahadur Shastri — (iii) Shanti Van\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(iii), 2-(ii), 3-(i)"
+        ],
+        answer: 0,
+        explanation: "Mahatma Gandhi = Raj Ghat; Jawaharlal Nehru = Shanti Van; Lal Bahadur Shastri = Vijay Ghat."
+      },
+      {
+        id: "q-20261114-38",
+        format: "Direct Fact",
+        topic: "Static GK · Personalities",
+        question: "Who was popularly known as 'Frontier Gandhi' and was the first non-Indian to receive the Bharat Ratna?",
+        options: [
+          "Maulana Abul Kalam Azad",
+          "Khan Abdul Ghaffar Khan",
+          "C.F. Andrews",
+          "Nelson Mandela"
+        ],
+        answer: 1,
+        explanation: "Khan Abdul Ghaffar Khan ('Badshah Khan') was called Frontier Gandhi and received Bharat Ratna in 1987."
+      },
+      {
+        id: "q-20261114-39",
+        format: "Match the Following",
+        topic: "Static GK · Research Institutes",
+        question: "Match the National Research Institute with its Headquarters:\n1. Forest Research Institute (FRI) — (i) Karnal\n2. National Dairy Research Institute (NDRI) — (ii) Cuttack\n3. Central Rice Research Institute (CRRI) — (iii) Dehradun\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "FRI = Dehradun; NDRI = Karnal; CRRI = Cuttack."
+      },
+      {
+        id: "q-20261114-40",
+        format: "Direct Fact",
+        topic: "Static GK · Research Institutes",
+        question: "Where is the National Institute of Oceanography (NIO) located?",
+        options: [
+          "Visakhapatnam",
+          "Kochi",
+          "Goa (Dona Paula)",
+          "Chennai"
+        ],
+        answer: 2,
+        explanation: "The National Institute of Oceanography (CSIR-NIO) is headquartered at Dona Paula, Goa."
+      },
+      {
+        id: "q-20261114-41",
+        format: "Direct Fact",
+        topic: "Static GK · Firsts in India",
+        question: "Who was the first Indian to win an Academy Award (Oscar) in 1983?",
+        options: [
+          "Satyajit Ray",
+          "Bhanu Athaiya",
+          "A.R. Rahman",
+          "Resul Pookutty"
+        ],
+        answer: 1,
+        explanation: "Bhanu Athaiya won India's first Oscar in 1983 for Best Costume Design for the film 'Gandhi'."
+      },
+      {
+        id: "q-20261114-42",
+        format: "Direct Fact",
+        topic: "Static GK · Firsts in India",
+        question: "Who was the first Woman Judge of the Supreme Court of India?",
+        options: [
+          "Justice Leila Seth",
+          "Justice Anna Chandy",
+          "Justice M. Fathima Beevi",
+          "Justice Indu Malhotra"
+        ],
+        answer: 2,
+        explanation: "Justice M. Fathima Beevi became the first woman judge of the Supreme Court of India in 1989."
+      },
+      {
+        id: "q-20261114-43",
+        format: "Direct Fact",
+        topic: "Static GK · Firsts in India",
+        question: "Who was the first Chief Election Commissioner (CEC) of India?",
+        options: [
+          "T.N. Seshan",
+          "Sukumar Sen",
+          "K.V.K. Sundaram",
+          "S.P. Sen Verma"
+        ],
+        answer: 1,
+        explanation: "Sukumar Sen served as India's first Chief Election Commissioner (1950–1958)."
+      },
+      {
+        id: "q-20261114-44",
+        format: "Direct Fact",
+        topic: "Static GK · Firsts in the World",
+        question: "Which country became the first in the world to grant women the right to vote in 1893?",
+        options: [
+          "United Kingdom",
+          "United States",
+          "New Zealand",
+          "Switzerland"
+        ],
+        answer: 2,
+        explanation: "New Zealand was the first self-governing country to grant women the right to vote (1893)."
+      },
+      {
+        id: "q-20261114-45",
+        format: "Match the Following",
+        topic: "Static GK · Discoveries",
+        question: "Match the Subatomic Particle with its Discoverer:\n1. Electron — (i) James Chadwick\n2. Neutron — (ii) J.J. Thomson\n3. Nucleus — (iii) Ernest Rutherford\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(i), 2-(ii), 3-(iii)",
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(iii), 2-(i), 3-(ii)"
+        ],
+        answer: 0,
+        explanation: "Electron = J.J. Thomson; Neutron = James Chadwick; Atomic Nucleus = Ernest Rutherford."
+      },
+      {
+        id: "q-20261114-46",
+        format: "Direct Fact",
+        topic: "Static GK · Discoveries",
+        question: "Who discovered Penicillin, the world's first antibiotic, in 1928?",
+        options: [
+          "Louis Pasteur",
+          "Alexander Fleming",
+          "Robert Koch",
+          "Joseph Lister"
+        ],
+        answer: 1,
+        explanation: "Sir Alexander Fleming discovered Penicillin in 1928 from the fungus Penicillium notatum."
+      },
+      {
+        id: "q-20261114-47",
+        format: "Direct Fact",
+        topic: "Static GK · Physics",
+        question: "Hydraulic brakes in automobiles work on which scientific principle?",
+        options: [
+          "Archimedes' Principle",
+          "Pascal's Law",
+          "Bernoulli's Principle",
+          "Boyle's Law"
+        ],
+        answer: 1,
+        explanation: "Pascal's Law states that pressure applied to a confined fluid is transmitted equally in all directions."
+      },
+      {
+        id: "q-20261114-48",
+        format: "Direct Fact",
+        topic: "Static GK · Indian Scientists",
+        question: "Who invented the 'Crescograph' to measure growth in plants?",
+        options: [
+          "Sir C.V. Raman",
+          "Sir Jagadish Chandra Bose",
+          "Homi J. Bhabha",
+          "Meghnad Saha"
+        ],
+        answer: 1,
+        explanation: "Sir Jagadish Chandra Bose invented the Crescograph to demonstrate plant sensitivity and growth."
+      },
+      {
+        id: "q-20261114-49",
+        format: "Direct Fact",
+        topic: "Static GK · Chemistry",
+        question: "Who arranged the Modern Periodic Table based on Atomic Number rather than Atomic Mass?",
+        options: [
+          "Dmitri Mendeleev",
+          "Henry Moseley",
+          "John Newlands",
+          "Antoine Lavoisier"
+        ],
+        answer: 1,
+        explanation: "Henry Moseley (1913) formulated the Modern Periodic Law based on Atomic Number."
+      },
+      {
+        id: "q-20261114-50",
+        format: "Statement-Based",
+        topic: "Static GK · Science & Nobel",
+        question: "Consider the following statements:\n1. Albert Einstein won the 1921 Nobel Prize in Physics for explaining the Photoelectric Effect.\n2. S. Chandrasekhar won the Nobel Prize in Physics for the 'Chandrasekhar Limit' concerning white dwarf stars.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct."
+      }
+    ]
+  },
+  {
     date: "2026-11-13",
     displayDate: "13 Nov 2026",
     theme: "Visa Reform, Earthshot & Infosys Prizes, Shooting Quota, Space & World Pneumonia Day",
