@@ -2,6 +2,1272 @@
 // Newest day appears first. Automatically updated daily at 7:00 AM IST.
 window.CUET_MODULES = [
   {
+    date: "2026-11-20",
+    displayDate: "20 Nov 2026",
+    theme: "Earthshot Mumbai, Cyclone Akvan, APEC 2026, AIIMS Milestone & World Children's Day",
+    currentAffairs: [
+      {
+        id: "ca-20261120-1",
+        category: "Sports & Awards",
+        title: "Mumbai Hosts Earthshot Prize 2026; India's Mahindra Last Mile Mobility Wins",
+        summary:
+          "For the first time ever, India hosted Prince William's prestigious Earthshot Prize ceremony in Mumbai, celebrating five £1 million global environmental winners.",
+        keyPoints: [
+          "Clean Our Air: Mahindra Last Mile Mobility (India) won for scaling electric three-wheelers and commercial EVs.",
+          "Protect & Restore Nature: Bhutan won for safeguarding Himalayan forest and water systems supporting 1.6 billion people.",
+          "Revive Our Oceans: Niue Ocean Wide Trust (Niue); Build a Waste-Free World: PFAS-Free France; Fix Our Climate: Ørsted (Denmark).",
+          "Each of the five category winners receives £1 million to scale their environmental solution."
+        ],
+        examTip:
+          "Know the 5 Earthshot categories and the Indian winner: Mahindra Last Mile Mobility (Clean Our Air)."
+      },
+      {
+        id: "ca-20261120-2",
+        category: "Important Days",
+        title: "World Children's Day Observed Globally on 20 November 2026",
+        summary:
+          "World Children's Day was observed worldwide on November 20 under the theme 'My Day. My Rights. My Future.'",
+        keyPoints: [
+          "2026 Theme: 'My Day. My Rights. My Future.', led globally by UNICEF.",
+          "Commemorates the adoption of the UN Declaration of the Rights of the Child (1959) and the UN Convention on the Rights of the Child (1989).",
+          "Distinct from India's National Children's Day (Bal Diwas), which is celebrated on 14 November (Pandit Nehru's birth anniversary)."
+        ],
+        examTip:
+          "UNICEF (United Nations Children's Fund) is headquartered in New York, USA (established 1946)."
+      },
+      {
+        id: "ca-20261120-3",
+        category: "Important Days",
+        title: "World Toilet Day 2026 Observed on 19 November",
+        summary:
+          "World Toilet Day was observed on November 19, highlighting the vital link between safe sanitation, public health, and gender equality.",
+        keyPoints: [
+          "2026 Theme: 'Safe toilets. Equal futures.', coordinated by UN-Water.",
+          "Emphasized how safe, private sanitation and menstrual hygiene management enable women and girls to study and work freely.",
+          "Links directly to UN Sustainable Development Goal 6 (SDG 6: Clean Water and Sanitation) and India's Swachh Bharat Mission."
+        ],
+        examTip:
+          "Remember SDG 6 = Clean Water and Sanitation; Swachh Bharat Mission was launched on October 2, 2014."
+      },
+      {
+        id: "ca-20261120-4",
+        category: "National & Heritage",
+        title: "Cyclone 'Akvan' Triggers High Alert Along Andhra & Odisha Coasts",
+        summary:
+          "Severe Cyclonic Storm Akvan intensified over the west-central Bay of Bengal, prompting IMD warnings for North Andhra Pradesh and South Odisha.",
+        keyPoints: [
+          "The name 'Akvan' was contributed by Iran under the WMO/ESCAP tropical cyclone naming list for the North Indian Ocean.",
+          "Triggered red/high alerts for North Andhra Pradesh–Yanam and South Odisha coasts, with projected landfall near Narsapur and Puri.",
+          "Managed by the India Meteorological Department (IMD, HQ: New Delhi) and NDRF (National Disaster Response Force)."
+        ],
+        examTip:
+          "13 member countries around the North Indian Ocean take turns naming cyclones in alphabetical order (India, Iran, Bangladesh, Pakistan, Sri Lanka, etc.)."
+      },
+      {
+        id: "ca-20261120-5",
+        category: "International & Indices",
+        title: "APEC 2026 Leaders' Summit Concludes in Shenzhen, China",
+        summary:
+          "The Asia-Pacific Economic Cooperation (APEC) Leaders' Summit took place in Shenzhen, China on November 18–19, 2026.",
+        keyPoints: [
+          "Focused on major-power trade dynamics, supply-chain resilience, and Asia-Pacific regional economic integration.",
+          "APEC was established in 1989 and comprises 21 Pacific Rim member economies (headquartered in Singapore).",
+          "Note for exams: India is NOT a member of APEC (though it has observer interest)."
+        ],
+        examTip:
+          "Important GK trap: India is a member of BRICS, SCO, G20, BIMSTEC, SAARC, and Quad—but NOT a member of APEC or ASEAN."
+      },
+      {
+        id: "ca-20261120-6",
+        category: "Polity & Governance",
+        title: "Forest Rights Act (FRA) Crosses 25.42 Lakh Titles & Digital Platform",
+        summary:
+          "The Ministry of Tribal Affairs highlighted major milestones under the Forest Rights Act (2006) alongside the National FRA Digital Platform.",
+        keyPoints: [
+          "Over 25.42 lakh forest-rights titles spanning nearly 238 lakh acres have been distributed to forest-dwelling communities.",
+          "Coincided with the rollout of the National FRA Digital Platform for transparent mapping and claim tracking.",
+          "The Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act was enacted in 2006."
+        ],
+        examTip:
+          "Gram Sabha is the primary authority under FRA 2006 to initiate the process of determining individual and community forest rights."
+      },
+      {
+        id: "ca-20261120-7",
+        category: "Polity & Governance",
+        title: "Debate Over Transgender Persons Amendment Act, 2026 Certification Rules",
+        summary:
+          "The Transgender Persons Amendment Act, 2026 sparked national legal and public health debate over gender recognition procedures.",
+        keyPoints: [
+          "Debate centres on the shift from self-identification toward mandatory medical board evaluations and District Magistrate (DM) certifications.",
+          "The original Transgender Persons (Protection of Rights) Act was enacted in 2019.",
+          "Follows the landmark Supreme Court NALSA vs Union of India (2014) judgment recognizing transgender persons as the 'third gender'."
+        ],
+        examTip:
+          "Remember NALSA vs Union of India (2014): Landmark SC ruling affirming fundamental rights of transgender persons under Articles 14, 15, 19, and 21."
+      },
+      {
+        id: "ca-20261120-8",
+        category: "Economy & Banking",
+        title: "Public Sector Banks (PSBs) Cross ₹300 Lakh Crore Total Business Milestone",
+        summary:
+          "India's Public Sector Banks achieved a historic financial milestone as their combined business surpassed ₹300 lakh crore for the first time.",
+        keyPoints: [
+          "Total business (combined deposits + advances) of India's 12 Public Sector Banks crossed ₹300 lakh crore.",
+          "Reflects improved asset quality, lower NPAs (Non-Performing Assets), and strong credit growth.",
+          "Currently, India has 12 Public Sector Banks led by State Bank of India (SBI)."
+        ],
+        examTip:
+          "Following the 2019–20 mega-mergers, the number of Public Sector Banks in India was consolidated from 27 down to 12."
+      },
+      {
+        id: "ca-20261120-9",
+        category: "Economy & Banking",
+        title: "RBI Reinforces Microfinance Guardrails & Reports 5-Year High CiC Growth",
+        summary:
+          "The RBI stood firm against loosening microfinance lending caps while its State of the Economy report tracked strong currency and FCNR(B) inflows.",
+        keyPoints: [
+          "RBI rejected industry calls to relax microfinance borrower eligibility caps, warning against household over-indebtedness and multiple borrowings.",
+          "Currency in Circulation (CiC) registered its highest growth in 5 years, supported by Foreign Currency Non-Resident [FCNR(B)] deposit inflows.",
+          "Microfinance institutions (MFIs) provide collateral-free small loans to low-income households."
+        ],
+        examTip:
+          "Under RBI rules, a microfinance loan is defined as a collateral-free loan given to a household having annual household income up to ₹3 lakh."
+      },
+      {
+        id: "ca-20261120-10",
+        category: "Economy & Banking",
+        title: "Uday Kumar Takes Charge as MD & CEO of Karnataka Bank; SBI Defence ETF",
+        summary:
+          "Key leadership and capital-market updates saw a new head at Karnataka Bank and a dedicated defence mutual fund launch.",
+        keyPoints: [
+          "Uday Kumar took charge as the new Managing Director and CEO of Mangaluru-headquartered Karnataka Bank.",
+          "SBI Mutual Fund launched the 'SBI BSE India Defence ETF FoF' (Fund of Funds) to tap into India's expanding domestic defence manufacturing sector.",
+          "AI data-centre expansion in India (scaling toward 1.57 GW) also faced NGT scrutiny over water/land usage in Visakhapatnam."
+        ],
+        examTip:
+          "NGT (National Green Tribunal) was established in 2010 under the NGT Act, 2010 (HQ: New Delhi) for speedy environmental justice."
+      },
+      {
+        id: "ca-20261120-11",
+        category: "Defence & Security",
+        title: "MoPSW Launches 'Naukosh Portal' at Shipbuilding Conclave; 50 Yrs of LRMR",
+        summary:
+          "India boosted domestic maritime capabilities with the Naukosh Portal and marked 50 years of Long-Range Maritime Reconnaissance.",
+        keyPoints: [
+          "Ministry of Ports, Shipping and Waterways (MoPSW) launched the 'Naukosh Portal' during the India Shipbuilding Investment Conclave 2026.",
+          "Cochin Shipyard Limited (CSL) signed MoUs with global marine firms like Damen Shipyards.",
+          "The Indian Navy also commemorated 50 Years of Long-Range Maritime Reconnaissance (LRMR) operations."
+        ],
+        examTip:
+          "India has 4 major defence shipyards: Mazagon Dock (Mumbai), Garden Reach/GRSE (Kolkata), Goa Shipyard, and Hindustan Shipyard (Visakhapatnam), plus Cochin Shipyard (MoPSW)."
+      },
+      {
+        id: "ca-20261120-12",
+        category: "Government Schemes",
+        title: "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) Cuts Health Costs",
+        summary:
+          "Public health reviews highlighted the expanding role of Jan Aushadhi Kendras in reducing out-of-pocket medical expenditure across India.",
+        keyPoints: [
+          "PMBJP provides quality generic medicines at 50%–90% lower prices compared to branded equivalents.",
+          "Implemented by the Pharmaceuticals & Medical Devices Bureau of India (PMBI) under the Department of Pharmaceuticals.",
+          "Jan Aushadhi Diwas is celebrated every year on March 7."
+        ],
+        examTip:
+          "Generic medicines have the exact same active chemical ingredient, dosage, and efficacy as branded drugs at a fraction of the price."
+      },
+      {
+        id: "ca-20261120-13",
+        category: "Science & Space",
+        title: "AIIMS New Delhi Performs India's First Open-Fetal Surgery",
+        summary:
+          "Doctors at AIIMS New Delhi achieved a historic medical milestone by performing India's first open-fetal surgery.",
+        keyPoints: [
+          "Open-fetal surgery involves surgically correcting severe congenital defects in a fetus while still inside the mother's womb.",
+          "Marks a major leap in India's maternal-fetal medicine and tertiary healthcare capabilities.",
+          "AIIMS New Delhi was established in 1956 as an Institute of National Importance under the Ministry of Health & Family Welfare."
+        ],
+        examTip:
+          "Know India's premier medical research body: ICMR (Indian Council of Medical Research, HQ: New Delhi)."
+      },
+      {
+        id: "ca-20261120-14",
+        category: "Science & Space",
+        title: "Indian Researchers Grow Potatoes in Simulated Lunar Soil",
+        summary:
+          "In a major step for space agriculture, Indian scientists successfully cultivated potatoes in simulated Moon soil (lunar regolith).",
+        keyPoints: [
+          "Demonstrates the feasibility of growing staple food crops in lunar regolith for future long-duration Moon missions and habitats.",
+          "Space farming reduces the massive cost of transporting food supplies from Earth.",
+          "Aligns with global Artemis-era lunar sustainability research and ISRO's future Chandrayaan programmes."
+        ],
+        examTip:
+          "Lunar regolith is the layer of loose, fragmented rock and dust covering the Moon's solid bedrock."
+      },
+      {
+        id: "ca-20261120-15",
+        category: "Science & Space",
+        title: "Pan-India Study Highlights Blood-Based Multi-Cancer Test 'CancerSpot'",
+        summary:
+          "Clinical research spotlighted 'CancerSpot', a blood-based test capable of detecting multiple cancers from a single blood sample.",
+        keyPoints: [
+          "Detects cancer signals by analysing cell-free DNA (cfDNA) methylation patterns in blood plasma.",
+          "Enables non-invasive, early multi-cancer screening compared to tissue biopsies.",
+          "Early detection dramatically improves cancer survival rates and lowers treatment costs."
+        ],
+        examTip:
+          "Oncology is the branch of medicine dealing with the study, diagnosis, and treatment of cancer."
+      },
+      {
+        id: "ca-20261120-16",
+        category: "Sports & Awards",
+        title: "CNN-News18 Indian of the Year 2026 Honours Top Achievers in New Delhi",
+        summary:
+          "The 16th edition of the CNN-News18 Indian of the Year Awards was held in New Delhi on November 19, 2026.",
+        keyPoints: [
+          "Theme: 'The Ones Defining Tomorrow'; jury co-chaired by Sanjiv Goenka and former CJI Justice Sanjiv Khanna.",
+          "Honoured leading figures across sports, business, entertainment, climate action, and public service.",
+          "Indian T20 captain Suryakumar Yadav and Olympic medallist weightlifter Mirabai Chanu were among the top spotlight honourees."
+        ],
+        examTip:
+          "Justice Sanjiv Khanna served as the 51st Chief Justice of India (CJI)."
+      },
+      {
+        id: "ca-20261120-17",
+        category: "National & Heritage",
+        title: "PM Modi Presents Golden Pichwaai & Banarasi Katan Silk to World Leaders",
+        summary:
+          "Prime Minister Narendra Modi showcased India's traditional artisan heritage through curated diplomatic gifts to global leaders.",
+        keyPoints: [
+          "Presented a golden Pichwaai painting from Nathdwara (Rajasthan) to US President Donald Trump.",
+          "Presented a royal blue Banarasi Katan silk stole (Varanasi, UP) to Japanese Prime Minister Sanae Takaichi.",
+          "Pichwaai paintings are traditional devotional cloth paintings from Nathdwara depicting scenes of Shrinathji (Lord Krishna)."
+        ],
+        examTip:
+          "Match traditional Indian crafts: Pichwaai = Nathdwara (Rajasthan); Banarasi Silk = Varanasi (UP, GI-tagged)."
+      },
+      {
+        id: "ca-20261120-18",
+        category: "Sports & Awards",
+        title: "India Defeats Pakistan 2–1 in Dhaka; 26th National Para Swimming",
+        summary:
+          "Indian athletes recorded strong performances in Dhaka and at the 26th National Para Swimming Championship 2026.",
+        keyPoints: [
+          "India defeated Pakistan 2–1 in Dhaka to clinch a major regional tournament victory.",
+          "Meanwhile, para-athletes competed across categories at the 26th National Para Swimming Championship 2026.",
+          "Paralympic Committee of India (PCI) promotes para-sports nationwide."
+        ],
+        examTip:
+          "Remember Dhaka is the capital of Bangladesh (Currency: Bangladeshi Taka)."
+      },
+      {
+        id: "ca-20261120-19",
+        category: "Economy & Banking",
+        title: "NGT Scrutiny Over Mega AI Data Centres & Water Usage in Visakhapatnam",
+        summary:
+          "India's rapid AI data-centre boom (~1.57 GW capacity) faced environmental scrutiny before the National Green Tribunal (NGT).",
+        keyPoints: [
+          "NGT petitions examined land and freshwater usage for planned mega AI facilities such as the Adani–Google AI campus in Visakhapatnam.",
+          "AI data centres require massive electricity and cooling water, driving interest in green-energy and liquid-cooling tech.",
+          "Highlights the policy balance between Digital India's AI growth and environmental sustainability."
+        ],
+        examTip:
+          "Water conservation & environmental impact assessments (EIA) are governed under the Environment (Protection) Act, 1986."
+      },
+      {
+        id: "ca-20261120-20",
+        category: "Government Schemes",
+        title: "Stand-Up India & Digital Bharat Nidhi Drive Inclusive Growth",
+        summary:
+          "Recent cabinet and telecom updates reinforced India's focus on grassroots entrepreneurship and rural 4G connectivity.",
+        keyPoints: [
+          "Stand-Up India Scheme (extended to March 2031 with ₹4,111 crore corpus) supports greenfield loans for women, SC, and ST entrepreneurs.",
+          "Rural villages without 4G fell 75% down to 11,372 under Digital Bharat Nidhi.",
+          "Combined with PMBJP generic pharmacies, these schemes target both rural livelihoods and household savings."
+        ],
+        examTip:
+          "Financial inclusion pillars in India: Jan Dhan (Banking), Aadhaar (Identity), Mobile (JAM Trinity)."
+      }
+    ],
+    staticGK: [
+      {
+        id: "gk-20261120-1",
+        title: "Indian Polity: Constitutional Amendments, Schedules & Writs Deep Dive",
+        tag: "Polity & Constitution",
+        overview:
+          "Master the most frequently tested Constitutional Amendments, all 12 Schedules, and the 5 Supreme Court/High Court Writs.",
+        points: [
+          "1st Amendment (1951): Added 9th Schedule (land reforms) and reasonable restrictions on Freedom of Speech (Article 19).",
+          "42nd Amendment (1976 — 'Mini Constitution'): Added Socialist, Secular, Integrity to Preamble; Fundamental Duties (51A); made President bound by Cabinet advice.",
+          "44th Amendment (1978): Removed Right to Property from Fundamental Rights (moved to Article 300A as a Legal Right); replaced 'Internal Disturbance' with 'Armed Rebellion'.",
+          "61st Amendment (1989): Reduced voting age from 21 years to 18 years (Article 326).",
+          "86th Amendment (2002): Made Free & Compulsory Education (ages 6–14) a Fundamental Right under Article 21A.",
+          "101st Amendment (2016): Introduced Goods and Services Tax (GST) and GST Council (Article 279A).",
+          "103rd Amendment (2019): 10% reservation for Economically Weaker Sections (EWS).",
+          "106th Amendment (2023 — Nari Shakti Vandan Adhiniyam): 33% reservation for women in Lok Sabha and State Legislative Assemblies.",
+          "Five Writs (Articles 32 & 226): Habeas Corpus ('to have the body' — against illegal detention), Mandamus ('we command' — public duty), Prohibition (higher court stops lower court), Certiorari ('to be certified' — quash order), Quo Warranto ('by what authority' — public office).",
+          "Key Schedules: 1st (States & UTs), 2nd (Salaries), 3rd (Oaths), 4th (Rajya Sabha seats), 7th (Union/State/Concurrent Lists), 8th (22 Languages), 10th (Anti-Defection), 11th (Panchayats), 12th (Municipalities).",
+          "Union List vs State List vs Concurrent List (7th Schedule): Defence/Railways/Banking = Union; Police/Public Health/Agriculture = State; Education/Forests/Marriage = Concurrent.",
+          "Zero Hour vs Question Hour: Question Hour is the 1st hour of Parliament (11 AM–12 PM); Zero Hour starts immediately after (12 PM) without prior notice."
+        ],
+        flashcards: [
+          { q: "Which Amendment lowered the voting age in India from 21 to 18 years?", a: "61st Constitutional Amendment Act, 1989." },
+          { q: "Which Amendment made Right to Education (6–14 yrs) a Fundamental Right under Art 21A?", a: "86th Constitutional Amendment Act, 2002." },
+          { q: "Which Writ literally means 'to have the body' and protects against illegal detention?", a: "Habeas Corpus." },
+          { q: "Which Amendment is known as the 'Mini Constitution' of India?", a: "42nd Constitutional Amendment Act, 1976." },
+          { q: "In which list of the 7th Schedule do 'Education' and 'Forests' fall?", a: "Concurrent List (moved from State List by 42nd Amendment)." },
+          { q: "What does the 106th Constitutional Amendment Act (2023) provide for?", a: "33% reservation for women in Lok Sabha and State Assemblies." }
+        ]
+      },
+      {
+        id: "gk-20261120-2",
+        title: "Indian History: Vedic Age, Mahajanapadas, Sangam & Medieval Architecture",
+        tag: "History & Culture",
+        overview:
+          "Covers Early & Later Vedic society, 16 Mahajanapadas, Sangam literature of South India, and Sultanate/Mughal monuments.",
+        points: [
+          "Early Vedic (Rigvedic) Age: Pastoral economy; 'Sabha' and 'Samiti' were tribal assemblies; Chief deity was Indra (god of rain/thunder), followed by Agni and Varuna.",
+          "Later Vedic Age: Shift to iron tools and settled agriculture in the Ganga plains; emergence of Varna system and Ashramas.",
+          "16 Mahajanapadas (6th Century BCE): Mentioned in Buddhist text 'Anguttara Nikaya'; Magadha (capital: Rajagriha, later Pataliputra) emerged most powerful under Bimbisara, Ajatashatru, and Mahapadma Nanda.",
+          "Sangam Age (South India): Three Tamil Sangams held at Madurai under Pandya patronage; Three crowned kings (Muvendar) = Cheras, Cholas, and Pandyas; famous epics: Silappadikaram (Ilango Adigal) & Manimekalai.",
+          "Buddhist Councils (4 Councils): 1st at Rajagriha (Ajatashatru), 2nd at Vaishali (Kalashoka), 3rd at Pataliputra (Ashoka), 4th at Kundalvana, Kashmir (Kanishka — split into Hinayana & Mahayana).",
+          "Jain Tirthankaras: 1st = Rishabhanatha (Adinath); 23rd = Parshvanatha; 24th = Vardhamana Mahavira (symbols: Lion for Mahavira, Bull for Rishabha).",
+          "Sultanate Architecture: Quwwat-ul-Islam Mosque & Qutb Minar (Delhi — Aibak/Iltutmish), Alai Darwaza (Alauddin Khilji — true arch), Tughlaqabad Fort (Ghiyasuddin Tughlaq).",
+          "Mughal Architecture: Humayun's Tomb (Delhi — precursor to Taj Mahal, double dome), Fatehpur Sikri & Buland Darwaza (Akbar), Itimad-ud-Daulah / 'Baby Taj' (Nur Jahan — first Pietra Dura), Taj Mahal & Jama Masjid (Shah Jahan).",
+          "Travellers to India: Megasthenes (Greek — Chandragupta Maurya), Fa-Hien (Chinese — Chandragupta II), Hiuen Tsang (Chinese — Harsha), Al-Biruni (wrote 'Kitab-ul-Hind'), Ibn Battuta (Morocco — Muhammad bin Tughlaq, wrote 'Rihla'), Marco Polo (Venice — Pandya kingdom).",
+          "Gandhian Newspapers: 'Young India', 'Harijan', 'Navajivan' (Mahatma Gandhi); 'Kesari' (Marathi) & 'Mahratta' (English) by Bal Gangadhar Tilak; 'Al-Hilal' by Maulana Abul Kalam Azad.",
+          "Poona Pact (1932): Signed between Mahatma Gandhi and Dr. B.R. Ambedkar at Yerwada Jail, providing reserved seats for Depressed Classes within joint electorates.",
+          "Cabinet Mission Plan (1946): Proposed the Constituent Assembly of India (Pethick-Lawrence, Stafford Cripps, A.V. Alexander)."
+        ],
+        flashcards: [
+          { q: "Which Buddhist text lists the 16 Mahajanapadas?", a: "Anguttara Nikaya." },
+          { q: "Where were the 3rd and 4th Buddhist Councils held?", a: "3rd: Pataliputra (under Ashoka); 4th: Kashmir (under Kanishka)." },
+          { q: "Who wrote the Tamil epic 'Silappadikaram'?", a: "Ilango Adigal." },
+          { q: "Which Moroccan traveller visited Muhammad bin Tughlaq's court and wrote 'Rihla'?", a: "Ibn Battuta." },
+          { q: "Who published the newspapers 'Kesari' (Marathi) and 'Mahratta' (English)?", a: "Bal Gangadhar Tilak." },
+          { q: "Between whom was the Poona Pact of 1932 signed?", a: "Mahatma Gandhi and Dr. B.R. Ambedkar." }
+        ]
+      },
+      {
+        id: "gk-20261120-3",
+        title: "Indian & World Geography: Cyclones, Plate Tectonics, Lakes & Capitals",
+        tag: "Geography",
+        overview:
+          "Connects Cyclone Akvan to tropical cyclone science, plate tectonics, world capitals, and Indian river systems.",
+        points: [
+          "Tropical Cyclones: Low-pressure systems over warm ocean waters (>26.5°C); rotate anti-clockwise in Northern Hemisphere and clockwise in Southern Hemisphere (due to Coriolis Force).",
+          "Regional Cyclone Names: Cyclones (Indian Ocean), Hurricanes (Atlantic & NE Pacific), Typhoons (NW Pacific / China Sea), Willy-Willies (Australia).",
+          "Coriolis Force: Zero at the Equator (hence no tropical cyclones form right at 0° Equator!) and maximum at the Poles.",
+          "Plate Tectonics & Earthquakes: Focus/Hypocentre (origin inside Earth) vs Epicentre (point directly above on surface); P-waves (fastest, travel through solids & liquids) vs S-waves (only solids).",
+          "Ring of Fire: Horseshoe-shaped belt around the Pacific Ocean accounting for ~75% of the world's active volcanoes and ~90% of earthquakes.",
+          "Indian River Origins: Ganga (Gangotri Glacier), Yamuna (Yamunotri), Brahmaputra (Chemayungdung Glacier, Tibet), Indus (Bokhar Chu near Mansarovar), Godavari (Trimbakeshwar, Nashik), Krishna (Mahabaleshwar), Narmada (Amarkantak Plateau, MP).",
+          "Estuary vs Delta: West-flowing Narmada & Tapi form Estuaries; East-flowing Ganga-Brahmaputra (Sundarbans — world's largest delta), Godavari, Krishna, and Kaveri form Deltas.",
+          "Important Indian Waterfalls: Kunchikal Falls (Varahi river, Karnataka — highest in India), Jog Falls (Sharavati, Karnataka), Dudhsagar Falls (Mandovi, Goa), Dhuandhar Falls (Narmada, Jabalpur).",
+          "World Capitals to Know: Iran (Tehran; Rial/Toman), Bhutan (Thimphu; Ngultrum), Denmark (Copenhagen; Krone), China (Beijing; Yuan/Renminbi), Bangladesh (Dhaka; Taka), Sri Lanka (Sri Jayawardenepura Kotte / Colombo).",
+          "Landlocked Countries: Largest = Kazakhstan; in South America = Bolivia & Paraguay; in South Asia = Nepal & Bhutan.",
+          "Lines & Boundaries: Radcliffe Line (India–Pakistan & India–Bangladesh), McMahon Line (India–China), Durand Line (Pakistan–Afghanistan), 38th Parallel (North & South Korea), 49th Parallel (USA & Canada).",
+          "Latitude & Longitude Facts: Equator (0°), Tropic of Cancer (23.5° N), Tropic of Capricorn (23.5° S), Prime Meridian (0° Greenwich, London)."
+        ],
+        flashcards: [
+          { q: "In which direction do cyclones rotate in the Northern Hemisphere?", a: "Anti-clockwise (due to the Coriolis Force)." },
+          { q: "Why do tropical cyclones NOT form right at the Equator (0°)?", a: "Because the Coriolis Force is zero at the Equator." },
+          { q: "What are the two major rivers originating from the Amarkantak Plateau (MP)?", a: "Narmada and Son." },
+          { q: "Which boundary line separates India and China (Eastern sector) vs India and Pakistan?", a: "McMahon Line (India–China); Radcliffe Line (India–Pakistan)." },
+          { q: "Which is the largest landlocked country in the world?", a: "Kazakhstan." },
+          { q: "What is the capital and currency of Bhutan?", a: "Capital: Thimphu; Currency: Ngultrum." }
+        ]
+      },
+      {
+        id: "gk-20261120-4",
+        title: "General Science: Nutrition, Genetics, Waves, Metals & Space Terms",
+        tag: "Science & Tech",
+        overview:
+          "Covers food nutrients, human genetics, sound/light waves, polymers, and space terminology.",
+        points: [
+          "Macronutrients: Carbohydrates (instant energy — glucose), Proteins (bodybuilding — amino acids), Fats (highest energy per gram — fatty acids).",
+          "Human Chromosomes: 46 chromosomes (23 pairs: 22 pairs autosomes + 1 pair sex chromosomes: XX in females, XY in males).",
+          "Blood Clotting & Platelets: Vitamin K and Calcium (Ca²⁺) + Fibrinogen protein are essential for blood clotting; Heparin prevents clotting inside blood vessels.",
+          "Photosynthesis Equation: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ (in presence of sunlight & chlorophyll; O₂ released comes from splitting of Water).",
+          "Waves — Transverse vs Longitudinal: Light is a Transverse electromagnetic wave (can travel in vacuum); Sound is a Longitudinal mechanical wave (needs a medium).",
+          "Common Polymers & Fibres: Natural (Cellulose, Starch, Proteins, Natural Rubber — Isoprene); Synthetic (Nylon — first fully synthetic fibre, PVC, Bakelite — thermosetting plastic used in electrical switches).",
+          "Greenhouse & Ozone Chemistry: Montreal Protocol (1987) banned CFCs (Chlorofluorocarbons) to heal the Ozone (O₃) layer; Ozone absorbs harmful UV-B radiation.",
+          "Hard Water vs Soft Water: Hardness is caused by dissolved Calcium and Magnesium bicarbonates/sulphates; Boiling removes temporary hardness.",
+          "Space Terms: Light Year (unit of DISTANCE, ~9.46 × 10¹² km, NOT time!), Astronomical Unit / AU (average Earth–Sun distance), Escape Velocity of Earth = 11.2 km/s.",
+          "Solar System Quick Facts: Nearest planet to Sun = Mercury; Hottest planet = Venus ('Morning/Evening Star'); Red Planet = Mars (Phobos & Deimos moons); Largest planet = Jupiter (Ganymede is largest moon in solar system); Rings = Saturn (Titan moon).",
+          "Nuclear Reactors in India: Moderators (slow down neutrons) = Heavy Water (D₂O) or Graphite; Control rods (absorb neutrons) = Cadmium or Boron.",
+          "Biotechnology: PCR (Polymerase Chain Reaction — amplifies DNA), CRISPR-Cas9 (gene editing tool)."
+        ],
+        flashcards: [
+          { q: "What does a 'Light Year' measure—time, speed, or distance?", a: "Distance (distance travelled by light in one vacuum year)." },
+          { q: "What is the Escape Velocity of Earth?", a: "11.2 km/s." },
+          { q: "Which is the hottest planet in our Solar System and why?", a: "Venus (due to its thick CO₂ runaway greenhouse atmosphere)." },
+          { q: "How many chromosomes do humans have in normal body cells?", a: "46 chromosomes (23 pairs)." },
+          { q: "Which protein prevents blood from clotting inside blood vessels?", a: "Heparin." },
+          { q: "What is used as a Moderator in nuclear reactors to slow down neutrons?", a: "Heavy Water (D₂O) or Graphite." }
+        ]
+      },
+      {
+        id: "gk-20261120-5",
+        title: "Indian Economy: Money Supply, Banking Terms, Agriculture & Tax",
+        tag: "Economy & Finance",
+        overview:
+          "Essential banking & agricultural economics: M1/M3 money supply, Priority Sector Lending, MSP, NPAs, and SEBI/IRDAI.",
+        points: [
+          "Money Supply Measures (RBI): M1 (Narrow Money = Currency with public + Demand deposits), M3 (Broad Money = M1 + Time deposits with banks).",
+          "Priority Sector Lending (PSL): Banks must lend 40% of Adjusted Net Bank Credit (ANBC) to priority sectors (Agriculture, MSMEs, Education, Housing, Renewable Energy).",
+          "Non-Performing Asset (NPA): A loan where interest or principal remains overdue for more than 90 days.",
+          "Minimum Support Price (MSP): Announced by the Cabinet Committee on Economic Affairs (CCEA) on recommendation of CACP (Commission for Agricultural Costs and Prices) for 22 mandated crops (+ Fair & Remunerative Price for sugarcane).",
+          "Inflation & Deflation Terms: Headline Inflation (includes food & fuel) vs Core Inflation (excludes volatile food & fuel); Disinflation (slowing rate of inflation) vs Deflation (negative inflation / falling prices).",
+          "Financial Markets: Money Market (short-term < 1 year, regulated by RBI — T-Bills, Call Money) vs Capital Market (long-term > 1 year, regulated by SEBI — Shares, Debentures).",
+          "Mutual Funds & ETFs: Pool investor money; ETF (Exchange Traded Fund) trades on stock exchanges like a share.",
+          "Insurance & Pension Regulators: IRDAI (Insurance Regulatory and Development Authority of India, HQ: Hyderabad) and PFRDA (Pension Fund Regulatory and Development Authority, HQ: New Delhi — runs NPS & Atal Pension Yojana).",
+          "NITI Aayog vs Finance Commission: NITI Aayog is an extra-constitutional advisory think tank (est. 2015); Finance Commission (Article 280) is a Constitutional body recommending tax devolution.",
+          "16th Finance Commission: Chaired by Dr. Arvind Panagariya (recommendations for 2026–2031).",
+          "Direct Benefit Transfer (DBT): Transfers subsidies directly to beneficiaries' Aadhaar-linked bank accounts, cutting leakages.",
+          "Unicorn Startup: A privately held startup company valued at $1 billion or more."
+        ],
+        flashcards: [
+          { q: "After how many days overdue does a bank loan become a Non-Performing Asset (NPA)?", a: "More than 90 days." },
+          { q: "Who recommends Minimum Support Prices (MSP) in India?", a: "CACP (Commission for Agricultural Costs and Prices), approved by CCEA." },
+          { q: "Who is the Chairperson of the 16th Finance Commission (2026–2031)?", a: "Dr. Arvind Panagariya." },
+          { q: "What is the difference between Headline Inflation and Core Inflation?", a: "Core Inflation excludes volatile food and fuel prices; Headline Inflation includes them." },
+          { q: "Where is the headquarters of IRDAI (Insurance regulator)?", a: "Hyderabad, Telangana." },
+          { q: "What is a 'Unicorn' in the startup ecosystem?", a: "A privately held startup valued at $1 billion or more." }
+        ]
+      },
+      {
+        id: "gk-20261120-6",
+        title: "Awards & Sports: Global Environmental, Film & Literary Honours",
+        tag: "Awards & Sports",
+        overview:
+          "Connects Earthshot Prize 2026 to global environmental awards, cinema honours, and major sporting championships.",
+        points: [
+          "The Earthshot Prize: Founded in 2020 by Prince William & Royal Foundation; 5 categories (Nature, Air, Oceans, Waste, Climate); £1 million per winner; 2026 hosted in Mumbai.",
+          "Champions of the Earth: UN Environment Programme's (UNEP) highest environmental honour.",
+          "Goldman Environmental Prize: Often called the 'Green Nobel' for grassroots environmental activists.",
+          "Indira Gandhi Prize for Peace, Disarmament and Development: Instituted in 1986 by Indira Gandhi Memorial Trust.",
+          "Gandhi Peace Prize: Instituted by Government of India in 1995 (125th birth anniversary of Mahatma Gandhi); first recipient: Julius Nyerere.",
+          "Oscars (Academy Awards) & BAFTA: Oscars presented in Los Angeles; BAFTA in London; Cannes Film Festival (Palme d'Or) in France.",
+          "Grammy Awards: Highest honour in Music (USA); Ricky Kej (3x Grammy) & Zakir Hussain are celebrated Indian winners.",
+          "Laureus World Sports Awards: Annual awards honouring top individuals & teams across global sports (India's Sachin Tendulkar won Laureus Sporting Moment 2000–2020).",
+          "Badminton & Table Tennis Stars of India: P.V. Sindhu, Saina Nehwal, Lakshya Sen, Satwiksairaj Rankireddy & Chirag Shetty (Badminton); Sharath Kamal & Manika Batra (Table Tennis).",
+          "Paralympic Icons of India: Avani Lekhara (Shooting Golds), Sumit Antil (Javelin Golds), Devendra Jhajharia (current PCI President), Mariyappan Thangavelu (High Jump)."
+        ],
+        flashcards: [
+          { q: "Which award is popularly known as the 'Green Nobel'?", a: "Goldman Environmental Prize." },
+          { q: "Which UN body awards the 'Champions of the Earth' honour?", a: "UNEP (United Nations Environment Programme, HQ: Nairobi)." },
+          { q: "What is the top film award at the Cannes Film Festival called?", a: "Palme d'Or (Golden Palm)." },
+          { q: "Who is the current President of the Paralympic Committee of India (PCI)?", a: "Devendra Jhajharia." },
+          { q: "How much prize money does each Earthshot Prize winner receive?", a: "£1 million." },
+          { q: "Who was the first recipient of the Gandhi Peace Prize (1995)?", a: "Dr. Julius Nyerere (former President of Tanzania)." }
+        ]
+      },
+      {
+        id: "gk-20261120-7",
+        title: "Famous Books, Journals & Autobiographies of World & Indian Icons",
+        tag: "Books & Authors",
+        overview:
+          "Additional must-know books, journals, and world literature classics for CUET General Test.",
+        points: [
+          "Lala Lajpat Rai: 'Unhappy India'; Subhas Chandra Bose: 'The Indian Struggle'; Maulana Abul Kalam Azad: 'India Wins Freedom'.",
+          "Dr. Rajendra Prasad: 'India Divided'; Bhagat Singh: 'Why I Am an Atheist'; V.D. Savarkar: 'The Indian War of Independence 1857'.",
+          "Sarojini Naidu: 'The Golden Threshold', 'The Bird of Time', 'The Broken Wing'.",
+          "Mulk Raj Anand: 'Untouchable', 'Coolie'; Raja Rao: 'Kanthapura'.",
+          "Khushwant Singh: 'Train to Pakistan'; Ruskin Bond: 'The Blue Umbrella'; Amish Tripathi: 'Scion of Ikshvaku'.",
+          "World Classics: William Shakespeare ('Hamlet', 'Macbeth', 'Othello', 'Romeo and Juliet'), Leo Tolstoy ('War and Peace', 'Anna Karenina'), Charles Dickens ('Oliver Twist', 'A Tale of Two Cities').",
+          "More World Classics: Jane Austen ('Pride and Prejudice'), Gabriel García Márquez ('One Hundred Years of Solitude'), Harper Lee ('To Kill a Mockingbird'), J.K. Rowling ('Harry Potter').",
+          "Economics & Political Classics: Kautilya ('Arthashastra'), Plato ('The Republic'), Aristotle ('Politics'), Niccolò Machiavelli ('The Prince'), John Maynard Keynes ('The General Theory of Employment, Interest and Money').",
+          "Indian Newspapers & Founders: 'Bengal Gazette' (1780, James Augustus Hicky — India's first newspaper), 'Rast Goftar' (Dadabhai Naoroji), 'Amrita Bazar Patrika' (Sisir Kumar Ghosh), 'New India' & 'Commonweal' (Annie Besant)."
+        ],
+        flashcards: [
+          { q: "Who wrote 'India Wins Freedom'?", a: "Maulana Abul Kalam Azad." },
+          { q: "Which was India's very first newspaper (started in 1780 in Calcutta)?", a: "Hicky's Bengal Gazette (by James Augustus Hicky)." },
+          { q: "Who authored 'Train to Pakistan'?", a: "Khushwant Singh." },
+          { q: "Who wrote 'Why I Am an Atheist'?", a: "Shaheed Bhagat Singh." },
+          { q: "Who wrote 'The Prince' and 'The Republic'?", a: "'The Prince' = Niccolò Machiavelli; 'The Republic' = Plato." },
+          { q: "Who started the newspapers 'New India' and 'Commonweal'?", a: "Annie Besant." }
+        ]
+      },
+      {
+        id: "gk-20261120-8",
+        title: "United Nations, Specialized Agencies & International Groupings",
+        tag: "Global Organizations",
+        overview:
+          "Complete guide to UN organs, specialized agencies, and multilateral summits frequently tested in CUET.",
+        points: [
+          "UN 5 Permanent Security Council Members (P5 — Veto Power): USA, UK, France, Russia, China (plus 10 non-permanent members elected for 2-year terms).",
+          "UN Official Languages (6): Arabic, Chinese, English, French, Russian, and Spanish.",
+          "UN Specialized Agencies & HQ: UNESCO (Paris), UNICEF (New York), UNDP (New York), UNEP (Nairobi, Kenya), FAO (Rome, Italy), WFP (Rome, Italy), IMF & World Bank (Washington, D.C.), WHO/WTO/ILO/WIPO (Geneva), IAEA (Vienna, Austria), IMO (London, UK), ICAO (Montreal, Canada).",
+          "G20 (Group of Twenty): 19 countries + European Union + African Union (admitted at New Delhi 2023 Summit under India's Presidency, theme: 'Vasudhaiva Kutumbakam').",
+          "QUAD (Quadrilateral Security Dialogue): India, USA, Japan, and Australia (joint naval exercise: Malabar).",
+          "BRICS Expansion: Originally Brazil, Russia, India, China, South Africa; expanded to include Egypt, Ethiopia, Iran, UAE, Indonesia, etc.",
+          "BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation): 7 members (India, Bangladesh, Bhutan, Nepal, Sri Lanka, Myanmar, Thailand — HQ: Dhaka).",
+          "NATO (North Atlantic Treaty Organization): Est. 1949, HQ in Brussels, Belgium (collective defence under Article 5).",
+          "ADB (Asian Development Bank): Est. 1966, HQ in Manila, Philippines; AIIB (Asian Infrastructure Investment Bank): HQ in Beijing, China; New Development Bank (BRICS Bank): HQ in Shanghai, China."
+        ],
+        flashcards: [
+          { q: "Which 5 countries are Permanent Members (P5) of the UN Security Council?", a: "USA, UK, France, Russia, and China." },
+          { q: "Where are the headquarters of UNEP and FAO located?", a: "UNEP: Nairobi (Kenya); FAO: Rome (Italy)." },
+          { q: "Which regional union joined the G20 as a permanent member at the 2023 New Delhi Summit?", a: "The African Union (AU)." },
+          { q: "Which 4 countries form the QUAD?", a: "India, USA, Japan, and Australia." },
+          { q: "Where are the headquarters of ADB (Asian Development Bank) and NDB (BRICS Bank)?", a: "ADB: Manila (Philippines); NDB: Shanghai (China)." },
+          { q: "Where is NATO headquartered?", a: "Brussels, Belgium." }
+        ]
+      },
+      {
+        id: "gk-20261120-9",
+        title: "Indian States, Union Territories, Symbols & Formation Facts",
+        tag: "States & UTs",
+        overview:
+          "Key facts on India's 28 States, 8 Union Territories, National Symbols, and State Capitals.",
+        points: [
+          "Current Count: 28 States and 8 Union Territories (Jammu & Kashmir and Ladakh became UTs on Oct 31, 2019; Dadra & Nagar Haveli and Daman & Diu merged in Jan 2020).",
+          "Area & Population Extremes: Largest State by area = Rajasthan (followed by MP, Maharashtra); Smallest State by area = Goa; Most populous = Uttar Pradesh; Least populous = Sikkim.",
+          "Seven Sisters of North-East India: Arunachal Pradesh (Itanagar), Assam (Dispur), Manipur (Imphal), Meghalaya (Shillong), Mizoram (Aizawl), Nagaland (Kohima), Tripura (Agartala) — plus 'Brother' Sikkim (Gangtok).",
+          "Newest State of India: Telangana (formed June 2, 2014 — 29th then, now 28 states total after J&K reorganization).",
+          "National Symbols of India: National Flag (Pingali Venkayya, ratio 3:2, 24 spokes in Ashoka Chakra), National Anthem ('Jana Gana Mana' by Tagore — 52 sec), National Song ('Vande Mataram' by Bankim Chandra Chattopadhyay).",
+          "National Animal / Bird / Tree / Flower / Aquatic Animal: Bengal Tiger, Indian Peacock, Banyan Tree, Lotus, Gangetic River Dolphin (also National Heritage Animal = Indian Elephant).",
+          "National Calendar: Saka Era (first month: Chaitra, begins March 22 / March 21 in leap year).",
+          "Three States with Two Capitals: Himachal Pradesh (Shimla & Dharamshala), Uttarakhand (Dehradun & Gairsain), Maharashtra (Mumbai & Nagpur — winter), Jammu & Kashmir UT (Srinagar & Jammu)."
+        ],
+        flashcards: [
+          { q: "How many States and Union Territories does India currently have?", a: "28 States and 8 Union Territories." },
+          { q: "Who designed the Indian National Flag and what is its length-to-width ratio?", a: "Pingali Venkayya; ratio is 3:2." },
+          { q: "Which is the largest vs smallest Indian state by geographical area?", a: "Largest: Rajasthan; Smallest: Goa." },
+          { q: "What is the National Aquatic Animal of India?", a: "Gangetic River Dolphin." },
+          { q: "What is the first month of India's National Calendar (Saka Era)?", a: "Chaitra." },
+          { q: "What is the capital of Assam vs Arunachal Pradesh?", a: "Assam: Dispur; Arunachal Pradesh: Itanagar." }
+        ]
+      },
+      {
+        id: "gk-20261120-10",
+        title: "Transport, Airports, Waterways & Environmental Laws of India",
+        tag: "Infrastructure & Ecology",
+        overview:
+          "Covers India's major international airports, railways zones, national waterways, and key environmental acts.",
+        points: [
+          "Indian Railways: World's 4th largest network; divided into 18+ Railway Zones (e.g., Northern = New Delhi, Western & Central = Mumbai, Eastern & South Eastern = Kolkata, Southern = Chennai, Metro Railway = Kolkata).",
+          "First Train in India: 16 April 1853 (Bombay Bori Bunder to Thane, 34 km); First Metro in India: Kolkata Metro (1984).",
+          "Major International Airports: Indira Gandhi (New Delhi), Chhatrapati Shivaji Maharaj (Mumbai), Kempegowda (Bengaluru), Rajiv Gandhi (Hyderabad), Netaji Subhas Chandra Bose (Kolkata), Cochin (world's first fully solar-powered airport), Mopa/Manohar (Goa), Maharishi Valmiki (Ayodhya).",
+          "National Waterways (NW): NW-1 (Ganga: Prayagraj–Haldia, longest), NW-2 (Brahmaputra: Sadiya–Dhubri), NW-3 (West Coast Canal, Kerala).",
+          "Key Environmental Acts of India: Wildlife Protection Act (1972 — Project Tiger launched 1973), Water Act (1974), Forest Conservation Act (1980), Air Act (1981), Environment Protection Act (1986 — umbrella act after Bhopal Gas Tragedy 1984), Biological Diversity Act (2002), National Green Tribunal (NGT) Act (2010).",
+          "Project Tiger & Project Elephant: Project Tiger (1973, Jim Corbett NP was first; 55+ Tiger Reserves today); Project Elephant (1992).",
+          "Ramsar Convention (1971, Iran): Protects Wetlands of International Importance (World Wetlands Day = Feb 2).",
+          "CITES (Washington Convention): Regulates international trade in endangered species of wild fauna and flora."
+        ],
+        flashcards: [
+          { q: "Which airport in India was the world's first fully solar-powered airport?", a: "Cochin International Airport (Kochi, Kerala)." },
+          { q: "Which is the longest National Waterway in India (NW-1)?", a: "Prayagraj to Haldia on the Ganga–Bhagirathi–Hooghly river system." },
+          { q: "In which year was Project Tiger launched in India?", a: "1973 (following the Wildlife Protection Act, 1972)." },
+          { q: "Which city had India's first Metro Rail system (1984)?", a: "Kolkata." },
+          { q: "Which environmental act was enacted in 1986 as an umbrella legislation after the Bhopal Gas Tragedy?", a: "Environment (Protection) Act, 1986." },
+          { q: "Where was the Ramsar Convention on Wetlands signed in 1971?", a: "Ramsar, Iran." }
+        ]
+      }
+    ],
+    questions: [
+      {
+        id: "q-20261120-1",
+        format: "Direct Fact",
+        topic: "Current Affairs · Awards",
+        question: "Which Indian company won the Earthshot Prize 2026 in the 'Clean Our Air' category during the ceremony hosted in Mumbai?",
+        options: [
+          "Tata Power Solar",
+          "Mahindra Last Mile Mobility",
+          "Ather Energy",
+          "Ola Electric"
+        ],
+        answer: 1,
+        explanation: "Mahindra Last Mile Mobility (India) won the Earthshot Prize 2026 in 'Clean Our Air' for scaling electric three-wheelers."
+      },
+      {
+        id: "q-20261120-2",
+        format: "Match the Following",
+        topic: "Current Affairs · Earthshot 2026",
+        question: "Match the Earthshot Prize 2026 Winners with their Categories:\n1. Bhutan — (i) Fix Our Climate\n2. Ørsted (Denmark) — (ii) Protect and Restore Nature\n3. PFAS-Free France — (iii) Build a Waste-Free World\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(i), 2-(ii), 3-(iii)",
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(iii), 2-(i), 3-(ii)"
+        ],
+        answer: 0,
+        explanation: "Bhutan = Protect & Restore Nature; Ørsted = Fix Our Climate; PFAS-Free France = Build a Waste-Free World."
+      },
+      {
+        id: "q-20261120-3",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "What is the theme of World Children's Day 2026 observed globally on 20 November?",
+        options: [
+          "Investing in Our Future",
+          "My Day. My Rights. My Future.",
+          "Inclusion for Every Child",
+          "Listen to the Future"
+        ],
+        answer: 1,
+        explanation: "World Children's Day on 20 November 2026 was observed under the theme 'My Day. My Rights. My Future.'."
+      },
+      {
+        id: "q-20261120-4",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "What is the theme of World Toilet Day 2026 observed on 19 November?",
+        options: [
+          "Sanitation for Peace",
+          "Safe toilets. Equal futures.",
+          "Accelerating Change",
+          "Valuing Water and Sanitation"
+        ],
+        answer: 1,
+        explanation: "World Toilet Day 2026 (19 Nov) was observed with the theme 'Safe toilets. Equal futures.'."
+      },
+      {
+        id: "q-20261120-5",
+        format: "Direct Fact",
+        topic: "Current Affairs · National",
+        question: "Severe Cyclonic Storm 'Akvan' over the Bay of Bengal (November 2026) was named by which country?",
+        options: [
+          "Oman",
+          "Iran",
+          "Bangladesh",
+          "Sri Lanka"
+        ],
+        answer: 1,
+        explanation: "Cyclone Akvan was named by Iran under the North Indian Ocean cyclone naming system."
+      },
+      {
+        id: "q-20261120-6",
+        format: "Direct Fact",
+        topic: "Current Affairs · International",
+        question: "Which city hosted the APEC (Asia-Pacific Economic Cooperation) Leaders' Summit on 18–19 November 2026?",
+        options: [
+          "Singapore",
+          "Shenzhen, China",
+          "Seoul, South Korea",
+          "Bangkok, Thailand"
+        ],
+        answer: 1,
+        explanation: "The 2026 APEC Leaders' Summit took place in Shenzhen, China."
+      },
+      {
+        id: "q-20261120-7",
+        format: "Direct Fact",
+        topic: "Current Affairs · Banking",
+        question: "India's Public Sector Banks (PSBs) recently crossed which historic total business (deposits + advances) milestone for the first time?",
+        options: [
+          "₹150 lakh crore",
+          "₹200 lakh crore",
+          "₹300 lakh crore",
+          "₹500 lakh crore"
+        ],
+        answer: 2,
+        explanation: "Total business handled by India's Public Sector Banks crossed ₹300 lakh crore for the first time."
+      },
+      {
+        id: "q-20261120-8",
+        format: "Direct Fact",
+        topic: "Current Affairs · Science & Medicine",
+        question: "Which premier Indian medical institution recently performed India's first open-fetal surgery?",
+        options: [
+          "PGIMER Chandigarh",
+          "AIIMS New Delhi",
+          "CMC Vellore",
+          "JIPMER Puducherry"
+        ],
+        answer: 1,
+        explanation: "AIIMS New Delhi successfully performed India's first open-fetal surgery."
+      },
+      {
+        id: "q-20261120-9",
+        format: "Direct Fact",
+        topic: "Current Affairs · Space & Science",
+        question: "Indian researchers recently achieved a space-agriculture breakthrough by growing which crop in simulated lunar soil?",
+        options: [
+          "Wheat",
+          "Potatoes",
+          "Soybeans",
+          "Rice"
+        ],
+        answer: 1,
+        explanation: "Indian scientists successfully grew potatoes in simulated lunar soil (regolith)."
+      },
+      {
+        id: "q-20261120-10",
+        format: "Direct Fact",
+        topic: "Current Affairs · Science & Health",
+        question: "What is 'CancerSpot', recently highlighted in pan-India clinical research?",
+        options: [
+          "A robotic radiation machine",
+          "A blood-based test detecting multiple cancers via cfDNA methylation patterns",
+          "An AI skin-cancer smartphone app",
+          "A new chemotherapy tablet"
+        ],
+        answer: 1,
+        explanation: "CancerSpot is a blood-based test capable of detecting multiple cancers using cell-free DNA (cfDNA) methylation patterns."
+      },
+      {
+        id: "q-20261120-11",
+        format: "Direct Fact",
+        topic: "Current Affairs · Maritime & Defence",
+        question: "Which portal was launched by the Ministry of Ports, Shipping and Waterways (MoPSW) at the India Shipbuilding Investment Conclave 2026?",
+        options: [
+          "SagarSetu Portal",
+          "Naukosh Portal",
+          "JalMarg Portal",
+          "SamudraShakti Portal"
+        ],
+        answer: 1,
+        explanation: "MoPSW launched the Naukosh Portal during the India Shipbuilding Investment Conclave 2026."
+      },
+      {
+        id: "q-20261120-12",
+        format: "Direct Fact",
+        topic: "Current Affairs · Appointments",
+        question: "Uday Kumar recently took charge as the new Managing Director and CEO of which Indian bank?",
+        options: [
+          "Federal Bank",
+          "Karnataka Bank",
+          "South Indian Bank",
+          "Karur Vysya Bank"
+        ],
+        answer: 1,
+        explanation: "Uday Kumar took charge as MD & CEO of Karnataka Bank."
+      },
+      {
+        id: "q-20261120-13",
+        format: "Direct Fact",
+        topic: "Current Affairs · Culture & Diplomacy",
+        question: "The golden 'Pichwaai' painting recently gifted by PM Narendra Modi to US President Donald Trump originates from which famous town in Rajasthan?",
+        options: [
+          "Jodhpur",
+          "Nathdwara",
+          "Bikaner",
+          "Bundi"
+        ],
+        answer: 1,
+        explanation: "Pichwaai is a traditional devotional painting style originating from Nathdwara, Rajasthan."
+      },
+      {
+        id: "q-20261120-14",
+        format: "Statement-Based",
+        topic: "Current Affairs · Economy & Governance",
+        question: "Consider the following statements:\n1. Under the Forest Rights Act (FRA) 2006, over 25.42 lakh forest-rights titles have been distributed.\n2. India is currently a full member of APEC (Asia-Pacific Economic Cooperation).\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 0,
+        explanation: "Statement 1 is correct. Statement 2 is incorrect because India is NOT a member of APEC."
+      },
+      {
+        id: "q-20261120-15",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which Constitutional Amendment Act lowered the voting age in India from 21 years to 18 years?",
+        options: [
+          "42nd Amendment Act",
+          "44th Amendment Act",
+          "61st Amendment Act",
+          "86th Amendment Act"
+        ],
+        answer: 2,
+        explanation: "The 61st Constitutional Amendment Act (1989) lowered the voting age from 21 to 18 years."
+      },
+      {
+        id: "q-20261120-16",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which Constitutional Amendment made Free and Compulsory Education for children aged 6–14 a Fundamental Right under Article 21A?",
+        options: [
+          "73rd Amendment Act",
+          "86th Amendment Act",
+          "91st Amendment Act",
+          "101st Amendment Act"
+        ],
+        answer: 1,
+        explanation: "The 86th Amendment Act (2002) inserted Article 21A (Right to Education)."
+      },
+      {
+        id: "q-20261120-17",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which Writ literally means 'to have the body' and is issued to protect a person against illegal detention?",
+        options: [
+          "Mandamus",
+          "Habeas Corpus",
+          "Certiorari",
+          "Quo Warranto"
+        ],
+        answer: 1,
+        explanation: "Habeas Corpus is a writ requiring a detained person to be brought before a court to test the legality of detention."
+      },
+      {
+        id: "q-20261120-18",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "The 106th Constitutional Amendment Act (Nari Shakti Vandan Adhiniyam, 2023) provides for:",
+        options: [
+          "10% EWS reservation",
+          "33% reservation for women in Lok Sabha and State Legislative Assemblies",
+          "GST Council formation",
+          "Lowering voting age to 18"
+        ],
+        answer: 1,
+        explanation: "The 106th Amendment reserves 33% of seats for women in the Lok Sabha and State Legislative Assemblies."
+      },
+      {
+        id: "q-20261120-19",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Which ancient Buddhist text provides the list of the 16 Mahajanapadas?",
+        options: [
+          "Milindapanho",
+          "Anguttara Nikaya",
+          "Jataka Tales",
+          "Dipavamsa"
+        ],
+        answer: 1,
+        explanation: "The Buddhist scripture Anguttara Nikaya lists the 16 Mahajanapadas."
+      },
+      {
+        id: "q-20261120-20",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Who authored the famous Tamil Sangam epic 'Silappadikaram'?",
+        options: [
+          "Tiruvalluvar",
+          "Ilango Adigal",
+          "Sattanar",
+          "Tolkappiyar"
+        ],
+        answer: 1,
+        explanation: "Silappadikaram was composed by Prince-ascetic Ilango Adigal."
+      },
+      {
+        id: "q-20261120-21",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Which Moroccan traveller visited the court of Muhammad bin Tughlaq and wrote 'Rihla'?",
+        options: [
+          "Al-Biruni",
+          "Marco Polo",
+          "Ibn Battuta",
+          "Nicolo Conti"
+        ],
+        answer: 2,
+        explanation: "Ibn Battuta (from Morocco) visited India during Muhammad bin Tughlaq's reign and authored 'Rihla'."
+      },
+      {
+        id: "q-20261120-22",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "The Poona Pact of 1932 was signed between Mahatma Gandhi and:",
+        options: [
+          "Muhammad Ali Jinnah",
+          "Dr. B.R. Ambedkar",
+          "Subhas Chandra Bose",
+          "Lord Irwin"
+        ],
+        answer: 1,
+        explanation: "The Poona Pact (Sept 1932) was signed between Mahatma Gandhi and Dr. B.R. Ambedkar at Yerwada Jail."
+      },
+      {
+        id: "q-20261120-23",
+        format: "Assertion & Reason",
+        topic: "Static GK · Geography",
+        question: "Assertion (A): Tropical cyclones do not form right at the Equator (0° latitude).\nReason (R): The Coriolis Force, which is essential to give cyclones their spin, is zero at the Equator.\nChoose the correct option:",
+        options: [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is not the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        answer: 0,
+        explanation: "Because Coriolis Force is zero at the Equator, air moves straight into low pressure without rotating, preventing cyclone formation."
+      },
+      {
+        id: "q-20261120-24",
+        format: "Match the Following",
+        topic: "Static GK · Geography",
+        question: "Match the Indian River with its Origin:\n1. Narmada — (i) Trimbakeshwar (Nashik)\n2. Godavari — (ii) Amarkantak Plateau\n3. Krishna — (iii) Mahabaleshwar\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(i), 2-(ii), 3-(iii)",
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(iii), 2-(i), 3-(ii)"
+        ],
+        answer: 0,
+        explanation: "Narmada = Amarkantak; Godavari = Trimbakeshwar; Krishna = Mahabaleshwar."
+      },
+      {
+        id: "q-20261120-25",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which is the largest landlocked country in the world by area?",
+        options: [
+          "Mongolia",
+          "Kazakhstan",
+          "Ethiopia",
+          "Bolivia"
+        ],
+        answer: 1,
+        explanation: "Kazakhstan in Central Asia is the world's largest landlocked country."
+      },
+      {
+        id: "q-20261120-26",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "What is the capital and currency of Bhutan (an Earthshot Prize 2026 winner)?",
+        options: [
+          "Kathmandu; Rupee",
+          "Thimphu; Ngultrum",
+          "Dhaka; Taka",
+          "Male; Rufiyaa"
+        ],
+        answer: 1,
+        explanation: "Bhutan's capital is Thimphu and its currency is the Ngultrum."
+      },
+      {
+        id: "q-20261120-27",
+        format: "Direct Fact",
+        topic: "Static GK · Science",
+        question: "What does a 'Light Year' measure?",
+        options: [
+          "Time",
+          "Speed of light",
+          "Astronomical Distance",
+          "Intensity of light"
+        ],
+        answer: 2,
+        explanation: "A Light Year is the distance light travels in vacuum in one Earth year (~9.46 trillion km)."
+      },
+      {
+        id: "q-20261120-28",
+        format: "Direct Fact",
+        topic: "Static GK · Space",
+        question: "What is the Escape Velocity of Earth (minimum speed needed to break free from Earth's gravity)?",
+        options: [
+          "7.9 km/s",
+          "9.8 km/s",
+          "11.2 km/s",
+          "15.6 km/s"
+        ],
+        answer: 2,
+        explanation: "Earth's escape velocity is approximately 11.2 km/s."
+      },
+      {
+        id: "q-20261120-29",
+        format: "Direct Fact",
+        topic: "Static GK · Science",
+        question: "Which planet is the hottest in our Solar System due to its dense carbon dioxide greenhouse atmosphere?",
+        options: [
+          "Mercury",
+          "Venus",
+          "Mars",
+          "Jupiter"
+        ],
+        answer: 1,
+        explanation: "Venus is hotter than Mercury despite being farther from the Sun because of its runaway greenhouse effect."
+      },
+      {
+        id: "q-20261120-30",
+        format: "Direct Fact",
+        topic: "Static GK · Biology",
+        question: "Which natural anticoagulant protein prevents blood from clotting inside normal human blood vessels?",
+        options: [
+          "Fibrinogen",
+          "Heparin",
+          "Hemoglobin",
+          "Insulin"
+        ],
+        answer: 1,
+        explanation: "Heparin prevents blood coagulation inside blood vessels."
+      },
+      {
+        id: "q-20261120-31",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Under RBI norms, after how many days of overdue principal or interest is a bank loan classified as a Non-Performing Asset (NPA)?",
+        options: [
+          "30 days",
+          "60 days",
+          "90 days",
+          "180 days"
+        ],
+        answer: 2,
+        explanation: "A loan becomes an NPA when interest or principal remains overdue for more than 90 days."
+      },
+      {
+        id: "q-20261120-32",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Who is the Chairperson of the 16th Finance Commission of India (for the 2026–2031 period)?",
+        options: [
+          "N.K. Singh",
+          "Dr. Arvind Panagariya",
+          "Raghuram Rajan",
+          "Urjit Patel"
+        ],
+        answer: 1,
+        explanation: "Dr. Arvind Panagariya (former NITI Aayog Vice Chairman) chairs the 16th Finance Commission."
+      },
+      {
+        id: "q-20261120-33",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Where is the headquarters of IRDAI (Insurance Regulatory and Development Authority of India) located?",
+        options: [
+          "Mumbai",
+          "New Delhi",
+          "Hyderabad",
+          "Bengaluru"
+        ],
+        answer: 2,
+        explanation: "IRDAI is headquartered in Hyderabad, Telangana."
+      },
+      {
+        id: "q-20261120-34",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Which body recommends Minimum Support Prices (MSP) for 22 mandated agricultural crops in India?",
+        options: [
+          "NABARD",
+          "CACP (Commission for Agricultural Costs and Prices)",
+          "FCI",
+          "SEBI"
+        ],
+        answer: 1,
+        explanation: "CACP recommends MSPs, which are finally approved by the Cabinet Committee on Economic Affairs (CCEA)."
+      },
+      {
+        id: "q-20261120-35",
+        format: "Direct Fact",
+        topic: "Static GK · Awards",
+        question: "Which international environmental honour is popularly called the 'Green Nobel'?",
+        options: [
+          "Earthshot Prize",
+          "Goldman Environmental Prize",
+          "Ramsar Award",
+          "Tyler Prize"
+        ],
+        answer: 1,
+        explanation: "The Goldman Environmental Prize is widely known as the 'Green Nobel' for grassroots environmental defenders."
+      },
+      {
+        id: "q-20261120-36",
+        format: "Direct Fact",
+        topic: "Static GK · Awards",
+        question: "What is the top film prize awarded at the Cannes Film Festival called?",
+        options: [
+          "Golden Lion",
+          "Golden Bear",
+          "Palme d'Or",
+          "BAFTA"
+        ],
+        answer: 2,
+        explanation: "Palme d'Or (Golden Palm) is the highest prize at the Cannes Film Festival (Golden Lion = Venice; Golden Bear = Berlin)."
+      },
+      {
+        id: "q-20261120-37",
+        format: "Direct Fact",
+        topic: "Static GK · Books & Authors",
+        question: "Who wrote the famous freedom-era book 'India Wins Freedom'?",
+        options: [
+          "Jawaharlal Nehru",
+          "Maulana Abul Kalam Azad",
+          "Dr. Rajendra Prasad",
+          "Sardar Vallabhbhai Patel"
+        ],
+        answer: 1,
+        explanation: "Maulana Abul Kalam Azad (India's first Education Minister) wrote 'India Wins Freedom'."
+      },
+      {
+        id: "q-20261120-38",
+        format: "Direct Fact",
+        topic: "Static GK · Media History",
+        question: "Which was India's very first newspaper, launched in Calcutta in 1780?",
+        options: [
+          "Kesari",
+          "Amrita Bazar Patrika",
+          "Hicky's Bengal Gazette",
+          "The Hindu"
+        ],
+        answer: 2,
+        explanation: "James Augustus Hicky launched 'Bengal Gazette' in 1780, India's first printed newspaper."
+      },
+      {
+        id: "q-20261120-39",
+        format: "Match the Following",
+        topic: "Static GK · UN Agencies",
+        question: "Match the UN/Global Body with its Headquarters:\n1. UNEP — (i) Rome, Italy\n2. FAO — (ii) Nairobi, Kenya\n3. NATO — (iii) Brussels, Belgium\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(i), 2-(ii), 3-(iii)",
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(iii), 2-(i), 3-(ii)"
+        ],
+        answer: 0,
+        explanation: "UNEP = Nairobi; FAO = Rome; NATO = Brussels."
+      },
+      {
+        id: "q-20261120-40",
+        format: "Direct Fact",
+        topic: "Static GK · Global Groupings",
+        question: "Which regional union was admitted as a permanent member of the G20 during India's 2023 New Delhi Presidency?",
+        options: [
+          "ASEAN",
+          "African Union (AU)",
+          "SAARC",
+          "MERCOSUR"
+        ],
+        answer: 1,
+        explanation: "The African Union (AU) became a permanent member of the G20 at the 2023 New Delhi Summit."
+      },
+      {
+        id: "q-20261120-41",
+        format: "Direct Fact",
+        topic: "Static GK · Global Groupings",
+        question: "Which four countries are members of the QUAD (Quadrilateral Security Dialogue)?",
+        options: [
+          "India, USA, UK, France",
+          "India, USA, Japan, Australia",
+          "India, Russia, China, Brazil",
+          "India, Japan, South Korea, Singapore"
+        ],
+        answer: 1,
+        explanation: "The QUAD comprises India, the United States, Japan, and Australia."
+      },
+      {
+        id: "q-20261120-42",
+        format: "Direct Fact",
+        topic: "Static GK · States & UTs",
+        question: "How many States and Union Territories does India currently have?",
+        options: [
+          "29 States and 7 UTs",
+          "28 States and 8 UTs",
+          "28 States and 9 UTs",
+          "27 States and 8 UTs"
+        ],
+        answer: 1,
+        explanation: "India currently has 28 States and 8 Union Territories."
+      },
+      {
+        id: "q-20261120-43",
+        format: "Direct Fact",
+        topic: "Static GK · National Symbols",
+        question: "Who designed the Indian National Flag, and what is its official length-to-width ratio?",
+        options: [
+          "Bankim Chandra Chattopadhyay; 2:1",
+          "Pingali Venkayya; 3:2",
+          "Rabindranath Tagore; 4:3",
+          "Sarojini Naidu; 3:2"
+        ],
+        answer: 1,
+        explanation: "Pingali Venkayya designed the Tricolour, which has a length-to-width ratio of 3:2."
+      },
+      {
+        id: "q-20261120-44",
+        format: "Direct Fact",
+        topic: "Static GK · National Symbols",
+        question: "Which animal is recognized as the National Aquatic Animal of India?",
+        options: [
+          "Olive Ridley Turtle",
+          "Gangetic River Dolphin",
+          "Gharial",
+          "Dugong"
+        ],
+        answer: 1,
+        explanation: "The Gangetic River Dolphin is India's National Aquatic Animal."
+      },
+      {
+        id: "q-20261120-45",
+        format: "Direct Fact",
+        topic: "Static GK · Infrastructure",
+        question: "Which airport in India became the world's very first fully solar-powered airport?",
+        options: [
+          "Indira Gandhi International Airport, Delhi",
+          "Cochin International Airport, Kerala",
+          "Kempegowda International Airport, Bengaluru",
+          "Chhatrapati Shivaji Maharaj Airport, Mumbai"
+        ],
+        answer: 1,
+        explanation: "Cochin International Airport (Kochi) became the world's first fully solar-powered airport in 2015."
+      },
+      {
+        id: "q-20261120-46",
+        format: "Direct Fact",
+        topic: "Static GK · Waterways",
+        question: "National Waterway-1 (NW-1), India's longest national waterway, runs from Prayagraj to Haldia on which river system?",
+        options: [
+          "Brahmaputra",
+          "Ganga–Bhagirathi–Hooghly",
+          "Godavari–Krishna",
+          "Narmada"
+        ],
+        answer: 1,
+        explanation: "NW-1 runs 1,620 km from Prayagraj to Haldia along the Ganga–Bhagirathi–Hooghly system."
+      },
+      {
+        id: "q-20261120-47",
+        format: "Chronological Order",
+        topic: "Static GK · Environmental Laws",
+        question: "Arrange the following Indian Environmental Acts/Initiatives in chronological order (earliest to latest):\n1. Wildlife Protection Act\n2. Project Tiger\n3. Environment (Protection) Act\n4. National Green Tribunal (NGT) Act",
+        options: [
+          "1, 2, 3, 4",
+          "2, 1, 3, 4",
+          "1, 3, 2, 4",
+          "1, 2, 4, 3"
+        ],
+        answer: 0,
+        explanation: "Wildlife Protection Act (1972) -> Project Tiger (1973) -> Environment Protection Act (1986) -> NGT Act (2010)."
+      },
+      {
+        id: "q-20261120-48",
+        format: "Direct Fact",
+        topic: "Static GK · Railways",
+        question: "In which city did India's first Metro Rail system begin operations in 1984?",
+        options: [
+          "New Delhi",
+          "Mumbai",
+          "Kolkata",
+          "Chennai"
+        ],
+        answer: 2,
+        explanation: "Kolkata Metro (1984) was India's first metro rail system."
+      },
+      {
+        id: "q-20261120-49",
+        format: "Direct Fact",
+        topic: "Static GK · Ecology",
+        question: "Where was the Ramsar Convention on Wetlands of International Importance signed in 1971?",
+        options: [
+          "Geneva, Switzerland",
+          "Ramsar, Iran",
+          "Stockholm, Sweden",
+          "Nairobi, Kenya"
+        ],
+        answer: 1,
+        explanation: "The Ramsar Convention was signed in Ramsar, Iran on 2 February 1971."
+      },
+      {
+        id: "q-20261120-50",
+        format: "Statement-Based",
+        topic: "Static GK · States & Science",
+        question: "Consider the following statements:\n1. Rajasthan is the largest state in India by geographical area, while Goa is the smallest.\n2. In nuclear reactors, Heavy Water (D₂O) is used as a moderator to slow down neutrons.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct."
+      }
+    ]
+  },
+  {
     date: "2026-11-14",
     displayDate: "14 Nov 2026",
     theme: "Children's Day, CPI Inflation, IMNEX-26, Youth Boxing Gold & Science",
