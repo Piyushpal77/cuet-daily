@@ -2,6 +2,1268 @@
 // Newest day appears first. Automatically updated daily at 7:00 AM IST.
 window.CUET_MODULES = [
   {
+    date: "2026-11-22",
+    displayDate: "22 Nov 2026",
+    theme: "Project Cheetah, Core Growth 10.9%, FICCI Sports Awards, SCO Forum & Harimau Shakti",
+    currentAffairs: [
+      {
+        id: "ca-20261122-1",
+        category: "Important Days",
+        title: "World Fisheries Day 2026 Observed on 21 November (New Delhi Roots)",
+        summary:
+          "World Fisheries Day was observed on November 21 to spotlight sustainable aquaculture, aquatic biodiversity, and fishing livelihoods.",
+        keyPoints: [
+          "2026 Theme: 'Empowering People for Change: Advancing Decent Work in Fisheries and Aquaculture, Particularly for Youth and Women.'",
+          "The observance traces its origin to 1997 in New Delhi, where the World Fisheries Forum was established.",
+          "India is the world's 2nd-largest fish-producing nation (~8% of global output), with production crossing 197 lakh tonnes."
+        ],
+        examTip:
+          "Blue Revolution (Neeli Kranti) in India is associated with fish and marine product growth; Dr. Hiralal Chaudhuri & Dr. Arun Krishnan are pioneers."
+      },
+      {
+        id: "ca-20261122-2",
+        category: "Important Days",
+        title: "World Television Day 2026 Observed Globally on 21 November",
+        summary:
+          "World Television Day was marked on November 21, recognizing television's role in public communication, education, and cultural exchange.",
+        keyPoints: [
+          "Proclaimed by the UN General Assembly in December 1996 (commemorating the first World Television Forum held in 1996).",
+          "In India, Doordarshan (launched Sept 15, 1959 in Delhi) serves as the public television broadcaster under Prasar Bharati.",
+          "Television was invented by John Logie Baird (mechanical) and Philo Farnsworth (electronic)."
+        ],
+        examTip:
+          "Remember Doordarshan's motto: 'Satyam Shivam Sundaram'; Prasar Bharati Act was enacted in 1990 (established 1997)."
+      },
+      {
+        id: "ca-20261122-3",
+        category: "National & Heritage",
+        title: "PM Dedicates 'Nitish Setu' & ₹34,000 Cr Infrastructure Projects in Bihar",
+        summary:
+          "Prime Minister Narendra Modi inaugurated major connectivity projects worth over ₹34,000 crore in Bihar, led by the Nitish Setu Ganga bridge.",
+        keyPoints: [
+          "Nitish Setu is a 9.7 km six-lane cable-stayed bridge over the River Ganga connecting Kachhi Dargah to Bidupur (total length ~19.7 km with approaches).",
+          "Dramatically cuts travel time between Patna and North Bihar districts.",
+          "Ganga flows through 5 Indian states: Uttarakhand, Uttar Pradesh, Bihar, Jharkhand, and West Bengal."
+        ],
+        examTip:
+          "India's longest river bridge over water is the Bhupen Hazarika Setu (Dhola–Sadiya, 9.15 km, over Lohit river in Assam); longest sea bridge is Atal Setu (MTHL, 21.8 km, Mumbai)."
+      },
+      {
+        id: "ca-20261122-4",
+        category: "National & Heritage",
+        title: "Project Cheetah Milestone: Botswana Cheetah Gives Birth to 4 Cubs at Kuno",
+        summary:
+          "Wildlife conservation in India celebrated a major breakthrough as a Botswana-born cheetah gave birth in the wild at Kuno National Park, MP.",
+        keyPoints: [
+          "Female cheetah 'KOMG 3' (brought from Botswana) gave birth to four healthy cubs in the wild on November 20, 2026.",
+          "Marks the first Botswana-born cheetah to reproduce in the wild in India.",
+          "India's total cheetah population now stands at 62 (including 43 India-born cubs/cheetahs)."
+        ],
+        examTip:
+          "Project Cheetah was launched on September 17, 2022 at Kuno National Park (Sheopur, Madhya Pradesh) with cheetahs first brought from Namibia and South Africa."
+      },
+      {
+        id: "ca-20261122-5",
+        category: "Government Schemes",
+        title: "National HPV Vaccination Campaign Crosses 1 Crore Doses in 9 Months",
+        summary:
+          "India's nationwide campaign providing free single-dose HPV vaccines to 14-year-old girls achieved nearly 87% of its annual target.",
+        keyPoints: [
+          "Administered over 1 crore doses in less than 9 months since its launch in February 2026.",
+          "Uttar Pradesh, Bihar, and Gujarat led the states in total vaccinations administered.",
+          "HPV (Human Papillomavirus) vaccination prevents cervical cancer—the second most common cancer among women in India."
+        ],
+        examTip:
+          "India's indigenous quadrivalent HPV vaccine is 'Cervavac', developed by Serum Institute of India (Pune) with DBT."
+      },
+      {
+        id: "ca-20261122-6",
+        category: "Economy & Banking",
+        title: "Core Industries Growth Surges to Series-High 10.9% in October 2026",
+        summary:
+          "India's Eight Core Infrastructure Industries posted a sharp jump in October 2026 under the revised base-year series.",
+        keyPoints: [
+          "Core sector growth jumped to 10.9% in October 2026 (up from 8.2% in September 2026).",
+          "Driven by strong output in iron ore, coal, electricity, and cement under the revised 2022–23 base year series.",
+          "The Eight Core Industries are Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, and Electricity."
+        ],
+        examTip:
+          "The Index of Eight Core Industries (ICI) is compiled monthly by the Office of the Economic Adviser (DPIIT, Ministry of Commerce & Industry)."
+      },
+      {
+        id: "ca-20261122-7",
+        category: "Government Schemes",
+        title: "PM-eBus Sewa Payment Security Mechanism (PSM) Portal Operationalized",
+        summary:
+          "The Centre launched the ₹3,435.33 crore Payment Security Mechanism portal to de-risk electric bus operations across Indian cities.",
+        keyPoints: [
+          "Backed by ₹3,435.33 crore allocation and implemented via Convergence Energy Services Ltd (CESL).",
+          "Guarantees timely payments to e-bus operators by allowing direct debit mandates through the RBI if State Transport Undertakings (STUs) default.",
+          "PM-eBus Sewa aims to deploy 10,000 electric buses across cities on a PPP model."
+        ],
+        examTip:
+          "CESL (Convergence Energy Services Limited) is a wholly owned subsidiary of EESL (Energy Efficiency Services Limited)."
+      },
+      {
+        id: "ca-20261122-8",
+        category: "Economy & Banking",
+        title: "India's Forex Reserves Contract by $14.21B; RBI Liquidity Operations",
+        summary:
+          "Weekly RBI data tracked foreign exchange reserve movements alongside active domestic liquidity management.",
+        keyPoints: [
+          "India's foreign exchange reserves contracted by $14.21 billion in the latest weekly reporting.",
+          "RBI continued liquidity management via Variable Rate Reverse Repo (VRRR) auctions under the Liquidity Adjustment Facility (LAF).",
+          "Forex reserves help shield the Indian Rupee from sharp external volatility."
+        ],
+        examTip:
+          "LAF (Liquidity Adjustment Facility) uses Repo (injects liquidity) and Reverse Repo/SDF (absorbs liquidity) to manage short-term money market rates."
+      },
+      {
+        id: "ca-20261122-9",
+        category: "Science & Space",
+        title: "India Releases First Indigenous H5N1 Poultry Vaccine (ICAR-NIHSAD)",
+        summary:
+          "The Union Agriculture Ministry released India's first homegrown H5N1 avian influenza vaccine for poultry, strengthening farm biosecurity.",
+        keyPoints: [
+          "Developed indigenously by ICAR-NIHSAD (National Institute of High Security Animal Diseases) in Bhopal, Madhya Pradesh.",
+          "Protects poultry flocks against H5N1 (Avian Influenza / Bird Flu), reducing economic losses for farmers.",
+          "Supports India's growing agricultural and poultry export momentum."
+        ],
+        examTip:
+          "H5N1 is a viral disease (Avian Influenza); ICAR-NIHSAD is located in Bhopal, MP."
+      },
+      {
+        id: "ca-20261122-10",
+        category: "Defence & Security",
+        title: "6th India–Malaysia Joint Army Exercise 'HARIMAU SHAKTI 2026' Begins in Ipoh",
+        summary:
+          "Indian and Malaysian armies kicked off the 6th edition of bilateral Exercise HARIMAU SHAKTI in Malaysia.",
+        keyPoints: [
+          "Held in Ipoh, Malaysia through the end of November 2026.",
+          "Focuses on sub-conventional operations, jungle warfare, and counter-insurgency interoperability.",
+          "India and Malaysia also conduct the bilateral naval exercise 'Samudra Laksamana' and air exercise 'Udara Shakti'."
+        ],
+        examTip:
+          "Match bilateral exercises: Harimau Shakti = Malaysia; Garuda Shakti = Indonesia; Shakti = France; Mitra Shakti = Sri Lanka."
+      },
+      {
+        id: "ca-20261122-11",
+        category: "Defence & Security",
+        title: "Indian Navy Receives Indigenous Diving Support Craft 'DSC A21' (Yard 326)",
+        summary:
+          "The Indian Navy inducted Diving Support Craft DSC A21 to strengthen underwater inspection, repair, and salvage operations.",
+        keyPoints: [
+          "DSC A21 (Yard 326) is indigenously designed and built under the 'Aatmanirbhar Bharat' initiative.",
+          "Equipped with modern diving apparatus and decompression chambers to support naval divers in coastal waters.",
+          "Enhances harbour clearance and underwater ship-hull maintenance."
+        ],
+        examTip:
+          "Indian Navy Day is celebrated every year on December 4 (commemorating Operation Trident, 1971)."
+      },
+      {
+        id: "ca-20261122-12",
+        category: "Defence & Security",
+        title: "Indian Air Force Hosts Two-Day Air Festival at AFS Nagpur (21–22 Nov)",
+        summary:
+          "The IAF showcased precision aerobatics and combat capabilities during a grand two-day Air Festival at Air Force Station Nagpur.",
+        keyPoints: [
+          "Featured the Surya Kiran Aerobatic Team (SKAT), Sarang Helicopter Display Team, Akash Ganga Skydiving Team, and Su-30MKI fighter maneuvers.",
+          "Aimed at inspiring youth to join the Indian Air Force and showcasing aerial readiness.",
+          "Nagpur is also headquarters of the IAF's Maintenance Command."
+        ],
+        examTip:
+          "IAF's Maintenance Command is in Nagpur; Training Command is in Bengaluru; Western Air Command is in New Delhi."
+      },
+      {
+        id: "ca-20261122-13",
+        category: "Sports & Awards",
+        title: "FICCI India Sports Awards 2026: J&K Wins Best State; Kapil Dev Honoured",
+        summary:
+          "The FICCI TURF 2026 India Sports Awards celebrated grassroots sports promotion and Indian sporting legends.",
+        keyPoints: [
+          "Jammu & Kashmir won 'Best State/UT Promoting Sports' for building grassroots sports infrastructure.",
+          "Kapil Dev, Krishnamachari Srikkanth (cricket), and Bhaichung Bhutia (football) received the FICCI Living Legend Award.",
+          "Raja Randhir Singh and Shantha Rangaswamy received Lifetime Achievement Awards; Sharmila Dhankar (Female Para Sports Person) and archer Kumkum Mohod (Emerging) were also honoured."
+        ],
+        examTip:
+          "FICCI (Federation of Indian Chambers of Commerce & Industry) was founded in 1927 (HQ: New Delhi)."
+      },
+      {
+        id: "ca-20261122-14",
+        category: "International & Indices",
+        title: "First SCO Civilisational Dialogue Forum Inaugurated at Purana Qila, Delhi",
+        summary:
+          "India hosted the inaugural 3-day Shanghai Cooperation Organisation (SCO) Civilisational Dialogue Forum at Purana Qila in New Delhi.",
+        keyPoints: [
+          "Brought together culture delegates from over 20 countries to strengthen shared heritage and cultural diplomacy.",
+          "Hosted at Purana Qila (Old Fort) in New Delhi—historically associated with ancient Indraprastha and Sher Shah Suri / Humayun.",
+          "SCO (est. 2001, HQ: Beijing) includes India, China, Russia, Pakistan, Iran, Belarus, and Central Asian states."
+        ],
+        examTip:
+          "India and Pakistan became full members of the SCO in 2017 (Astana Summit); Iran joined in 2023 and Belarus in 2024."
+      },
+      {
+        id: "ca-20261122-15",
+        category: "International & Indices",
+        title: "23rd Indo-US Economic Summit Unveils Five-Point 'TRUST' Agenda",
+        summary:
+          "At the 23rd Indo-US Economic Summit in New Delhi, India outlined a five-point TRUST framework to deepen bilateral trade.",
+        keyPoints: [
+          "TRUST stands for: Trusted Supply Chains, Raising Talent, Unlocking Bharat Beyond Metros, Speaking Candidly, and Tracking Outcomes.",
+          "Focuses on resilient tech/manufacturing supply chains and Tier-2/Tier-3 city participation.",
+          "The United States is one of India's largest trading partners and top sources of FDI."
+        ],
+        examTip:
+          "Know India's major bilateral frameworks with the US: iCET (Critical & Emerging Technology) and 2+2 Ministerial Dialogue."
+      },
+      {
+        id: "ca-20261122-16",
+        category: "Government Schemes",
+        title: "5th National Skill Convocation (Kaushal Deekshant Samaroh) in Lucknow",
+        summary:
+          "PM Narendra Modi addressed graduating ITI students at the 5th National Skill Convocation in Lucknow, Uttar Pradesh.",
+        keyPoints: [
+          "Emphasized global demand for skilled youth and parity of respect between ITI (Industrial Training Institute) and IIT graduates.",
+          "Skill India Mission (Pradhan Mantri Kaushal Vikas Yojana — PMKVY) is implemented by the Ministry of Skill Development & Entrepreneurship (MSDE).",
+          "World Youth Skills Day is observed annually on July 15."
+        ],
+        examTip:
+          "NSDC (National Skill Development Corporation) works under MSDE to fund and scale vocational training across India."
+      },
+      {
+        id: "ca-20261122-17",
+        category: "Economy & Banking",
+        title: "India's 2022–23 Base Year Revision Boosts Statistical Accuracy",
+        summary:
+          "October 2026's 10.9% core industry growth reflected the newly revised 2022–23 base-year series for industrial tracking.",
+        keyPoints: [
+          "Base-year revisions update sector weights to reflect modern economic realities (like renewable power and new manufacturing).",
+          "Previously, IIP and Core Industries used 2011–12 as the base year.",
+          "Accurate base years help policymakers track real industrial momentum."
+        ],
+        examTip:
+          "IIP (Index of Industrial Production) is published monthly by NSO (MoSPI), while Core Industries Index is published by DPIIT."
+      },
+      {
+        id: "ca-20261122-18",
+        category: "National & Heritage",
+        title: "Uttar Pradesh, Bihar & Gujarat Lead India's 1 Crore HPV Vaccine Drive",
+        summary:
+          "State-level public health coordination drove rapid coverage in India's adolescent girls' cervical cancer prevention programme.",
+        keyPoints: [
+          "UP, Bihar, and Gujarat topped the national tally for single-dose HPV vaccination among 14-year-old girls.",
+          "Launched in February 2026, the drive achieved 87% of its annual target within 9 months.",
+          "Integrated with India's Universal Immunisation Programme (UIP) cold-chain infrastructure."
+        ],
+        examTip:
+          "Mission Indradhanush (launched Dec 2014) is India's flagship immunization programme for children and pregnant women."
+      },
+      {
+        id: "ca-20261122-19",
+        category: "National & Heritage",
+        title: "Kuno National Park Becomes Thriving Hub of 62 Cheetahs",
+        summary:
+          "With 43 India-born cheetahs now thriving, Kuno National Park in Madhya Pradesh marks a historic reintroduction success.",
+        keyPoints: [
+          "Cheetah (Acinonyx jubatus) was declared extinct in India in 1952 before being reintroduced in 2022.",
+          "Kuno National Park is located in the Vindhyan hills of Sheopur district, Madhya Pradesh (Kuno River flows through it).",
+          "Gandhi Sagar Wildlife Sanctuary (MP) is developed as India's second cheetah habitat."
+        ],
+        examTip:
+          "Madhya Pradesh is known as the 'Tiger State' and 'Cheetah State' of India, and has the highest number of National Parks (11+)."
+      },
+      {
+        id: "ca-20261122-20",
+        category: "Sports & Awards",
+        title: "Bhaichung Bhutia, Kapil Dev & Shantha Rangaswamy Honoured at TURF 2026",
+        summary:
+          "Indian cricket, football, and Olympic administration icons were celebrated at the FICCI TURF 2026 Sports Awards.",
+        keyPoints: [
+          "Shantha Rangaswamy was India's first Women's Test Cricket Captain (1976) and an Arjuna Awardee.",
+          "Raja Randhir Singh served as Acting/elected President of the Olympic Council of Asia (OCA).",
+          "Bhaichung Bhutia ('Sikkimese Sniper') is a former Indian football captain and Padma Shri recipient."
+        ],
+        examTip:
+          "Remember Olympic Council of Asia (OCA) HQ: Kuwait City, Kuwait."
+      }
+    ],
+    staticGK: [
+      {
+        id: "gk-20261122-1",
+        title: "Indian Polity: CAG, UPSC, Electoral Reforms & Commissions (Arts 315–338B)",
+        tag: "Polity & Constitution",
+        overview:
+          "Deep dive into India's constitutional watchdogs, electoral reforms (EVM, VVPAT, NOTA), and National Commissions.",
+        points: [
+          "UPSC & State PSCs (Articles 315–323): UPSC Chairman & members appointed by the President for 6 years or age 65 (State PSC age limit is 62). Joint PSC can be created by Parliament.",
+          "National Commission for SCs (Article 338), STs (Article 338A — added by 89th Amendment 2003), and Backward Classes (Article 338B — added by 102nd Amendment 2018).",
+          "Delimitation Commission: Redraws Lok Sabha & Assembly constituency boundaries after Census; its orders cannot be challenged in any court.",
+          "EVM & VVPAT: Electronic Voting Machines (EVMs) first used experimentally in Kerala (1982) and nationwide in 2004 Lok Sabha elections; VVPAT (Voter Verifiable Paper Audit Trail) first used in Nagaland (2013).",
+          "NOTA (None of the Above): Introduced in 2013 following the Supreme Court's PUCL vs Union of India judgment.",
+          "Representation of the People Act (RPA), 1950 & 1951: Governs voter rolls, qualifications/disqualifications of MPs/MLAs, and election disputes.",
+          "Central Vigilance Commission (CVC): Est. 1964 (Santhanam Committee), statutory status in 2003; apex anti-corruption body.",
+          "Central Information Commission (CIC): Est. under the Right to Information (RTI) Act, 2005.",
+          "National Human Rights Commission (NHRC): Statutory body est. 1993 under Protection of Human Rights Act; headed by retired CJI or SC Judge.",
+          "6th Schedule Areas: Autonomous District Councils in 4 North-Eastern states—Assam, Meghalaya, Tripura, and Mizoram ('AMTM').",
+          "5th Schedule Areas: Administration of Scheduled Areas and Tribes in states other than AMTM.",
+          "Official Language Commission (Article 344) & Special Officer for Linguistic Minorities (Article 350B)."
+        ],
+        flashcards: [
+          { q: "Which 4 states are covered under the 6th Schedule of the Indian Constitution?", a: "Assam, Meghalaya, Tripura, and Mizoram (AMTM)." },
+          { q: "Which Constitutional Amendment created the National Commission for Scheduled Tribes (Art 338A)?", a: "89th Constitutional Amendment Act, 2003." },
+          { q: "In which year was NOTA introduced in Indian elections?", a: "2013 (following the PUCL Supreme Court judgment)." },
+          { q: "On which committee's recommendation was the Central Vigilance Commission (CVC) set up?", a: "Santhanam Committee (1964)." },
+          { q: "What is the retirement age for UPSC members vs State PSC members?", a: "UPSC: 65 years; State PSC: 62 years." },
+          { q: "When was the Right to Information (RTI) Act enacted in India?", a: "2005." }
+        ]
+      },
+      {
+        id: "gk-20261122-2",
+        title: "Indian History: INC Sessions, Tribal/Peasant Revolts & Freedom Acts",
+        tag: "History & Culture",
+        overview:
+          "Landmark Indian National Congress sessions, tribal & peasant uprisings, and British constitutional Acts.",
+        points: [
+          "Santhal Rebellion (1855–56): Led by Sidhu and Kanhu Murmu in Jharkhand/Bengal against British zamindari oppression.",
+          "Indigo Revolt (1859–60, Bengal): Highlighted in Dinabandhu Mitra's play 'Nil Darpan'.",
+          "Munda Rebellion / Ulgulan (1899–1900): Led by Birsa Munda ('Dharti Aaba') in Chotanagpur; Nov 15 (his birthday) is celebrated as Janjatiya Gaurav Divas.",
+          "Bardoli Satyagraha (1928, Gujarat): Led by Vallabhbhai Patel; women of Bardoli gave him the title 'Sardar'.",
+          "Key INC Sessions: 1885 Bombay (W.C. Bonnerjee — 1st), 1907 Surat (Rash Behari Ghosh — Moderate/Extremist split), 1916 Lucknow (A.C. Majumdar — Lucknow Pact with Muslim League & reunion).",
+          "More Key INC Sessions: 1924 Belgaum (only session presided over by Mahatma Gandhi), 1925 Kanpur (Sarojini Naidu — 1st Indian woman), 1929 Lahore (Jawaharlal Nehru — 'Purna Swaraj' resolution, Jan 26 Independence pledge).",
+          "1931 Karachi Session (Sardar Patel): Adopted Fundamental Rights & National Economic Programme resolution.",
+          "1938 Haripura & 1939 Tripuri Sessions: Presided over by Subhas Chandra Bose (who later resigned and formed Forward Bloc in 1939).",
+          "Government of India Act, 1919 (Montagu-Chelmsford Reforms): Introduced Dyarchy in provinces and bicameral legislature at the Centre.",
+          "Government of India Act, 1935: Abolished provincial dyarchy, introduced Provincial Autonomy, and provided for an All-India Federation & Federal Court (1937).",
+          "Cripps Mission (1942 — 'post-dated cheque') -> Quit India Movement (1942) -> Mountbatten Plan (June 3, 1947) -> Indian Independence Act (1947).",
+          "Tripartite Struggle (8th–10th Century): Fought for control of Kannauj among Palas (Bengal), Pratiharas (Gujarat/Rajasthan), and Rashtrakutas (Deccan)."
+        ],
+        flashcards: [
+          { q: "Which was the ONLY Congress session presided over by Mahatma Gandhi?", a: "1924 Belgaum Session (Karnataka)." },
+          { q: "Whose birth anniversary (15 Nov) is celebrated as Janjatiya Gaurav Divas?", a: "Birsa Munda (leader of the Ulgulan movement)." },
+          { q: "In which INC session was the 'Purna Swaraj' (Complete Independence) resolution passed?", a: "1929 Lahore Session (presided by Jawaharlal Nehru)." },
+          { q: "During which movement did Vallabhbhai Patel earn the title 'Sardar'?", a: "Bardoli Satyagraha (1928)." },
+          { q: "Who wrote the play 'Nil Darpan' depicting the Indigo Revolt?", a: "Dinabandhu Mitra." },
+          { q: "Which three dynasties fought the Tripartite Struggle for Kannauj?", a: "Palas, Gurjara-Pratiharas, and Rashtrakutas." }
+        ]
+      },
+      {
+        id: "gk-20261122-3",
+        title: "Indian & World Geography: Tiger Reserves, Major Dams & Seaports",
+        tag: "Geography",
+        overview:
+          "Comprehensive map-based GK: India's Tiger Reserves, East vs West Coast ports, major dams, and world lakes.",
+        points: [
+          "Notable Tiger Reserves: Jim Corbett (Uttarakhand — 1st), Bandipur & Nagarhole (Karnataka), Ranthambore & Sariska (Rajasthan), Kanha & Bandhavgarh (MP), Tadoba-Andhari (Maharashtra), Simlipal (Odisha), Sunderbans (WB), Periyar (Kerala).",
+          "Largest & Smallest Tiger Reserves: Nagarjunasagar-Srisailam (AP/Telangana — largest by area); Bor (Maharashtra — smallest).",
+          "Major West Coast Seaports (Arabian Sea): Kandla/Deendayal (Gujarat — tidal port), Mumbai & JNPT (Maharashtra), Mormugao (Goa — iron ore), New Mangalore (Karnataka), Kochi (Kerala — natural harbour).",
+          "Major East Coast Seaports (Bay of Bengal): Tuticorin/V.O. Chidambaranar, Chennai (oldest artificial port) & Ennore/Kamarajar (TN), Visakhapatnam (AP — deepest landlocked port), Paradip (Odisha), Kolkata/Haldia (WB — riverine port).",
+          "Major Dams & Rivers: Bhakra Nangal (Sutlej, HP), Tehri (Bhagirathi, Uttarakhand — highest), Hirakud (Mahanadi, Odisha — longest earthen), Nagarjuna Sagar (Krishna, Telangana/AP), Mettur (Kaveri, TN), Idukki (Periyar, Kerala — arch dam).",
+          "Important Indian Passes: Karakoram & Khardung La (Ladakh), Pir Panjal & Banihal (J&K — Jawahar Tunnel), Baralacha La & Rohtang (HP — Atal Tunnel), Lipulekh (Uttarakhand), Nathu La (Sikkim).",
+          "Famous Plateaus of the World: Tibetan Plateau ('Roof of the World' — highest), Kimberley Plateau (Australia), Colorado Plateau (USA — Grand Canyon).",
+          "Highest Mountains of Continents: Asia (Everest), South America (Aconcagua), North America (Denali/McKinley), Africa (Kilimanjaro — Tanzania), Europe (Elbrus), Antarctica (Vinson Massif), Australia (Kosciuszko).",
+          "Major World Deserts & Locations: Mojave (USA), Patagonian (Argentina), Gibson & Great Victoria (Australia), Taklamakan (China), Rub' al Khali (Arabian Peninsula).",
+          "Atmospheric Circulation: Trade Winds blow from Subtropical High to Equatorial Low; Westerlies blow in mid-latitudes ('Roaring Forties', 'Furious Fifties' in Southern Hemisphere).",
+          "Types of Clouds: Cirrus (highest, feathery), Cumulus (cotton-wool), Stratus (layered), Cumulonimbus (thunderstorm & heavy rain)."
+        ],
+        flashcards: [
+          { q: "Which is the largest Tiger Reserve in India by area?", a: "Nagarjunasagar-Srisailam Tiger Reserve (Andhra Pradesh / Telangana)." },
+          { q: "Which is India's deepest landlocked seaport on the East Coast?", a: "Visakhapatnam Port (Andhra Pradesh)." },
+          { q: "On which river is the Hirakud Dam (world's longest earthen dam) built?", a: "Mahanadi River (Odisha)." },
+          { q: "Which is the highest mountain peak in Africa?", a: "Mount Kilimanjaro (Tanzania)." },
+          { q: "Which plateau is known as the 'Roof of the World'?", a: "Tibetan Plateau (Pamir Knot)." },
+          { q: "Which type of cloud causes thunderstorms and heavy rain?", a: "Cumulonimbus clouds." }
+        ]
+      },
+      {
+        id: "gk-20261122-4",
+        title: "General Science: Salts, Alloys, Radioactivity & Space Probes",
+        tag: "Science & Tech",
+        overview:
+          "Everyday chemistry compounds, radioactive decay, and iconic planetary exploration missions.",
+        points: [
+          "Important Chemical Compounds: Baking Soda = Sodium Bicarbonate (NaHCO₃); Washing Soda = Sodium Carbonate (Na₂CO₃·10H₂O); Bleaching Powder = Calcium Oxychloride (CaOCl₂); Caustic Soda = Sodium Hydroxide (NaOH).",
+          "Gypsum & Plaster of Paris (POP): Gypsum (CaSO₄·2H₂O) heated at 373K gives Plaster of Paris (CaSO₄·½H₂O — used for casts & statues).",
+          "Blue Vitriol = Copper Sulphate (CuSO₄·5H₂O); Dry Ice = Solid Carbon Dioxide (CO₂ — sublimates directly from solid to gas).",
+          "Important Alloys: Solder (Lead + Tin — low melting point), German Silver (Copper + Zinc + Nickel — contains NO Silver!), Gun Metal (Copper + Tin + Zinc), Amalgam (Mercury + another metal).",
+          "Radioactivity & Rays: Alpha rays (positively charged Helium nuclei), Beta rays (fast electrons), Gamma rays (uncharged electromagnetic waves, highest penetrating power).",
+          "Radiocarbon Dating (Carbon-14): Used to determine the age of ancient organic fossils/wood; Uranium-Lead dating is used for rocks and Earth's age.",
+          "Cobalt-60: Radioisotope used in cancer radiotherapy; Iodine-131 used for thyroid disorders.",
+          "Iconic Global Space Probes: Voyager 1 & 2 (farthest human-made objects, in interstellar space), Cassini-Huygens (Saturn), Juno (Jupiter), Perseverance & Curiosity (Mars rovers), New Horizons (Pluto).",
+          "Human Evolution & Taxonomy: Father of Taxonomy = Carl Linnaeus (Binomial Nomenclature: Homo sapiens); Theory of Natural Selection = Charles Darwin ('On the Origin of Species', 1859).",
+          "Plant Hormones: Auxin (cell elongation/phototropism), Gibberellin (stem growth), Cytokinin (cell division), Ethylene (ripening of fruits — gaseous hormone!), Abscisic Acid (growth inhibitor/wilting)."
+        ],
+        flashcards: [
+          { q: "What is the chemical formula and name of 'Dry Ice'?", a: "Solid Carbon Dioxide (CO₂)." },
+          { q: "How much Silver is present in the alloy 'German Silver'?", a: "0% (it is made of Copper, Zinc, and Nickel)." },
+          { q: "Which radioisotope is used to determine the age of ancient organic fossils?", a: "Carbon-14 (Radiocarbon dating)." },
+          { q: "Which plant hormone is gaseous and responsible for ripening of fruits?", a: "Ethylene." },
+          { q: "What is the chemical name of Plaster of Paris (POP)?", a: "Calcium Sulphate Hemihydrate (CaSO₄·½H₂O)." },
+          { q: "Who is known as the Father of Taxonomy (Binomial Nomenclature)?", a: "Carl Linnaeus." }
+        ]
+      },
+      {
+        id: "gk-20261122-5",
+        title: "Indian Economy: Five-Year Plans, Revolutions & MSME Classification",
+        tag: "Economy & Planning",
+        overview:
+          "Covers India's 12 Five-Year Plans, agricultural/industrial colour revolutions, and 1991 LPG reforms.",
+        points: [
+          "1st Five-Year Plan (1951–56): Harrod-Domar Model; focused on Agriculture & Irrigation (Bhakra Nangal, Hirakud dams).",
+          "2nd Five-Year Plan (1956–61): P.C. Mahalanobis Model; focused on Rapid Industrialization (Bhilai, Rourkela, Durgapur steel plants).",
+          "Plan Holidays (1966–69): Three annual plans due to Indo-Pak war and severe drought; Green Revolution launched.",
+          "5th Five-Year Plan (1974–78): 'Garibi Hatao' (Eradicate Poverty) slogan; terminated a year early by Janata Govt, which introduced Rolling Plan (1978–80).",
+          "1991 LPG Reforms (Liberalisation, Privatisation, Globalisation): Introduced under PM P.V. Narasimha Rao and Finance Minister Dr. Manmohan Singh.",
+          "12th Five-Year Plan (2012–17): Last Five-Year Plan; theme 'Faster, More Inclusive and Sustainable Growth' (Planning Commission replaced by NITI Aayog in 2015).",
+          "Colour Revolutions in India: Green (Foodgrains — M.S. Swaminathan), White (Milk — Verghese Kurien), Blue (Fish), Yellow (Oilseeds — Sam Pitroda), Pink (Onion/Prawns), Silver (Eggs/Poultry), Golden (Horticulture/Honey), Black (Petroleum), Grey (Fertilizers), Round (Potato).",
+          "Sectors of Economy: Primary (Agriculture, Mining, Fishing), Secondary (Manufacturing, Construction), Tertiary (Services — Banking, IT, Tourism — largest contributor to India's GDP ~54%+).",
+          "MSME Classification (Micro, Small, Medium Enterprises): Micro (Investment ≤ ₹1 Cr, Turnover ≤ ₹5 Cr), Small (Inv ≤ ₹10 Cr, Turnover ≤ ₹50 Cr), Medium (Inv ≤ ₹50 Cr, Turnover ≤ ₹250 Cr).",
+          "Maharatna PSUs: 13+ top PSUs including ONGC, NTPC, IOCL, BHEL, SAIL, Coal India, GAIL, Power Grid, BPCL, HPCL, REC, PFC, and Oil India."
+        ],
+        flashcards: [
+          { q: "Which Five-Year Plan was based on the P.C. Mahalanobis Model?", a: "2nd Five-Year Plan (1956–61, heavy industry)." },
+          { q: "Which sector contributes the largest share (~54%+) to India's GDP?", a: "Tertiary (Services) Sector." },
+          { q: "Match Yellow, Pink, and Golden Revolutions to their products.", a: "Yellow = Oilseeds; Pink = Onion/Prawns; Golden = Horticulture/Honey." },
+          { q: "Who were the PM and Finance Minister during India's 1991 LPG economic reforms?", a: "PM: P.V. Narasimha Rao; Finance Minister: Dr. Manmohan Singh." },
+          { q: "What is the turnover limit for a 'Micro' enterprise under MSME classification?", a: "Up to ₹5 Crore (with investment up to ₹1 Crore)." },
+          { q: "During which Five-Year Plan was the slogan 'Garibi Hatao' given?", a: "5th Five-Year Plan (1974–78)." }
+        ]
+      },
+      {
+        id: "gk-20261122-6",
+        title: "Awards & Sports: Hockey, Badminton, Football & Padma Rules",
+        tag: "Awards & Sports",
+        overview:
+          "Key facts on India's Olympic Hockey legacy, Badminton/Football cups, and Padma & Bharat Ratna conventions.",
+        points: [
+          "Indian Olympic Hockey Dominance: India has won 8 Olympic Gold medals in Men's Field Hockey (1928, 1932, 1936, 1948, 1952, 1956, 1964, 1980) plus Bronze in Tokyo 2020 & Paris 2024.",
+          "Men's Hockey World Cup: India won once in 1975 (Kuala Lumpur, under captain Ajit Pal Singh); Odisha hosted both 2018 and 2023 editions.",
+          "All England Open Badminton: India's two champions are Prakash Padukone (1980) and Pullela Gopichand (2001).",
+          "FIFA Football Awards: Ballon d'Or (best player globally — Lionel Messi holds record 8 wins), Golden Boot (top scorer in World Cup).",
+          "Bharat Ratna Rules: Maximum 3 awards normally per year (exception: 5 awarded in 2024 — Karpoori Thakur, L.K. Advani, P.V. Narasimha Rao, Charan Singh, M.S. Swaminathan); carries no monetary grant.",
+          "Order of Precedence: Bharat Ratna holders rank 7A in the Indian Order of Precedence.",
+          "Padma Awards Limits: Total Padma awards (excluding posthumous & foreigners) should not exceed 120 in a year.",
+          "National Film Awards: Best Feature Film ('Swarna Kamal'), Best Actor/Actress ('Rajat Kamal'); Dada Saheb Phalke Award carries ₹15 lakh.",
+          "Major Sports Venues Outside India: Lord's ('Home of Cricket', London), Melbourne Cricket Ground / MCG (Australia), Wimbledon (London), Flushing Meadows (US Open, New York)."
+        ],
+        flashcards: [
+          { q: "How many Olympic Gold medals has the Indian Men's Hockey team won?", a: "8 Gold medals (most by any country in Olympic history)." },
+          { q: "Who are the only two Indians to win the All England Open Badminton Championship?", a: "Prakash Padukone (1980) and Pullela Gopichand (2001)." },
+          { q: "In which year did India win its only Men's Hockey World Cup?", a: "1975 (in Kuala Lumpur, under captain Ajit Pal Singh)." },
+          { q: "How much cash prize is given with the Bharat Ratna award?", a: "None (it carries a Sanad/certificate and Peepal-leaf medallion, no monetary grant)." },
+          { q: "Which cricketer/footballer holds the record for most Ballon d'Or awards?", a: "Lionel Messi (8 Ballon d'Ors)." },
+          { q: "Which London stadium is famously called the 'Home of Cricket'?", a: "Lord's Cricket Ground." }
+        ]
+      },
+      {
+        id: "gk-20261122-7",
+        title: "Books, Authors & Ancient/Medieval Chronicles",
+        tag: "Books & Chronicles",
+        overview:
+          "Classic Sanskrit, Mughal, and world literary works frequently tested in UG entrance exams.",
+        points: [
+          "Baburnama (Tuzuk-i-Baburi): Autobiography of Mughal Emperor Babur, written in Chagatai Turkish.",
+          "Humayun-nama: Written by Gulbadan Begum (Humayun's sister).",
+          "Akbarnama & Ain-i-Akbari: Written in Persian by Abul Fazl (one of Akbar's Navratnas).",
+          "Tuzuk-i-Jahangiri: Autobiography of Emperor Jahangir (in Persian).",
+          "Padshahnama: Official chronicle of Shah Jahan's reign by Abdul Hamid Lahori.",
+          "Panchatantra: Ancient collection of animal fables in Sanskrit attributed to Vishnu Sharma.",
+          "Hitopadesha: Sanskrit fables compiled by Narayana Pandit.",
+          "Mudrarakshasa: Sanskrit political drama by Vishakhadatta (about Chandragupta Maurya & Chanakya).",
+          "Gita Govinda: 12th-century Sanskrit poem by Jayadeva (court poet of Lakshmana Sena of Bengal).",
+          "Mrichchhakatika ('The Little Clay Cart'): Sanskrit drama by Shudraka.",
+          "World Epics: 'The Iliad' and 'The Odyssey' (Homer — Greek); 'Divine Comedy' (Dante Alighieri — Italian); 'Paradise Lost' (John Milton)."
+        ],
+        flashcards: [
+          { q: "Who wrote 'Akbarnama' and 'Ain-i-Akbari'?", a: "Abul Fazl (in Persian)." },
+          { q: "Who wrote 'Humayun-nama'?", a: "Gulbadan Begum (Humayun's sister)." },
+          { q: "Who authored the Sanskrit fable collection 'Panchatantra'?", a: "Vishnu Sharma." },
+          { q: "Who wrote the Sanskrit drama 'Mudrarakshasa'?", a: "Vishakhadatta." },
+          { q: "Who composed 'Gita Govinda'?", a: "Jayadeva." },
+          { q: "In which language did Babur write his autobiography 'Baburnama'?", a: "Chagatai Turkish." }
+        ]
+      },
+      {
+        id: "gk-20261122-8",
+        title: "Global Environmental Treaties, Summits & Declarations",
+        tag: "Treaties & Summits",
+        overview:
+          "Must-know international climate, biodiversity, and hazardous waste conventions.",
+        points: [
+          "Stockholm Conference (1972): First UN conference on Human Environment; led to creation of UNEP and June 5 as World Environment Day.",
+          "Brundtland Report (1987, 'Our Common Future'): Popularized the definition of 'Sustainable Development'.",
+          "Rio Earth Summit (1992, Brazil): Produced Agenda 21, UNFCCC (Climate Change), CBD (Biodiversity), and UNCCD (Desertification).",
+          "Kyoto Protocol (1997, Japan — effective 2005): First legally binding targets for developed countries to cut greenhouse gases.",
+          "Paris Agreement (2015, COP21): Aims to limit global warming well below 2°C (preferably 1.5°C) above pre-industrial levels.",
+          "Kunming-Montreal Global Biodiversity Framework (2022, COP15): '30x30' target—protect 30% of Earth's land and oceans by 2030.",
+          "Nagoya Protocol (2010): Fair and equitable sharing of genetic resources (under CBD); Cartagena Protocol (2000): Biosafety of Living Modified Organisms.",
+          "Basel Convention (1989): Controls transboundary movement of hazardous wastes.",
+          "Stockholm Convention (2001): Eliminates Persistent Organic Pollutants (POPs, 'dirty dozen').",
+          "Minamata Convention (2013): Protects human health and environment from Mercury pollution."
+        ],
+        flashcards: [
+          { q: "Which 1972 conference led to the establishment of UNEP and World Environment Day (June 5)?", a: "Stockholm Conference (UN Conference on the Human Environment)." },
+          { q: "What are the three 'Rio Conventions' born out of the 1992 Earth Summit?", a: "UNFCCC (Climate), CBD (Biodiversity), and UNCCD (Desertification)." },
+          { q: "Which global convention targets Mercury pollution?", a: "Minamata Convention (2013)." },
+          { q: "What is the '30x30' target under the Kunming-Montreal Biodiversity Framework?", a: "Protect 30% of the planet's land and oceans by 2030." },
+          { q: "Which convention regulates Persistent Organic Pollutants (POPs)?", a: "Stockholm Convention (2001)." },
+          { q: "Which 1987 report popularized the term 'Sustainable Development'?", a: "Brundtland Report ('Our Common Future')." }
+        ]
+      },
+      {
+        id: "gk-20261122-9",
+        title: "Indian Handicrafts, Textiles & UNESCO World Heritage Sites",
+        tag: "Art & Textiles",
+        overview:
+          "Matches India's famous traditional textiles, embroideries, and UNESCO heritage monuments to their states.",
+        points: [
+          "Traditional Embroideries & Weaves: Chikankari (Lucknow, UP), Phulkari (Punjab), Kantha (West Bengal/Odisha), Kasuti (Karnataka), Sujni (Bihar), Zardozi (UP/MP).",
+          "Iconic Sarees & Textiles: Patan Patola (Gujarat), Paithani (Maharashtra), Chanderi & Maheshwari (MP), Sambalpuri (Odisha), Muga Silk (Assam — golden silk), Kanjeevaram (Tamil Nadu), Pochampally Ikat (Telangana).",
+          "Bandhani (Tie-and-dye): Gujarat and Rajasthan.",
+          "Recent Indian UNESCO World Heritage Sites: Kakatiya Rudreshwara / Ramappa Temple (Telangana, 2021), Dholavira (Gujarat, 2021), Santiniketan (West Bengal, 2023), Sacred Ensembles of the Hoysalas — Belur, Halebidu, Somanathapura (Karnataka, 2023), Moidams of Charaideo (Assam, 2024).",
+          "Khajuraho Group of Monuments (MP): Built by Chandela rulers (Nagara style).",
+          "Konark Sun Temple (Odisha): Built by Narasimhadeva I (Eastern Ganga dynasty, 13th century).",
+          "Rani ki Vav (Patan, Gujarat): 11th-century stepwell featured on India's ₹100 currency note.",
+          "Indian Currency Note Motifs: ₹10 (Konark Sun Temple), ₹20 (Ellora Caves), ₹50 (Hampi), ₹100 (Rani ki Vav), ₹200 (Sanchi Stupa), ₹500 (Red Fort), ₹2000 (Mangalyaan — withdrawn from circulation)."
+        ],
+        flashcards: [
+          { q: "Which UNESCO monument is depicted on India's ₹100 currency note vs ₹50 note?", a: "₹100: Rani ki Vav (Gujarat); ₹50: Hampi (Karnataka)." },
+          { q: "Where are the 'Moidams' (mound-burial system of the Ahom Dynasty, UNESCO 2024) located?", a: "Charaideo, Assam." },
+          { q: "Match Chikankari, Phulkari, and Kantha to their states.", a: "Chikankari = UP (Lucknow); Phulkari = Punjab; Kantha = West Bengal." },
+          { q: "Which dynasty built the Khajuraho temples in Madhya Pradesh?", a: "Chandela Dynasty." },
+          { q: "Which state is famous for golden 'Muga Silk'?", a: "Assam." },
+          { q: "Which monument is depicted on the ₹200 Indian currency note?", a: "Sanchi Stupa (Madhya Pradesh)." }
+        ]
+      },
+      {
+        id: "gk-20261122-10",
+        title: "Computer Awareness, Internet Protocols & Cybersecurity Basics",
+        tag: "Computer & Tech",
+        overview:
+          "Essential computer literacy terms, memory units, networking protocols, and cybersecurity concepts.",
+        points: [
+          "Memory Hierarchy (Fastest to Slowest): CPU Registers -> Cache Memory -> RAM (Primary, Volatile) -> SSD/HDD (Secondary, Non-Volatile).",
+          "Data Storage Units: 1 Byte = 8 Bits; 1 KB = 1,024 Bytes; 1 MB = 1,024 KB; 1 GB = 1,024 MB; 1 TB = 1,024 GB.",
+          "Internet Protocols: HTTP (Hypertext Transfer Protocol), HTTPS (Secure HTTP using SSL/TLS encryption), FTP (File Transfer), SMTP (sending Email), IMAP/POP3 (receiving Email).",
+          "IP Addressing: IPv4 uses 32-bit addresses (e.g., 192.168.1.1); IPv6 uses 128-bit addresses to support billions of IoT devices.",
+          "Cybersecurity Threats: Phishing (fake emails/links stealing credentials), Ransomware (encrypts files and demands ransom), Malware/Trojan Horse (disguised malicious software), DDoS (flooding servers with traffic).",
+          "Web & AI Terms: URL (Uniform Resource Locator), DNS (translates domain names to IP addresses), LLM (Large Language Model — generative AI like Gemini/GPT), IoT (Internet of Things).",
+          "Common Keyboard Shortcuts: Ctrl+C (Copy), Ctrl+V (Paste), Ctrl+Z (Undo), Ctrl+S (Save), Ctrl+F (Find).",
+          "Generations of Computers: 1st (Vacuum Tubes), 2nd (Transistors), 3rd (Integrated Circuits / ICs), 4th (Microprocessors), 5th (AI & Parallel Processing)."
+        ],
+        flashcards: [
+          { q: "What is the difference between RAM and ROM?", a: "RAM is volatile (loses data on power off); ROM is non-volatile (permanent boot instructions)." },
+          { q: "How many bits are in an IPv4 address vs an IPv6 address?", a: "IPv4: 32 bits; IPv6: 128 bits." },
+          { q: "Which protocol is used for sending emails vs viewing secure websites?", a: "Sending email: SMTP; Secure websites: HTTPS." },
+          { q: "What does 'Phishing' mean in cybersecurity?", a: "Tricking users via fake emails/messages into revealing passwords or financial details." },
+          { q: "Which electronic component defined the 1st vs 3rd generation of computers?", a: "1st Gen: Vacuum Tubes; 3rd Gen: Integrated Circuits (ICs)." },
+          { q: "What does DNS stand for and do?", a: "Domain Name System — translates human-readable domain names into IP addresses." }
+        ]
+      }
+    ],
+    questions: [
+      {
+        id: "q-20261122-1",
+        format: "Direct Fact",
+        topic: "Current Affairs · Important Days",
+        question: "World Fisheries Day is observed on 21 November, tracing its origin to the 1997 World Fisheries Forum established in which city?",
+        options: [
+          "Rome",
+          "New Delhi",
+          "Tokyo",
+          "Geneva"
+        ],
+        answer: 1,
+        explanation: "World Fisheries Day traces its roots to 1997 in New Delhi, where the World Fisheries Forum was established."
+      },
+      {
+        id: "q-20261122-2",
+        format: "Direct Fact",
+        topic: "Current Affairs · National",
+        question: "The recently inaugurated 'Nitish Setu' in Bihar is a 9.7 km six-lane cable-stayed bridge built over which river?",
+        options: [
+          "Kosi",
+          "Gandak",
+          "Ganga",
+          "Son"
+        ],
+        answer: 2,
+        explanation: "Nitish Setu is a six-lane cable-stayed bridge over the River Ganga connecting Kachhi Dargah to Bidupur."
+      },
+      {
+        id: "q-20261122-3",
+        format: "Direct Fact",
+        topic: "Current Affairs · Environment",
+        question: "With the first Botswana-born cheetah giving birth to four cubs in the wild at Kuno National Park, India's total cheetah population has reached:",
+        options: [
+          "38",
+          "48",
+          "62",
+          "75"
+        ],
+        answer: 2,
+        explanation: "The birth of four cubs to Botswana cheetah KOMG 3 pushed India's total cheetah population to 62."
+      },
+      {
+        id: "q-20261122-4",
+        format: "Direct Fact",
+        topic: "Current Affairs · Health",
+        question: "India's national single-dose vaccination campaign for 14-year-old girls (crossing 1 crore doses) targets the prevention of which disease?",
+        options: [
+          "Tuberculosis",
+          "Cervical Cancer (via HPV vaccine)",
+          "Hepatitis B",
+          "Dengue"
+        ],
+        answer: 1,
+        explanation: "The national HPV vaccination campaign protects adolescent girls against Human Papillomavirus (HPV), preventing cervical cancer."
+      },
+      {
+        id: "q-20261122-5",
+        format: "Direct Fact",
+        topic: "Current Affairs · Economy",
+        question: "India's Eight Core Infrastructure Industries surged to a series-high growth rate of what percentage in October 2026?",
+        options: [
+          "6.5%",
+          "8.2%",
+          "10.9%",
+          "12.4%"
+        ],
+        answer: 2,
+        explanation: "Core industries growth surged to 10.9% in October 2026 under the revised 2022–23 base year series."
+      },
+      {
+        id: "q-20261122-6",
+        format: "Direct Fact",
+        topic: "Current Affairs · Science & Agriculture",
+        question: "Where is ICAR-NIHSAD located, which recently developed India's first indigenous H5N1 vaccine for poultry?",
+        options: [
+          "Pune",
+          "Bhopal",
+          "Hyderabad",
+          "Karnal"
+        ],
+        answer: 1,
+        explanation: "ICAR-NIHSAD (National Institute of High Security Animal Diseases) is located in Bhopal, Madhya Pradesh."
+      },
+      {
+        id: "q-20261122-7",
+        format: "Direct Fact",
+        topic: "Current Affairs · Schemes",
+        question: "Which agency is implementing the ₹3,435.33 crore PM-eBus Sewa Payment Security Mechanism (PSM) portal?",
+        options: [
+          "NHAI",
+          "Convergence Energy Services Ltd (CESL)",
+          "IRCTC",
+          "SIDBI"
+        ],
+        answer: 1,
+        explanation: "The PM-eBus Sewa PSM portal is implemented via Convergence Energy Services Ltd (CESL)."
+      },
+      {
+        id: "q-20261122-8",
+        format: "Direct Fact",
+        topic: "Current Affairs · Defence",
+        question: "The 6th edition of the joint military exercise 'HARIMAU SHAKTI 2026' commenced in Ipoh between India and which country?",
+        options: [
+          "Indonesia",
+          "Malaysia",
+          "Thailand",
+          "Singapore"
+        ],
+        answer: 1,
+        explanation: "Exercise Harimau Shakti is a bilateral army exercise between India and Malaysia."
+      },
+      {
+        id: "q-20261122-9",
+        format: "Direct Fact",
+        topic: "Current Affairs · Defence",
+        question: "Which city hosted the Indian Air Force's two-day Air Festival on 21–22 November 2026 featuring the Surya Kiran and Sarang teams?",
+        options: [
+          "Bengaluru",
+          "Nagpur",
+          "Jodhpur",
+          "Hindon"
+        ],
+        answer: 1,
+        explanation: "The IAF Air Festival was held at Air Force Station Nagpur."
+      },
+      {
+        id: "q-20261122-10",
+        format: "Direct Fact",
+        topic: "Current Affairs · Sports & Awards",
+        question: "At the FICCI India Sports Awards 2026 (TURF 2026), which State/UT won the award for 'Best State/UT Promoting Sports'?",
+        options: [
+          "Odisha",
+          "Haryana",
+          "Jammu & Kashmir",
+          "Tamil Nadu"
+        ],
+        answer: 2,
+        explanation: "The Government of Jammu & Kashmir won 'Best State/UT Promoting Sports' at FICCI TURF 2026."
+      },
+      {
+        id: "q-20261122-11",
+        format: "Direct Fact",
+        topic: "Current Affairs · Sports & Awards",
+        question: "Who among the following received the FICCI Living Legend Award alongside Kapil Dev and Krishnamachari Srikkanth at TURF 2026?",
+        options: [
+          "Sunil Chhetri",
+          "Bhaichung Bhutia",
+          "Pullela Gopichand",
+          "Abhinav Bindra"
+        ],
+        answer: 1,
+        explanation: "Football icon Bhaichung Bhutia received the FICCI Living Legend Award alongside Kapil Dev and K. Srikkanth."
+      },
+      {
+        id: "q-20261122-12",
+        format: "Direct Fact",
+        topic: "Current Affairs · International",
+        question: "Where was the inaugural 3-day SCO (Shanghai Cooperation Organisation) Civilisational Dialogue Forum held in New Delhi?",
+        options: [
+          "Red Fort",
+          "Purana Qila",
+          "Humayun's Tomb",
+          "Qutb Minar"
+        ],
+        answer: 1,
+        explanation: "The first SCO Civilisational Dialogue Forum was inaugurated at Purana Qila in New Delhi."
+      },
+      {
+        id: "q-20261122-13",
+        format: "Direct Fact",
+        topic: "Current Affairs · Economy",
+        question: "What does the 'U' stand for in the five-point 'TRUST' agenda unveiled at the 23rd Indo-US Economic Summit?",
+        options: [
+          "Universalising Digital Payments",
+          "Unlocking Bharat Beyond Metros",
+          "Upgrading Defence Manufacturing",
+          "Unifying Tax Treaties"
+        ],
+        answer: 1,
+        explanation: "TRUST = Trusted Supply Chains, Raising Talent, Unlocking Bharat Beyond Metros, Speaking Candidly, Tracking Outcomes."
+      },
+      {
+        id: "q-20261122-14",
+        format: "Statement-Based",
+        topic: "Current Affairs · Defence & Skills",
+        question: "Consider the following statements:\n1. The Indian Navy recently received the indigenously built Diving Support Craft DSC A21.\n2. The 5th National Skill Convocation (Kaushal Deekshant Samaroh) was addressed by PM Modi in Lucknow.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 2,
+        explanation: "Both statements are correct."
+      },
+      {
+        id: "q-20261122-15",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "Which four North-Eastern states are covered under the 6th Schedule of the Indian Constitution?",
+        options: [
+          "Assam, Manipur, Nagaland, Sikkim",
+          "Assam, Meghalaya, Tripura, Mizoram",
+          "Arunachal Pradesh, Assam, Meghalaya, Manipur",
+          "Nagaland, Mizoram, Tripura, Arunachal Pradesh"
+        ],
+        answer: 1,
+        explanation: "The 6th Schedule covers Assam, Meghalaya, Tripura, and Mizoram (AMTM)."
+      },
+      {
+        id: "q-20261122-16",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "In which year was the 'None of the Above' (NOTA) option introduced in Indian elections following a Supreme Court ruling?",
+        options: [
+          "2009",
+          "2013",
+          "2016",
+          "2019"
+        ],
+        answer: 1,
+        explanation: "NOTA was introduced in 2013 following the PUCL vs Union of India judgment."
+      },
+      {
+        id: "q-20261122-17",
+        format: "Direct Fact",
+        topic: "Static GK · Polity",
+        question: "On the recommendation of which committee was the Central Vigilance Commission (CVC) established in 1964?",
+        options: [
+          "Sarkaria Committee",
+          "Santhanam Committee",
+          "Swaran Singh Committee",
+          "Kelkar Committee"
+        ],
+        answer: 1,
+        explanation: "The CVC was set up in 1964 on the recommendation of the Santhanam Committee on Prevention of Corruption."
+      },
+      {
+        id: "q-20261122-18",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Which was the ONLY annual session of the Indian National Congress presided over by Mahatma Gandhi?",
+        options: [
+          "1920 Nagpur Session",
+          "1924 Belgaum Session",
+          "1929 Lahore Session",
+          "1931 Karachi Session"
+        ],
+        answer: 1,
+        explanation: "Mahatma Gandhi presided over the INC session only once—at Belgaum (Karnataka) in 1924."
+      },
+      {
+        id: "q-20261122-19",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Whose birth anniversary on 15 November is celebrated across India as 'Janjatiya Gaurav Divas'?",
+        options: [
+          "Sidhu Murmu",
+          "Birsa Munda",
+          "Alluri Sitarama Raju",
+          "Tantya Bhil"
+        ],
+        answer: 1,
+        explanation: "15 November marks the birth anniversary of tribal freedom icon Birsa Munda."
+      },
+      {
+        id: "q-20261122-20",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "Who wrote the famous Bengali play 'Nil Darpan' depicting the exploitation of indigo farmers?",
+        options: [
+          "Bankim Chandra Chattopadhyay",
+          "Dinabandhu Mitra",
+          "Sarat Chandra Chattopadhyay",
+          "Michael Madhusudan Dutt"
+        ],
+        answer: 1,
+        explanation: "Dinabandhu Mitra authored 'Nil Darpan' (1860) during the Indigo Revolt."
+      },
+      {
+        id: "q-20261122-21",
+        format: "Direct Fact",
+        topic: "Static GK · History",
+        question: "During which 1928 peasant movement did Vallabhbhai Patel earn the title 'Sardar'?",
+        options: [
+          "Champaran Satyagraha",
+          "Kheda Satyagraha",
+          "Bardoli Satyagraha",
+          "Moplah Rebellion"
+        ],
+        answer: 2,
+        explanation: "The women of Bardoli (Gujarat) conferred the title 'Sardar' on Vallabhbhai Patel during the 1928 Bardoli Satyagraha."
+      },
+      {
+        id: "q-20261122-22",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which is the largest Tiger Reserve in India by geographical area?",
+        options: [
+          "Jim Corbett Tiger Reserve",
+          "Sundarbans Tiger Reserve",
+          "Nagarjunasagar-Srisailam Tiger Reserve",
+          "Kanha Tiger Reserve"
+        ],
+        answer: 2,
+        explanation: "Nagarjunasagar-Srisailam (spanning Andhra Pradesh and Telangana) is India's largest Tiger Reserve."
+      },
+      {
+        id: "q-20261122-23",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which is India's deepest landlocked seaport, located on the East Coast?",
+        options: [
+          "Chennai Port",
+          "Paradip Port",
+          "Visakhapatnam Port",
+          "Haldia Port"
+        ],
+        answer: 2,
+        explanation: "Visakhapatnam Port (Andhra Pradesh) is India's deepest landlocked and protected port."
+      },
+      {
+        id: "q-20261122-24",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which is the highest mountain peak on the African continent?",
+        options: [
+          "Mount Kenya",
+          "Mount Atlas",
+          "Mount Kilimanjaro",
+          "Mount Elgon"
+        ],
+        answer: 2,
+        explanation: "Mount Kilimanjaro in Tanzania (5,895 m) is Africa's highest peak."
+      },
+      {
+        id: "q-20261122-25",
+        format: "Direct Fact",
+        topic: "Static GK · Geography",
+        question: "Which type of cloud is tall, dense, and directly associated with thunderstorms and heavy rainfall?",
+        options: [
+          "Cirrus",
+          "Stratus",
+          "Cumulonimbus",
+          "Altostratus"
+        ],
+        answer: 2,
+        explanation: "Cumulonimbus clouds are towering thunderstorm clouds."
+      },
+      {
+        id: "q-20261122-26",
+        format: "Direct Fact",
+        topic: "Static GK · Chemistry",
+        question: "What is the chemical composition of 'Dry Ice'?",
+        options: [
+          "Frozen Nitrogen",
+          "Solid Carbon Dioxide (CO₂)",
+          "Frozen Methane",
+          "Calcium Oxide"
+        ],
+        answer: 1,
+        explanation: "Dry Ice is solid Carbon Dioxide (CO₂), which sublimates directly from solid to gas."
+      },
+      {
+        id: "q-20261122-27",
+        format: "Direct Fact",
+        topic: "Static GK · Chemistry",
+        question: "Which metals make up the alloy 'German Silver'?",
+        options: [
+          "Silver, Copper, and Tin",
+          "Copper, Zinc, and Nickel",
+          "Lead, Tin, and Antimony",
+          "Silver, Gold, and Copper"
+        ],
+        answer: 1,
+        explanation: "German Silver contains Copper, Zinc, and Nickel—and NO Silver at all."
+      },
+      {
+        id: "q-20261122-28",
+        format: "Direct Fact",
+        topic: "Static GK · Biology",
+        question: "Which gaseous plant hormone is responsible for the natural ripening of fruits?",
+        options: [
+          "Auxin",
+          "Gibberellin",
+          "Ethylene",
+          "Abscisic Acid"
+        ],
+        answer: 2,
+        explanation: "Ethylene (C₂H₄) is the only gaseous plant hormone and triggers fruit ripening."
+      },
+      {
+        id: "q-20261122-29",
+        format: "Direct Fact",
+        topic: "Static GK · Science",
+        question: "Which radioactive isotope is used for Carbon Dating to determine the age of ancient organic fossils?",
+        options: [
+          "Uranium-235",
+          "Cobalt-60",
+          "Carbon-14",
+          "Iodine-131"
+        ],
+        answer: 2,
+        explanation: "Carbon-14 dating measures residual C-14 in once-living organic matter."
+      },
+      {
+        id: "q-20261122-30",
+        format: "Direct Fact",
+        topic: "Static GK · Science",
+        question: "Who is known as the 'Father of Taxonomy' for introducing Binomial Nomenclature (e.g., Homo sapiens)?",
+        options: [
+          "Charles Darwin",
+          "Gregor Mendel",
+          "Carl Linnaeus",
+          "Louis Pasteur"
+        ],
+        answer: 2,
+        explanation: "Swedish botanist Carl Linnaeus introduced the two-part scientific naming system (Binomial Nomenclature)."
+      },
+      {
+        id: "q-20261122-31",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "India's 2nd Five-Year Plan (1956–61), which prioritized rapid heavy industrialization, was based on which model?",
+        options: [
+          "Harrod-Domar Model",
+          "P.C. Mahalanobis Model",
+          "Gadgil Formula",
+          "Keynesian Model"
+        ],
+        answer: 1,
+        explanation: "The 2nd Five-Year Plan was based on the P.C. Mahalanobis Model (1st Plan was Harrod-Domar)."
+      },
+      {
+        id: "q-20261122-32",
+        format: "Match the Following",
+        topic: "Static GK · Economy",
+        question: "Match the Agricultural Revolution in India with its Produce:\n1. Yellow Revolution — (i) Horticulture & Honey\n2. Pink Revolution — (ii) Oilseeds\n3. Golden Revolution — (iii) Onion & Prawns\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(iii), 2-(ii), 3-(i)"
+        ],
+        answer: 0,
+        explanation: "Yellow = Oilseeds; Pink = Onion/Prawns; Golden = Horticulture/Honey."
+      },
+      {
+        id: "q-20261122-33",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Which sector contributes the largest share (over 54%) to India's Gross Domestic Product (GDP)?",
+        options: [
+          "Primary (Agriculture & Mining)",
+          "Secondary (Manufacturing)",
+          "Tertiary (Services)",
+          "Quaternary only"
+        ],
+        answer: 2,
+        explanation: "The Tertiary (Services) sector is the largest contributor to India's GDP."
+      },
+      {
+        id: "q-20261122-34",
+        format: "Direct Fact",
+        topic: "Static GK · Economy",
+        question: "Under India's MSME classification, what is the maximum annual turnover limit for a 'Micro' enterprise?",
+        options: [
+          "₹1 Crore",
+          "₹5 Crore",
+          "₹10 Crore",
+          "₹50 Crore"
+        ],
+        answer: 1,
+        explanation: "A Micro enterprise has investment up to ₹1 Crore and turnover up to ₹5 Crore."
+      },
+      {
+        id: "q-20261122-35",
+        format: "Direct Fact",
+        topic: "Static GK · Sports",
+        question: "How many Olympic Gold medals has the Indian Men's Field Hockey team won in total?",
+        options: [
+          "5",
+          "6",
+          "8",
+          "10"
+        ],
+        answer: 2,
+        explanation: "India has won 8 Olympic Gold medals in Men's Field Hockey (1928–1980), the most by any nation."
+      },
+      {
+        id: "q-20261122-36",
+        format: "Direct Fact",
+        topic: "Static GK · Sports",
+        question: "Who are the only two Indian badminton players to have won the prestigious All England Open Championship?",
+        options: [
+          "Saina Nehwal and P.V. Sindhu",
+          "Prakash Padukone and Pullela Gopichand",
+          "Kidambi Srikanth and Lakshya Sen",
+          "Syed Modi and Chetan Anand"
+        ],
+        answer: 1,
+        explanation: "Prakash Padukone (1980) and Pullela Gopichand (2001) are India's only All England Open champions."
+      },
+      {
+        id: "q-20261122-37",
+        format: "Match the Following",
+        topic: "Static GK · Books & Chronicles",
+        question: "Match the Medieval/Ancient Text with its Author:\n1. Akbarnama — (i) Vishnu Sharma\n2. Humayun-nama — (ii) Abul Fazl\n3. Panchatantra — (iii) Gulbadan Begum\nSelect the correct match:",
+        options: [
+          "1-(ii), 2-(iii), 3-(i)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(ii), 2-(i), 3-(iii)",
+          "1-(iii), 2-(ii), 3-(i)"
+        ],
+        answer: 0,
+        explanation: "Akbarnama = Abul Fazl; Humayun-nama = Gulbadan Begum; Panchatantra = Vishnu Sharma."
+      },
+      {
+        id: "q-20261122-38",
+        format: "Direct Fact",
+        topic: "Static GK · Books",
+        question: "In which language did Mughal Emperor Babur write his autobiography 'Baburnama' (Tuzuk-i-Baburi)?",
+        options: [
+          "Persian",
+          "Arabic",
+          "Chagatai Turkish",
+          "Urdu"
+        ],
+        answer: 2,
+        explanation: "Babur wrote his memoirs in his native Chagatai Turkish (later translated into Persian during Akbar's reign)."
+      },
+      {
+        id: "q-20261122-39",
+        format: "Direct Fact",
+        topic: "Static GK · Treaties",
+        question: "Which international convention specifically aims to protect human health and the environment from Mercury pollution?",
+        options: [
+          "Basel Convention",
+          "Stockholm Convention",
+          "Minamata Convention",
+          "Vienna Convention"
+        ],
+        answer: 2,
+        explanation: "The Minamata Convention on Mercury (2013) is named after Minamata, Japan."
+      },
+      {
+        id: "q-20261122-40",
+        format: "Chronological Order",
+        topic: "Static GK · Environment Summits",
+        question: "Arrange the following global environmental milestones in chronological order (earliest to latest):\n1. Stockholm Conference (UNEP formed)\n2. Rio Earth Summit\n3. Kyoto Protocol\n4. Paris Climate Agreement",
+        options: [
+          "1, 2, 3, 4",
+          "2, 1, 3, 4",
+          "1, 3, 2, 4",
+          "1, 2, 4, 3"
+        ],
+        answer: 0,
+        explanation: "Stockholm (1972) -> Rio Earth Summit (1992) -> Kyoto Protocol (1997) -> Paris Agreement (2015)."
+      },
+      {
+        id: "q-20261122-41",
+        format: "Match the Following",
+        topic: "Static GK · Indian Textiles",
+        question: "Match the Traditional Embroidery/Textile with its State:\n1. Chikankari — (i) Punjab\n2. Phulkari — (ii) West Bengal\n3. Kantha — (iii) Uttar Pradesh\nSelect the correct match:",
+        options: [
+          "1-(iii), 2-(i), 3-(ii)",
+          "1-(i), 2-(iii), 3-(ii)",
+          "1-(iii), 2-(ii), 3-(i)",
+          "1-(ii), 2-(i), 3-(iii)"
+        ],
+        answer: 0,
+        explanation: "Chikankari = Lucknow (UP); Phulkari = Punjab; Kantha = West Bengal."
+      },
+      {
+        id: "q-20261122-42",
+        format: "Direct Fact",
+        topic: "Static GK · Heritage & Currency",
+        question: "Which UNESCO World Heritage stepwell in Gujarat is depicted on the reverse of India's ₹100 currency note?",
+        options: [
+          "Adalaj Stepwell",
+          "Rani ki Vav",
+          "Chand Baori",
+          "Agrasen ki Baoli"
+        ],
+        answer: 1,
+        explanation: "Rani ki Vav (Patan, Gujarat) is featured on the ₹100 note (Hampi on ₹50, Sanchi Stupa on ₹200, Red Fort on ₹500)."
+      },
+      {
+        id: "q-20261122-43",
+        format: "Direct Fact",
+        topic: "Static GK · Heritage",
+        question: "The 'Moidams'—the mound-burial system of the Ahom Dynasty inscribed as a UNESCO World Heritage Site in 2024—are located in:",
+        options: [
+          "Manipur",
+          "Assam",
+          "Tripura",
+          "Odisha"
+        ],
+        answer: 1,
+        explanation: "The Moidams of the Ahom Dynasty are located at Charaideo in Assam."
+      },
+      {
+        id: "q-20261122-44",
+        format: "Direct Fact",
+        topic: "Static GK · Heritage",
+        question: "Which state is famous for producing golden 'Muga Silk'?",
+        options: [
+          "Karnataka",
+          "Assam",
+          "Tamil Nadu",
+          "Jammu & Kashmir"
+        ],
+        answer: 1,
+        explanation: "Assam is world-famous for GI-tagged golden Muga Silk."
+      },
+      {
+        id: "q-20261122-45",
+        format: "Direct Fact",
+        topic: "Static GK · Computer",
+        question: "Which type of computer memory is 'volatile' (loses its stored data when power is turned off)?",
+        options: [
+          "ROM",
+          "RAM",
+          "SSD",
+          "Hard Disk Drive"
+        ],
+        answer: 1,
+        explanation: "RAM (Random Access Memory) is volatile; ROM, SSD, and HDD are non-volatile."
+      },
+      {
+        id: "q-20261122-46",
+        format: "Direct Fact",
+        topic: "Static GK · Computer",
+        question: "How many bits are used in an IPv4 address vs an IPv6 address?",
+        options: [
+          "16 bits and 64 bits",
+          "32 bits and 128 bits",
+          "64 bits and 256 bits",
+          "8 bits and 32 bits"
+        ],
+        answer: 1,
+        explanation: "IPv4 uses 32-bit addresses, whereas IPv6 uses 128-bit addresses."
+      },
+      {
+        id: "q-20261122-47",
+        format: "Direct Fact",
+        topic: "Static GK · Computer",
+        question: "Which internet protocol is specifically used for sending outgoing emails?",
+        options: [
+          "HTTP",
+          "FTP",
+          "SMTP",
+          "DNS"
+        ],
+        answer: 2,
+        explanation: "SMTP (Simple Mail Transfer Protocol) is used to send outgoing emails."
+      },
+      {
+        id: "q-20261122-48",
+        format: "Direct Fact",
+        topic: "Static GK · Computer",
+        question: "Which electronic component characterized the 1st generation of computers (1940s–1950s)?",
+        options: [
+          "Transistors",
+          "Vacuum Tubes",
+          "Integrated Circuits",
+          "Microprocessors"
+        ],
+        answer: 1,
+        explanation: "1st Gen = Vacuum Tubes; 2nd Gen = Transistors; 3rd Gen = Integrated Circuits; 4th Gen = Microprocessors."
+      },
+      {
+        id: "q-20261122-49",
+        format: "Assertion & Reason",
+        topic: "Static GK · Economy",
+        question: "Assertion (A): The Reserve Bank of India uses Repo and Reverse Repo/SDF under the Liquidity Adjustment Facility (LAF).\nReason (R): Adjusting these rates helps manage short-term liquidity and control inflation in the economy.\nChoose the correct option:",
+        options: [
+          "Both A and R are true, and R is the correct explanation of A",
+          "Both A and R are true, but R is not the correct explanation of A",
+          "A is true, but R is false",
+          "A is false, but R is true"
+        ],
+        answer: 0,
+        explanation: "LAF tools (Repo & Reverse Repo/SDF) are the RBI's primary instruments for managing banking liquidity and monetary policy."
+      },
+      {
+        id: "q-20261122-50",
+        format: "Statement-Based",
+        topic: "Static GK · History & Polity",
+        question: "Consider the following statements:\n1. The Khajuraho Group of Monuments in Madhya Pradesh was built by the Chandela rulers.\n2. The Bharat Ratna award carries a cash prize of ₹25 lakh.\nWhich of the statements given above is/are correct?",
+        options: [
+          "Only 1",
+          "Only 2",
+          "Both 1 and 2",
+          "Neither 1 nor 2"
+        ],
+        answer: 0,
+        explanation: "Statement 1 is correct. Statement 2 is incorrect because Bharat Ratna carries no monetary grant (₹25 lakh is for Major Dhyan Chand Khel Ratna)."
+      }
+    ]
+  },
+  {
     date: "2026-11-20",
     displayDate: "20 Nov 2026",
     theme: "Earthshot Mumbai, Cyclone Akvan, APEC 2026, AIIMS Milestone & World Children's Day",
